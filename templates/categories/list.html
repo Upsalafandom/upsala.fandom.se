@@ -1,0 +1,21 @@
+{% extends "index.html" %}
+
+{% import "macros.html" as macros %}
+
+{% block pageheader %}
+{{ macros::page_header(title="Categories") }}
+{% endblock pageheader %}
+
+{% block content %}
+{% if terms %}
+<div>
+    <ul>
+        {% for term in terms %}
+        <li>
+            <p><a href="{{ term.permalink | safe }}">{{ term.name }}</a> ({{ term.pages | length }})</p>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
+{% endblock content %}

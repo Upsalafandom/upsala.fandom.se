@@ -1,0 +1,128 @@
+{% import "macros.html" as macros %}
+
+<!DOCTYPE html>
+<html lang="{% if page.extra.language %}{{ page.extra.language }}{% else %}{{ config.default_language }}{% endif %}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ get_url(path="style.css") }}">
+
+    <link href="{{ get_url(path="favicon.ico") }}" rel="icon">
+    <link href="{{ get_url(path="favicon-16x16.png") }}" rel="icon" sizes="16x16">
+    <link href="{{ get_url(path="favicon-96x96.png") }}" rel="icon" sizes="96x96">
+    <link href="{{ get_url(path="favicon-192x192.png") }}" rel="icon" sizes="192x192">
+    <link href="{{ get_url(path="favicon-32x32.png") }}" rel="icon" sizes="32x32">
+
+    {% if page %}
+    <title>{{ page.title }} – {{ config.title }}</title>
+    {% elif section and section.title %}
+    <title>{{ section.title }} – {{ config.title }}</title>
+    {% else %}
+    <title>{{ config.title }}</title>
+    {% endif %}
+
+    <link rel="alternate" type="application/rss+xml" title="{{ config.title }} RSS"
+        href="{{ get_url(path="rss.xml") }}" />
+    {% block extra_head_feed_links %}{% endblock extra_head_feed_links %}
+
+    <link rel="sitemap" type="application/xml" title="{{config.title}} Sitemap"
+        href="{{ get_url(path="sitemap.xml") }}" />
+
+    <link rel="me" href="https://mastodon.sdf.org/@bkhl" />
+
+    <meta name="description" content="{{ config.description }}" />
+</head>
+
+<body>
+    {% if current_path and current_path == "/" %}
+    <header>
+        <h1>{{ config.title }}</h1>
+        <p>{{ config.description }}</p>
+    </header>
+    {% else %}
+    <header>
+        <p><a href="{{ get_url(path="") }}">{{ config.title }}</a></p>
+    </header>
+    {% endif %}
+
+    <main>
+        {% block pageheader %}{% endblock pageheader %}
+
+        {% block content %}
+        <h1>Om oss</h1>
+
+        <p>Upsalafandom är en fristående del i det världsomspännande nätverk som kallas science fiction-fandom, vi som
+            inte nöjer oss med att gilla sf och fantasy ensamma i läsfåtöljen utan vill träffa andra med samma intresse
+            – på <a href="__PREFIX__/bokprat/">bokpratarmöten</a>, dvd-tittningar, <a
+                href="__PREFIX__/pubmoten/">pubträffar</a>, antikvariatsrundor och sf-festivaler.</p>
+
+        <p>Navet i verksamheten är de <a title="Pubmöten" href="__PREFIX__/pubmoten/">pubmöten</a> som v håller första
+            helgfria tisdagen varje månad. De hålls på <a href="https://oneillsirishpub.se/">O'Neill's Irish Pub</a> på
+            Dragarbrunnsgatan 53, från kl. 18.00 och framåt. Dessa möten har vi hållit utan uppehåll sedan januari 1997.
+            Kom förbi och ta en matbit och ett glas öl eller juice tillsammans med oss!</p>
+
+        <img title="Upsalafandom" alt="" src="__PREFIX__/fandom.jpg" />
+
+        <p>Inom gruppen finns både de som i första hand är intresserade av science fiction och de som i första hand är
+            intresserade av umgänget i sig. Det gemensamma intresset för fantastisk litteratur bildar bakgrund till vår
+            verksamhet. Det innebär inte att vi tycker att sf är det viktigaste i våra liv, men det är för att vi
+            fascineras
+            eller har fascinerats av science fiction eller fantasy som vi började umgås.</p>
+        {% endblock content %}
+    </main>
+
+    <footer>
+        <nav>
+            {% if paginator or page.later or page.earlier %}
+            <section>
+                <h4>Navigation</h4>
+                <ul>
+                    {% if paginator %}
+                    {% if paginator.previous %}
+                    <li><a href=" {{ paginator.previous }}" rel="prev">Previous</a></li>
+                    {% endif %}
+                    {% if paginator.next %}
+                    <li><a href=" {{ paginator.next }}" rel="next">Next</a></li>
+                    {% endif %}
+                    {% else %}
+                    {% if page.later %}
+                    <li><a href="{{ page.later.permalink }}" rel="next">Next ({{ page.later.title }})</a></li>
+                    {% endif %}
+                    {% if page.earlier %}
+                    <li><a href="{{ page.earlier.permalink }}" rel="prev">Previous ({{ page.earlier.title }})</a></li>
+                    {% endif %}
+                    {% endif %}
+                </ul>
+            </section>
+            {% endif %}
+            <section>
+                <h4>Sidor</h4>
+                <ul>
+                    <li><a href="{{ get_url(path="blogg") }}">Blogg</a></li>
+                    <li><a href="{{ get_url(path="epostlista") }}">E-postlista</a></li>
+                    <li><a href="{{ get_url(path="kalendarium") }}">Kalendarium</a></li>
+                    <li><a href="{{ get_url(path="bokprat") }}">Bokprat</a></li>
+                    <li><a href="{{ get_url(path="fanzines") }}">Fanzines</a></li>
+                    <li><a href="{{ get_url(path="podradio") }}">Podradio</a></li>
+                    <li><a href="{{ get_url(path="pubmoten") }}">Pubmöten</a></li>
+                    <li><a href="{{ get_url(path="english") }}">In English</a></li>
+                </ul>
+            </section>
+            <section>
+                <h4>Prenumerera med RSS</h4>
+                <ul>
+                    <li><a href="{{ get_url(path="rss.xml") }}" , rel="alternate">Alla artiklar</a>
+                    </li>
+                    {% block extra_links %}{% endblock extra_links %}
+                </ul>
+            </section>
+        </nav>
+
+        <section>
+            <p>Upphovsrätt till texter och bilder på denna sida reserverad av respektive upphovsman.</p>
+        </section>
+    </footer>
+</body>
+
+</html>

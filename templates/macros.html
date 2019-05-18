@@ -1,0 +1,35 @@
+{% macro page_header(title) %}
+<header>
+    <h1>{{ title }}</h1>
+</header>
+{% endmacro page_header %}
+
+{% macro dateline(page) %}
+<p>
+    {% for category in page.taxonomies.categories %}
+    Category: <a href="{{ get_taxonomy_url(kind="categories", name=category) | safe }}">{{ category }}</a>
+    {% endfor %}
+</p>
+<p>
+    <time datetime="{{ page.date | date(format="%Y-%m-%d") }}">{{ page.date | date(format="%B %e, %Y") }}</time>
+</p>
+{% endmacro dateline %}
+
+{% macro page_in_list(page) %}
+<article>
+    <h2><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
+    {% if page.taxonomies.categories or page.date %}
+    {{ macros::dateline(page=page) }}
+    {% endif %}
+
+    {% if page.summary %}
+    {{ page.summary | safe }}
+    {% else %}
+    {{ page.content | safe }}
+    {% endif %}
+
+    {% if page.summary %}
+    <p><a href="{{ page.permalink }}#continue-reading">Continue reading</a></p>
+    {% endif %}
+</article>
+{% endmacro page_in_list %}

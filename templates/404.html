@@ -1,0 +1,13 @@
+{% extends "index.html" %}
+
+{% import "macros.html" as macros %}
+
+{% block pageheader %}
+{{ macros::page_header(title="Sidan kunde inte hittas: 404") }}
+{% endblock pageheader %}
+
+{% block content %}
+<article>
+    <p>Försök med <a href="{{ get_url(path="") }}">framsidan</a>.</p>
+</article>
+{% endblock content %}
