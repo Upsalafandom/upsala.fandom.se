@@ -80,17 +80,17 @@
                 <ul>
                     {% if paginator %}
                     {% if paginator.previous %}
-                    <li><a href=" {{ paginator.previous }}" rel="prev">Previous</a></li>
+                    <li><a href=" {{ paginator.previous }}" rel="prev">Föregående</a></li>
                     {% endif %}
                     {% if paginator.next %}
-                    <li><a href=" {{ paginator.next }}" rel="next">Next</a></li>
+                    <li><a href=" {{ paginator.next }}" rel="next">Nästa</a></li>
                     {% endif %}
                     {% else %}
                     {% if page.later %}
-                    <li><a href="{{ page.later.permalink }}" rel="next">Next ({{ page.later.title }})</a></li>
+                    <li><a href="{{ page.later.permalink }}" rel="next">Nästa ({{ page.later.title }})</a></li>
                     {% endif %}
                     {% if page.earlier %}
-                    <li><a href="{{ page.earlier.permalink }}" rel="prev">Previous ({{ page.earlier.title }})</a></li>
+                    <li><a href="{{ page.earlier.permalink }}" rel="prev">Föregående ({{ page.earlier.title }})</a></li>
                     {% endif %}
                     {% endif %}
                 </ul>

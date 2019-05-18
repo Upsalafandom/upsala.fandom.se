@@ -3,11 +3,12 @@
 {% import "macros.html" as macros %}
 
 {% block pageheader %}
-    {{ macros::page_header(title=section.title) }}
+{{ macros::page_header(title=section.title) }}
 {% endblock pageheader %}
 
 {% block content %}
-    {% for page in section.pages %}
-        {{ macros::page_in_list(page=page) }}
-    {% endfor %}
+{{ section.paginator }}
+{% for page in section.pages %}
+{{ macros::page_in_list(page=page) }}
+{% endfor %}
 {% endblock content %}

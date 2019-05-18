@@ -1,12 +1,12 @@
 title = "Upsalafandom"
 description = "Sällskap för vetenskaplig vitterhet"
 base_url = "__PREFIX__"
-highlight_code = true
-highlight_theme = "classic-modified"
 generate_rss = true
 generate_tags_pages = true
 compile_sass = true
 taxonomies = [
-    { name = "categories", rss = true, paginate_by = 10 },
+    { name = "kategorier", rss = true, paginate_by = 10 },
+    { name = "taggar", rss = true, paginate_by = 10 },
+    { name = "forfattare", rss = true, paginate_by = 10 },
 ]
 default_language = "sv"

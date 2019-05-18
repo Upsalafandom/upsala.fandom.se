@@ -6,19 +6,34 @@
 
 {% macro dateline(page) %}
 <p>
-    {% for category in page.taxonomies.categories %}
-    Category: <a href="{{ get_taxonomy_url(kind="categories", name=category) | safe }}">{{ category }}</a>
+    {% for author in page.taxonomies.forfattare %}
+    <a href="{{ get_taxonomy_url(kind="forfattare", name=author) | safe }}">{{ author }}</a>,
     {% endfor %}
+    <time datetime="{{ page.date | date(format="%Y-%m-%d") }}">{{ page.date }}</time>
 </p>
 <p>
-    <time datetime="{{ page.date | date(format="%Y-%m-%d") }}">{{ page.date | date(format="%B %e, %Y") }}</time>
+    Kategori:
+    {% for category in page.taxonomies.kategorier %}
+    <a href="{{ get_taxonomy_url(kind="kategorier", name=category) | safe }}">{{ category }}</a>
+    {%- if not loop.last -%}, {%- endif -%}
+    {% endfor %}
 </p>
 {% endmacro dateline %}
+
+{% macro tags(page) %}
+<p>
+    Taggar:
+    {% for tag in page.taxonomies.taggar %}
+    <a href="{{ get_taxonomy_url(kind="taggar", name=tag) | safe }}">{{ tag }}</a>
+    {%- if not loop.last -%}, {%- endif -%}
+    {% endfor %}
+</p>
+{% endmacro tags %}
 
 {% macro page_in_list(page) %}
 <article>
     <h2><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
-    {% if page.taxonomies.categories or page.date %}
+    {% if page.taxonomies.kategorier or page.date %}
     {{ macros::dateline(page=page) }}
     {% endif %}
 
@@ -29,7 +44,13 @@
     {% endif %}
 
     {% if page.summary %}
-    <p><a href="{{ page.permalink }}#continue-reading">Continue reading</a></p>
+    <p><a href="{{ page.permalink }}#continue-reading">Fortsätt läsa</a></p>
     {% endif %}
+
+    <footer>
+        {% if page.taxonomies.taggar %}
+        {{ macros::tags(page=page) }}
+        {% endif %}
+    </footer>
 </article>
 {% endmacro page_in_list %}
