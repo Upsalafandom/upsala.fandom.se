@@ -10,34 +10,56 @@ taggar = ["Buffy", "Joss Whedon", "evenemang", "mediefandom"]
 +++
 
 Såg följande inbjudan på en e-postlista (Fanac-listan):
-<blockquote><strong>BUFFY the Vampire Slayer MINI-CON</strong>
 
-**Tid:** Söndagen den 27 april klockan 12.00
-**Plats:** Fyrisskolan i Uppsala och dess filmsal, utrustad med stor duk
-och biografstolar.
-**Pris:** GRATIS!
-**Anmälan:** Senast torsdagen 25 april till Jhonny Therus. tel: 073-0741688, email: jtpunsch snabel-a yahoo.com
+<blockquote>
 
-<strong>Preliminärt schema</strong>
+> # BUFFY the Vampire Slayer MINI-CON
+> 
+> **Tid:** Söndagen den 27 april klockan 12.00
+> **Plats:** Fyrisskolan i Uppsala och dess filmsal, utrustad med stor duk
+> och biografstolar.
+> **Pris:** GRATIS!
+> **Anmälan:** Senast torsdagen 25 april till Jhonny Therus. tel: 073-0741688, email: jtpunsch snabel-a yahoo.com
+> 
+> ## Preliminärt schema
+> 
+> ### 12.00 - ca 14.30
+>
+> Inledning och sedan visning av serien, avsnitten:
+>
+> * Bewitched, Bothered and Bewildered. Säsong 2
+> * Doppelgängland. Säsong 3
+> * Hush. Säsong 4
+> 
+> ### 14.30 - 15.00
+>
+> Paus. Förhoppningsvis med fikaförsäljning.
+> 
+> ### 15.00 - ca 17.30
 
-<strong>12.00 - ca 14.30</strong>
-Inledning och sedan visning av serien, avsnitten:
--Bewitched, Bothered and Bewildered. Säsong 2
--Doppelgängland. Säsong 3
--Hush. Säsong 4
+> Visning av avsnitten:
+>
+> * Family. Säsong 5
+> * Tabula Rasa. Säsong 6
+> * Once More With Feeling. Säsong 6.
 
-<strong>14.30 - 15.00</strong>
-Paus. Förhoppningsvis med fikaförsäljning.
+Jättekul att det finns entusiaster som orkar hitta på sådant här, men jag kan
+inte låta bli att undra varför tv-/film-fandom verkar vara så fixerad vid att
+titta på avsnitt på duk. Alla intresserade har väl redan sett dem, både en
+och flera gånger? Det intressanta vore väl att ha diskussioner om Joss
+Whedons konstnärliga vision, föredrag om hur det gick till att spela in Buffy
+och liknande? Titta på avsnitten kan jag göra hemma.
 
-<strong>15.00 - ca 17.30</strong>
-Visning av avsnitten:
--Family. Säsong 5
--Tabula Rasa. Säsong 6
--Once More With Feeling. Säsong 6.</blockquote>
-Jättekul att det finns entusiaster som orkar hitta på sådant här, men jag kan inte låta bli att undra varför tv-/film-fandom verkar vara så fixerad vid att titta på avsnitt på duk. Alla intresserade har väl redan sett dem, både en och flera gånger? Det intressanta vore väl att ha diskussioner om Joss Whedons konstnärliga vision, föredrag om hur det gick till att spela in Buffy och liknande? Titta på avsnitten kan jag göra hemma.
+När jag går på vanliga sf-kongresser är det för att prata med andra människor
+och för att få höra diskussioner och föredrag om science fiction i olika
+former. Om programmet skulle bestå i att deltagarna alla satt i en sal och
+läste om en bok som de redan hade läst, skulle det ju vara synnerligen
+poänglöst. Det är så jag uppfattar tv-film-fandom.
 
-När jag går på vanliga sf-kongresser är det för att prata med andra människor och för att få höra diskussioner och föredrag om science fiction i olika former. Om programmet skulle bestå i att deltagarna alla satt i en sal och läste om en bok som de redan hade läst, skulle det ju vara synnerligen poänglöst. Det är så jag uppfattar tv-film-fandom.
+Sedan tycker jag i vanlig ordning att det är trist att det alltid är en
+enskild tv-serie som evenemangen handlar om; det vore mycket roligare med en
+Joss Whedon-kongress där alla hans verk diskuterades, eller en
+sf-/fantasy-tv-kongress, där alla möjliga verk inom genren diskuterades.
 
-Sedan tycker jag i vanlig ordning att det är trist att det alltid är en enskild tv-serie som evenemangen handlar om; det vore mycket roligare med en Joss Whedon-kongress där alla hans verk diskuterades, eller en sf-/fantasy-tv-kongress, där alla möjliga verk inom genren diskuterades.
-
-Nå, jag kanske går dit och ser hur evenemanget blir. Det är ju, som sagt, kul med entusiaster som tar initiativ till sådant här.
+Nå, jag kanske går dit och ser hur evenemanget blir. Det är ju, som sagt, kul
+med entusiaster som tar initiativ till sådant här.
