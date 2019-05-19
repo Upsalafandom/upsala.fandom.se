@@ -32,7 +32,7 @@ class Builder(cli.Application):
         if self.serve_locally:
             prefix = f"http://localhost:{PORT}"
         else:
-            prefix = "https://upsala.fandom.se"
+            prefix = "https://upsala.fandom.se/beta"
 
         for filepath in self.public_files_by_extension("html", "xml", "txt", "css"):
             with filepath.open() as file_object:
