@@ -6,7 +6,7 @@ date = 2008-10-09
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Intervjuer"]
-taggar = ["utbildning", "Kruse", "Dalai Lama", "Östtimor", "aktivism", "Hallstahammar", "rädda världen"]
+taggar = ["Hallstahammar", "utbildning", "Kruse", "rädda världen", "aktivism", "Östtimor", "Dalai Lama"]
 +++
 
 <em>Detta är den tredje av mina personliga intervjuer med människor inom svensk fandom eller som på annat vis är involverade i det här med sf och fantasy. Kruse föreslogs av det förra intervjuoffret, Biörn X Öqvist, med motiveringen att hon är en ganska skön person!</em>

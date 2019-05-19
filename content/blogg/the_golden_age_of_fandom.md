@@ -6,7 +6,7 @@ date = 2008-03-17
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Kåserier"]
-taggar = ["fandom", "historia", "nostalgi"]
+taggar = ["fandom", "nostalgi", "historia"]
 +++
 
 Det har tack och lov avmattats nuförtiden, men på nittiotalet gick det inte att börja diskutera fandom med någon som var runt trettio och aktiv i fandom på tidigt åttiotal utan att få höra hur fantastiskt mycket aktivare och roligare fandom var på åttiotalet. Frågan är hur väl det stämmer. Det finns ett korn av sanning i det; åttiotalets fandom bestod till stor del av tjogtals begåvade gymnasister och studenter med gott om tid och ett behov att nå ut till andra utan tillgång till andra kommunikationsmedier än det tryckta ordet. Det sjöd med andra ord av aktivitet när de här människorna lade lika mycket tid på fandom som dagens 22-åringar lägger på att titta på DVD och spela onlinespel.

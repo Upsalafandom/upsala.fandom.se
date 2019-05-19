@@ -6,7 +6,7 @@ date = 2008-10-20
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Rapporter"]
-taggar = ["Montreal", "David Brin", "vetenskap", "kongresser"]
+taggar = ["David Brin", "kongresser", "Montreal", "vetenskap"]
 +++
 
 Här kommer en sammanfattning av mina intryck från <a href="http://www.conceptsff.ca/">Con*Cept</a>.

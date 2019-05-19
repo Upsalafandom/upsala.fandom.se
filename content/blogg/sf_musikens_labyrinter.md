@@ -6,7 +6,7 @@ date = 2008-02-28
 [taxonomies]
 forfattare = ["Lennart Svensson"]
 kategorier = ["Kåserier"]
-taggar = ["Michael Moorcock", "musik", "Carl Sagan"]
+taggar = ["Carl Sagan", "musik", "Michael Moorcock"]
 +++
 
 <a href="__FIXME__/det-finns-inget-som-heter-science-fiction-musik/">Anglemarks inlägg om sf-musik</a> för ett tag sedan fick mig att fundera.

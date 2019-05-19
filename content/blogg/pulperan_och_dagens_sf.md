@@ -6,7 +6,7 @@ date = 2009-03-09
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["Jack Williamson", "Edgar Rice Burroughs", "pulperan", "Barssom"]
+taggar = ["Edgar Rice Burroughs", "pulperan", "Barssom", "Jack Williamson"]
 +++
 
 Jag har ett intresse av att lite då och då ta en titt på hur sf traditionen skapades under 20 och trettiotalen. Förvånandsvärt många av dagens typiska genreelement skapades ganska tidigt, och det är lite kul att se var de kommer ifrån. En del av dessa små literaturarekologiska utfärder gräver fram pärlor, och andra saker man helst vill glömma.

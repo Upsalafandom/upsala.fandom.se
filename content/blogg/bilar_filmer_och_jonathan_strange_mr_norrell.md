@@ -6,7 +6,7 @@ date = 2008-02-28
 [taxonomies]
 forfattare = ["Katrin"]
 kategorier = ["Kåserier"]
-taggar = ["bilar inom sf", "rysk sf", "Susanna Clarke"]
+taggar = ["Susanna Clarke", "bilar inom sf", "rysk sf"]
 +++
 
 Det är ju egentligen på Onsdagar som jag ska skriva mina blogginlägg här, men eftersom det redan ligger två Onsdagsinlägg på Bloggen tar jag och skriver nu istället...

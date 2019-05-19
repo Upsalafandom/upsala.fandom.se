@@ -5,8 +5,8 @@ date = 2009-01-21
 
 [taxonomies]
 forfattare = ["Björn"]
-kategorier = ["Rapporter", "Recensioner"]
-taggar = ["bokprat", "böcker", "skräck", "Dan Simmons"]
+kategorier = ["Recensioner", "Rapporter"]
+taggar = ["böcker", "bokprat", "skräck", "Dan Simmons"]
 +++
 
 Ikväll möttes sex belevade Upsalafans hemma hos mig för det första bokpratet i den nya serien.

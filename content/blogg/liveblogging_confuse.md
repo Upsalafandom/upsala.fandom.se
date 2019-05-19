@@ -6,7 +6,7 @@ date = 2008-06-13
 [taxonomies]
 forfattare = ["Nea"]
 kategorier = ["Rapporter"]
-taggar = ["Confuse", "böcker", "Swecon"]
+taggar = ["böcker", "Swecon", "Confuse"]
 +++
 
 Några meter till höger om mig håller Johan på att prismärka böcker för Alvarfondens antikvariats räkning. Böckerna kommer från en stor donation av (mestadels) "mjukfantasy" som Alvarfonden fick genom ett arv för en liten tid sedan. Runt bordet med böckerna står en intresserad klunga människor som ömsom kommer med spydiga kommentarer om titlar och omslag, ömsom köper böcker i stora travar och diskuterar olika författares relativa förtjänster (eller brist på förtjänster). Några meter åt andra hållet ligger den kombinerade registreringen och baren, där en annan klunga står och hänger och dricker öl och kaffe. En halvtrappa ner ligger programrummen. Just nu pågår en hedersgästintervju som jag egentligen hade tänkt gå på, men jag blev så sömnig att jag satte mig här uppe i stället.

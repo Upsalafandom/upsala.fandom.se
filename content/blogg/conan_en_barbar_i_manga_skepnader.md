@@ -6,7 +6,7 @@ date = 2008-03-21
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["Conan", "film", "serietidningar", "Robert E Howard"]
+taggar = ["film", "Conan", "Robert E Howard", "serietidningar"]
 +++
 
 Många gånger händer det att jag träffar människor som skiner upp när man nämner namnet Conan. Nästan utan undantag är nästa namn de nämner <a href="http://en.wikipedia.org/wiki/Arnold_Schwarzenegger">Arnold Schwarzenegger</a>. Han är för många synonymt med Conan. Personligen tycker jag att hans insats, i filmen som alla omedelbart tänker på, är ganska hyggligt. Filmen har samma känsla av rak äventyrsberättelse, med lite blandade stänk av olika ingredienser för att göra det exotiskt, som kännetecknar <a href="http://en.wikipedia.org/wiki/Robert_E_Howard">Robert E. Howards noveller.</a> Skulle det vara så att personen nu visat sig uppskattat filmen i fråga händer det sig också ganska ofta att de har kommit i kontakt med Conan i serietidningsform.

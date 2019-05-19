@@ -6,7 +6,7 @@ date = 2008-10-18
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Rapporter"]
-taggar = ["Montreal", "Worldcon", "kongress", "fanzines"]
+taggar = ["Montreal", "kongress", "fanzines", "Worldcon"]
 +++
 
 (Detta skrives på en snorlångsam lina och en offentlig dator utan svenska tecken.)

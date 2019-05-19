@@ -6,7 +6,7 @@ date = 2008-04-21
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Kåserier"]
-taggar = ["LibraryThing", "böcker", "bibliomani", "bibliofili"]
+taggar = ["böcker", "bibliomani", "LibraryThing", "bibliofili"]
 +++
 
 <a href="__FIXME__/manga-bocker-blir-det/" title="Många böcker blir det">Precis som i Åkas fall</a> kretsar mina tankar runt böcker för närvarande. Jag har ett både komplicerat och okomplicerat förhållande till böcker. Jag gillar böcker, jag gillar att läsa, jag gillar de fysiska exemplaren. Bibliotek var magiska platser för mig som liten, kanske för att vi inte hade några enorma mängder böcker hemma. Något hundratal, inte fler. Ganska normalt, antar jag.

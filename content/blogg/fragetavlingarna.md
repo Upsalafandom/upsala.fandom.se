@@ -6,7 +6,7 @@ date = 2013-08-07
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Rapporter"]
-taggar = ["pubmöten", "frågetävling", "quiz"]
+taggar = ["quiz", "pubmöten", "frågetävling"]
 +++
 
 Vi firade ju den 200:e pubträffen i obruten följd i går på Pipes of Scotland. Det var kul, jag räknade till 41 vuxna och ett barn, och jag kan ha missat någon. Största mötet någonsin och det överlägset största augustimötet. Av de elva som var på<a href="__FIXME__/1997/01/04/4-januari-1997/"> första mötet 4 januari 1997</a>, var tre närvarande: jag själv, Sten och Zrajm.

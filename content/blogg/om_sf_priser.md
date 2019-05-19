@@ -6,7 +6,7 @@ date = 2008-02-24
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Kåserier"]
-taggar = ["priser", "böcker", "science fiction"]
+taggar = ["böcker", "science fiction", "priser"]
 +++
 
 När den <a href="http://www.sfsignal.com/archives/006113.html">preliminära listan</a> på nomineringar till årets Nebula-pris offentliggjordes kände jag mig lite stolt över att upptäcka att jag faktiskt läst tre av böckerna i roman-kategorin: <em>Vellum</em>, <em>Mainspring</em>, och <em>Harry Potter and the Deathly Hallows</em> (den sista har jag visserligen inte avslutat ännu, men ändå). Alla tre har försvunnit på den <a href="http://www.sfsignal.com/archives/006297.html">slutliga nomineringslistan</a>, men det var detsamma.

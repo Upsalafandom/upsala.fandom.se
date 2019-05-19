@@ -6,7 +6,7 @@ date = 2008-02-22
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Kåserier"]
-taggar = ["författare", "listor", "böcker"]
+taggar = ["böcker", "författare", "listor"]
 +++
 
 "Vem är din favoritförfattare?" Hur många gånger har man inte fått den frågan och suckat lika djupt varje gång. Det är ju bra böcker man är intresserad av, inte författarna, och de bra böckerna kan man hitta varsomhelst, av vemsomhelst...

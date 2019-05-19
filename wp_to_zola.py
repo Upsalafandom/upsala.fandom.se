@@ -8,11 +8,15 @@ import re
 
 URL_RE = re.compile(r"https?://upp?sala\.fandom\.se")
 MORE_RE = re.compile(r"<!-- *more *-->\r?")
+CLASS_RE = re.compile(r'class="[^"]*"')
+EMPTY_ALT_RE = re.compile(r'alt=""')
 
 
 def clean_content(content):
     content = URL_RE.sub("__FIXME__", content)
     content = MORE_RE.sub("<!-- more -->", content)
+    content = CLASS_RE.sub("", content)
+    content = EMPTY_ALT_RE.sub("", content)
     return content
 
 

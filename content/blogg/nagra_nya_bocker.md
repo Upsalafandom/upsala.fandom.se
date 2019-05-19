@@ -6,7 +6,7 @@ date = 2008-02-17
 [taxonomies]
 forfattare = ["Jesper"]
 kategorier = ["Nyheter"]
-taggar = ["fantasy", "böcker"]
+taggar = ["böcker", "fantasy"]
 +++
 
 Det här är mitt första bidrag till Upsalafandoms blogg och jag tänkte använda det till att tipsa om några nyutgivna fantasyböcker som har fått en hel del uppmärksamhet ute i bloggosfären.

@@ -6,7 +6,7 @@ date = 2008-09-20
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["pubmöten", "ölburkstorn", "öl", "hemmabyggen"]
+taggar = ["ölburkstorn", "pubmöten", "hemmabyggen", "öl"]
 +++
 
 En del av läsarskaran har kanske hört talas om den fhaanniska bedriften att bygga ett torn till månen med hjälp av ölburkar? Jag vet inte vem som först kom på detta (kolla med <a href="http://www.alvarfonden.org/bok/sf.html">alvarfonden</a> om de har kvar <i>Fandom Harvest</i>) men det kan ha varit Terry Carr. Detta är ju bara en av de fanniska myter, legender och galna infall om folk genom tiderna tagit sig för. Jag skrev ju nyss om en annan legend, Wilson Tucker. Det finns att ta av.

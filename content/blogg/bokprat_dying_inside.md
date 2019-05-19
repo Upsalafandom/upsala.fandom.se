@@ -6,7 +6,7 @@ date = 2010-03-10
 [taxonomies]
 forfattare = ["Björn"]
 kategorier = ["Rapporter"]
-taggar = ["bokprat", "telepati", "Dying Inside", "Robert Silverberg"]
+taggar = ["bokprat", "telepati", "Robert Silverberg", "Dying Inside"]
 +++
 
 Kvällens bokprat behandlade <em>Dying Inside</em> av Robert Silverberg, som en del av vårt pågående tema, science fictions bortglömda mästare. Deltog gjorde Anna Davour, Jesper Svedberg, George Berger och jag själv.

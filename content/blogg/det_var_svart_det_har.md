@@ -6,7 +6,7 @@ date = 2008-05-27
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Kåserier"]
-taggar = ["LibraryThing", "sf-kongresser", "Angel"]
+taggar = ["Angel", "sf-kongresser", "LibraryThing"]
 +++
 
 ...att lyckas blogga kontinuerligt. Just nu är min stora fritidssysselsättning att föra över min och Linnéas bokkatalog från en FileMaker Pro-baserad databas till <a href="http://www.librarything.com/catalog/anglemark" title="LibraryThing">LibraryThing</a>. Det går ganska geschwint, men det är ett par böcker, så det tar tid. Jag upptäcker dubletter som jag inte visste om - vårt ena exemplar av Michael Crichtons <em>Det stora tågrånet</em> hade författarens namn felstavat på omslaget (<em>Chrichton</em>) och hade därför lyckats smyga sig in obemärkt i katalogen - men det är ju en av finesserna med LibraryThing: eftersom databasen noterar att olika utgåvor är samma verk så får man hjälp med att identifiera dubletter. Nu tror jag i och för sig inte att vi har så värst många fler dubletter som vi inte visste om.

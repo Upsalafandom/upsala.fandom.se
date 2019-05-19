@@ -6,7 +6,7 @@ date = 2008-07-11
 [taxonomies]
 forfattare = ["Björn"]
 kategorier = ["Recensioner"]
-taggar = ["teve", "Life on Mars", "Doctor Who", "Firefly", "Charlie Jade"]
+taggar = ["Firefly", "teve", "Life on Mars", "Charlie Jade", "Doctor Who"]
 +++
 
 I <a href="__FIXME__/riktig-sf-film/">Riktig sf-film</a> tipsade jag om några filmer som trots valet av medium är god science fiction.
@@ -15,7 +15,7 @@ Nu tänkte jag göra samma sak igen, fast med teve.
 
 <!-- more -->
 
-<a href="http://www.imdb.com/title/tt0303461/"><img class="alignnone size-medium wp-image-219" title="Firefly" src="__FIXME__/wp-content/uploads/2008/07/firefly.jpeg" alt="" width="240" height="180" /></a>
+<a href="http://www.imdb.com/title/tt0303461/"><img  title="Firefly" src="__FIXME__/wp-content/uploads/2008/07/firefly.jpeg"  width="240" height="180" /></a>
 
 <a href="http://www.imdb.com/title/tt0303461/">Firefly</a> (2002)
 
@@ -25,7 +25,7 @@ Det här är den enda USA-producerade serien i listan.
 
 Styrkan i serien ligger i dramat inom besättningen, och i den lätt humoristiska dialogen. Efter att serien lades ner gjordes en biofilm också, som blev en rejäl flopp (i min mening välförtjänt).
 
-<a href="http://www.imdb.com/title/tt0408378/"><img class="alignnone size-medium wp-image-220" title="Charlie Jade" src="__FIXME__/wp-content/uploads/2008/07/charlie_jade.jpeg" alt="" width="240" height="132" /></a>
+<a href="http://www.imdb.com/title/tt0408378/"><img  title="Charlie Jade" src="__FIXME__/wp-content/uploads/2008/07/charlie_jade.jpeg"  width="240" height="132" /></a>
 
 <a href="http://www.imdb.com/title/tt0408378/">Charlie Jade</a> (2005)
 
@@ -35,13 +35,13 @@ Mot denna bakgrund kommenterar denna kanadensisk-sydafrikanska samproduktion per
 
 Förutom sina filmiska kvaliteter har serien utmärkt musik.
 
-<a href="http://www.imdb.com/title/tt0436992/"><img class="alignnone size-medium wp-image-221" title="Doctor Who" src="__FIXME__/wp-content/uploads/2008/07/doctor_who.jpeg" alt="" width="240" height="180" /></a>
+<a href="http://www.imdb.com/title/tt0436992/"><img  title="Doctor Who" src="__FIXME__/wp-content/uploads/2008/07/doctor_who.jpeg"  width="240" height="180" /></a>
 
 <a href="http://www.imdb.com/title/tt0436992/">Doctor Who</a> (2005–)
 
 Alla känner väl till BBC:s sf-flaggskepp <em>Doctor Who</em>. Den nya serien har måhända lite högre budget än när det begav sig, men fortfarande ligger tonvikten på en intressant historia. Sedan spelar det inte så stor roll om det syns att utomjordlingarna är gjorda av gamla rengöringsmedelsflaskor.
 
-<a href="http://www.imdb.com/title/tt0478942/"><img class="alignnone size-medium wp-image-222" title="Life on Mars" src="__FIXME__/wp-content/uploads/2008/07/life_on_mars.jpeg" alt="" width="240" height="180" /></a>
+<a href="http://www.imdb.com/title/tt0478942/"><img  title="Life on Mars" src="__FIXME__/wp-content/uploads/2008/07/life_on_mars.jpeg"  width="240" height="180" /></a>
 
 <a href="http://www.imdb.com/title/tt0478942/">Life on Mars</a> (2006–2007)
 

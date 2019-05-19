@@ -6,7 +6,7 @@ date = 2008-04-06
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Kåserier"]
-taggar = ["fantasy", "böcker"]
+taggar = ["böcker", "fantasy"]
 +++
 
 Jag läste nyligen <a href="http://mycupoftea.blogsome.com/2008/03/30/stephen-donaldson-the-chronicles-of-thomas-covenant-the-unbeliever/">den här reflektionen om att läsa Stephen Donaldsons verk om Thomas Covenant</a> och mäta den mot dess rykte. Det rimmar ganska bra med en del av mina intryck av min pågående omläsning av Fionavar-trilogin av Guy Gavriel Kay. Omslagstexten säger också att det är ett verk "in the tradition of J.R.R. Tolkien and Stephen R. Donaldson."

@@ -5,7 +5,7 @@ date = 2009-05-29
 
 [taxonomies]
 forfattare = ["Anglemark"]
-kategorier = ["Inbjudningar", "Nyheter"]
+kategorier = ["Nyheter", "Inbjudningar"]
 taggar = ["Pipes of Scotland", "pubmöten", "Williams"]
 +++
 

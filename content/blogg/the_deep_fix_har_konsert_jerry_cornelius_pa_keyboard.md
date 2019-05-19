@@ -6,7 +6,7 @@ date = 2008-06-27
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["rock", "Elric", "video", "Stormbringer", "psykedelia", "Jerry Cornelius"]
+taggar = ["Stormbringer", "rock", "psykedelia", "Jerry Cornelius", "Elric", "video"]
 +++
 
 Ni minns kanske det stora party i <em>The Final Program</em> där alla som är nåt samlas och partajar med Jerry i London? <strong>The Deep Fix</strong> underhåller och Elric själv spelar keyboard!

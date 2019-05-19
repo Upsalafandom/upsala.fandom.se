@@ -6,7 +6,7 @@ date = 2008-03-20
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Kåserier"]
-taggar = ["vetenskap", "böcker"]
+taggar = ["böcker", "vetenskap"]
 +++
 
 I ett <a href="__FIXME__/vetenskap-och-sf/">tidigare inlägg</a> skrev jag om vad jag hört om <em>Hominids</em> av Robert Sawyer, bland annat att folk tycker att han tog sig stora friheter med  en person som antas ha en förebild i verkligheten.

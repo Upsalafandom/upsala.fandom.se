@@ -6,7 +6,7 @@ date = 2008-06-02
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Kåserier"]
-taggar = ["Doctor Steel", "utopier", "leksaker", "musik"]
+taggar = ["Doctor Steel", "musik", "leksaker", "utopier"]
 +++
 
 Världen innehåller för mycket dumt och dåligt. Låt oss fylla den med skoj, och vara mer lekfulla! Leksaker åt alla!

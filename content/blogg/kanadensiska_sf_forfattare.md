@@ -6,7 +6,7 @@ date = 2008-04-24
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Kåserier"]
-taggar = ["författare", "Kanada", "böcker"]
+taggar = ["böcker", "författare", "Kanada"]
 +++
 
 ***SPOILERVARNING***

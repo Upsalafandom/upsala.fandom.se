@@ -6,7 +6,7 @@ date = 2008-06-11
 [taxonomies]
 forfattare = ["Katrin"]
 kategorier = ["Kåserier"]
-taggar = ["bokaffärer", "böcker"]
+taggar = ["böcker", "bokaffärer"]
 +++
 
 De senaste två orderna jag lagt på SF-bokhandeln i Stockholm har strulat. Böcker som jag beställt har inte levererats och trots att de varit med på ordern som jag fått direkt jag beställt, har de inte kommit med resten av beställningen och inte varit med på ordern som följt med böckerna. Det här retar mig lite grann. Jag beställer oftast allt av en författare, får en stor hög med böcker och börjar plöja. Om då en bok i mitten av serien då saknas och inget syns på ordern så blir jag frustrerad.

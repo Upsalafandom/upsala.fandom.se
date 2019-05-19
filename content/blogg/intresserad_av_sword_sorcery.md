@@ -6,7 +6,7 @@ date = 2008-03-05
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Länkar"]
-taggar = ["sword &amp; sorcery", "webbmagasin", "noveller"]
+taggar = ["sword &amp; sorcery", "noveller", "webbmagasin"]
 +++
 
 Jag hittade en länk till ett magasin med s&amp;s berättelser. De finns i tryck och på nätet. Kanske kan vara värt att besöka?

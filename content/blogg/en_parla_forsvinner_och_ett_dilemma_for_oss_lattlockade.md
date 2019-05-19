@@ -6,7 +6,7 @@ date = 2008-04-25
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["frestelser", "böcker", "absurditeter"]
+taggar = ["absurditeter", "böcker", "frestelser"]
 +++
 
 Vardagens små märkligheter fortsätter att förbluffa mig. För ett litet tag sedan såg jag att en av Kingstons antikvariat hade utförsäljning och skulle läggas ner. Har man bott ett tag i Upsala så ter det ju sig otänkbart att inte vara omgiven av ett flertal ställer som säljer gamla, dammiga, rara eller bara udda böcker. På det viset är Kingstons stadskärna mycket trevlig, för här finns gott om möjligheter att titta på böcker, och att nu en av dem ska försvinna känns väldigt tråkigt. Att just detta antikvariat dessutom har en rejäl samling med fantastik är gör ju det ännu tråkigare. Nu är det halva priset på allt i butiken, och vi som inte tänk slå ner bopålarna alltför djupt frestas alltså att köpa böcker för halva priset. Hur ska man kunna motstå?

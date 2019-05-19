@@ -6,7 +6,7 @@ date = 2009-03-17
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["M.A.R. Barker", "fantasy", "R. Scott Bakker", "Tekumel", "asiatisk kultur", "Glen Cook"]
+taggar = ["fantasy", "M.A.R. Barker", "asiatisk kultur", "R. Scott Bakker", "Glen Cook", "Tekumel"]
 +++
 
 Jag satt och tittade tillbaka på vad jag läst under 2008. En av de böcker jag läste var R Scott Bakkers <em>The Darkness That Comes Before</em>. Som den del av er säker vet är det del ett i en serie om tre (i sin tur bara en bit av hela sagan, naturligtvis), som det så ofta är numera. Boken var inte en odelat positiv upplevelse, men det var inte dålig. Signifikant är kanske däremot varför jag fick för mig att läsa den. Vi hade nämnligen pratat om fantasy jag och Robert, som jag spelar rollspel med. Av okänd anledning, kan ha nåt med Steven Erikson att göra, pratade vi om fantasy som inspirerats av andra kulturer än europeisk medeltid. Då kom det sig så att jag lånade Bakkers böcker av Robert.

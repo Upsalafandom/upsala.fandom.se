@@ -6,7 +6,7 @@ date = 2008-11-27
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Kåserier"]
-taggar = ["anarkism", "organisation", "fanarki", "fandom", "Imagine", "föreningar"]
+taggar = ["fandom", "fanarki", "anarkism", "Imagine", "organisation", "föreningar"]
 +++
 
 Varför detta motstånd inom fandom mot att organisera sig? Den unga svenska fandomen var under de första åren på femtiotalet fylld av entusiastiska ungdomar som gång på gång försökte att skapa rikstäckande/skandinaviska föreningar eller federationer. Samma fenomen drabbade den amerikanska fandomen, och där lever fortfarande det mest framgångsrika försöket kvar, i form av <a title="N3F" href="http://www.n3f.org/">National Fantasy Fan Federation</a> (som inte innebär att det är en organisation för fantasy, <em>fantasy</em> var ett vanligt samlingsbegrepp på den tiden för det vi sedan några år tillbaka kallar fantastik, dvs sf, fantasy och övernaturlig skräck). Framgångsrikt, kallar jag det, och det var N3F förvisso, men det blev aldrig någon succé inom amerikansk fandom, utan började ganska snart föra ett eget liv, med medlemmar som ofta i övrigt inte hade någon kontakt med <em>mainstream fandom</em>.

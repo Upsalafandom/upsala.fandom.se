@@ -6,7 +6,7 @@ date = 2008-09-17
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["fandom", "Bob Tucker", "Jim Beam", "fanzines"]
+taggar = ["fandom", "Jim Beam", "fanzines", "Bob Tucker"]
 +++
 
 Fans i farten har naturligtvis redan läst <a href="http://www.efanzines.com/Chunga/">Chunga #14</a> där Dan Steffan skriver en minnesartikel om Bob Tucker. Jag läste den under semestern och insåg efteråt att som av en händelse var det just en flaska Jim Beam som jag köpte på flygplatsen i Amsterdam! Skål Bob!

@@ -6,7 +6,7 @@ date = 2008-07-14
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Kåserier"]
-taggar = ["identitet", "Cory Doctorow", "litteratur"]
+taggar = ["Cory Doctorow", "identitet", "litteratur"]
 +++
 
 Jag läste nyligen <a href="http://www.locusmag.com/Features/2008/07/cory-doctorow-natures-daredevils.html">en essä av Cory Doctorow om att skriva för ungdomar</a>. Han skriver där att unga människor "really use books as markers of their social identity". Det var ganska fint formulerat, även om jag inte är säker på att jag vet vad det betyder i verkligheten alla gånger. Fast jag minns en tid då jag alltid hittade naturare (såna som gick naturvetenskaplig linje på gymnasiet) vart jag än kom, och man vanligen kunde prata med dem om miniräknare (snabbt uttömt, men kärt samtalsämne) och bolla gamla skämt ur <em>Liftarens guide till galaxen</em>. De där böckerna hade verkligen ett starkt värde som gemensam referensram.

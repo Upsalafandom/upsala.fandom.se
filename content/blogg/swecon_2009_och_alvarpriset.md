@@ -5,8 +5,8 @@ date = 2008-06-14
 
 [taxonomies]
 forfattare = ["Nea"]
-kategorier = ["Rapporter", "Nyheter"]
-taggar = ["Swecon", "Alvarpriset"]
+kategorier = ["Nyheter", "Rapporter"]
+taggar = ["Alvarpriset", "Swecon"]
 +++
 
 Mer från ConFuse: <a href="http://www.imagicon.se/">Imagicon 2</a> vann budet om att bli 2009 års Swecon. Nästa års Swecon kommer alltså att hållas i Stockhom den 16-18 oktober, med Liz Williams som hedersgäst.

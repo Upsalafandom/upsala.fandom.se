@@ -6,7 +6,7 @@ date = 2008-02-20
 [taxonomies]
 forfattare = ["Katrin"]
 kategorier = ["Kåserier"]
-taggar = ["bokomslag", "böcker"]
+taggar = ["böcker", "bokomslag"]
 +++
 
 Hur ska ett bra bokomslag se ut? Det har jag ofta funderat på när det gäller SF. Ett allt för påträngande omslag kan ju få den tilltänkte bokköparen att backa medan ett allt för diskret kan få en att helt missa boken. Hur ser ett typiskt SF-omslag ut? Hur vill jag att det borde se ut? Borde? Mja, jag har som sagt funderingar men absolut inga självklara svar.

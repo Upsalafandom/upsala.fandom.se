@@ -6,7 +6,7 @@ date = 2008-03-11
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Kåserier"]
-taggar = ["vetenskap", "hård sf", "detektorer"]
+taggar = ["hård sf", "detektorer", "vetenskap"]
 +++
 
 Det slog mig plötsligt att jag jobbar på ett ställe som finns med i en sf-roman. I Uppsala jobbade jag med data från en detektor som också finns med i en sf-roman. Hur ska jag kunna fortsätta härifrån? Hur ska jag kunna hitta något nytt jobb som lever upp till den här underliga standarden? Kanske blir jag tvungen att skriva en egen sf-roman.

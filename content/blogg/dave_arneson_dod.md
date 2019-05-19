@@ -6,7 +6,7 @@ date = 2009-04-09
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Minnesrunor"]
-taggar = ["rollspel", "BNF", "Dave Arneson", "Blackmoor"]
+taggar = ["rollspel", "Dave Arneson", "BNF", "Blackmoor"]
 +++
 
 <p align="center"><img src="http://upload.wikimedia.org/wikipedia/commons/c/c8/Dave_Arneson.png"></p>

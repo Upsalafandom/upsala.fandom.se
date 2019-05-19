@@ -6,7 +6,7 @@ date = 2008-02-25
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Kåserier"]
-taggar = ["bluffar", "böcker"]
+taggar = ["böcker", "bluffar"]
 +++
 
 Något som roar mig storligen är lärda bluffar. De är inte bara roliga att läsa om, utan det finns något alternativhistoriskt över dem. Tanken spinner loss och man börjar fundera på hur det hade varit om den eller den boken verkligen hade funnits. Och man börjar planera sina egna ståtliga förfalskningar. (Ni har glömt det här inlägget den dag jag hittar Strindbergs okända uppföljare till Fröken Julie uppe på vinden, va?) Inte bara en intellektuell lek, utan också en utmaning för händerna. Detta blir lättare i framtiden, när originalen är elektroniska, eller så kanske dör genren ut eftersom det aldrig går att bevisa något.

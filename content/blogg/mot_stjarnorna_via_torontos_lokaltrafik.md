@@ -5,7 +5,7 @@ date = 2008-03-31
 
 [taxonomies]
 forfattare = ["Åka"]
-kategorier = ["Rapporter", "Kåserier"]
+kategorier = ["Kåserier", "Rapporter"]
 taggar = ["kongresser"]
 +++
 

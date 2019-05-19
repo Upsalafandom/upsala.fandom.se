@@ -6,7 +6,7 @@ date = 2008-02-26
 [taxonomies]
 forfattare = ["Björn"]
 kategorier = ["Kåserier"]
-taggar = ["bokaffärer", "böcker"]
+taggar = ["böcker", "bokaffärer"]
 +++
 
 Igår blev jag sugen på att konsumera lite rymdopera, men det fanns ingen i min hylla att läsa. Följaktligen promenerade jag ner till <a href="http://www.ueb.se/">The UEB</a> och såg efter vad de hade inne. Min första plan var Iain M. Banks nyutgivna <em>Matter</em>, men den hade de sålt slut av.

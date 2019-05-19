@@ -6,7 +6,7 @@ date = 2008-02-21
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["tidskrifter", "böcker"]
+taggar = ["böcker", "tidskrifter"]
 +++
 
 För några dagar sedan kom jag att tänka på Locus. Åka är den i familjen som håller sig a jour med vad som är nytt på bokmarknaden, och jag i min tur håller koll på rollspelsbranschen. Det slog mig att jag har faktiskt köpt ett par nummer av Locus i min dag, men att jag knappast försökt få valuta för vad jag betalt för dem. Ni vet alla säkert att Locus för utom en rejäl intervju i varje nummer, också innehåller recensioner av allt nyutkommet som romaner, noveller, rubbet. Frågan är, vad har jag för relation till recensioner? Läser jag recensioner för att få tips om nya intressanta böcker? Skulle jag hitta mer kul att läsa genom att hålla koll på recensionerna i Locus?

@@ -6,7 +6,7 @@ date = 2008-06-05
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Rapporter"]
-taggar = ["Åcon", "con rep"]
+taggar = ["con rep", "Åcon"]
 +++
 
 Här på denna blogg, kommer någon inom en mycket snar framtid skriva en rapport från Åcon!

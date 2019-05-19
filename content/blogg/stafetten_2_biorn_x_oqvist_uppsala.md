@@ -6,7 +6,7 @@ date = 2008-09-03
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Intervjuer"]
-taggar = ["anarkism", "Okrand", "Kepler", "kläder", "uppväxt", "hattar", "frihet", "klingonska", "vänskap"]
+taggar = ["Kepler", "vänskap", "klingonska", "Okrand", "anarkism", "kläder", "frihet", "uppväxt", "hattar"]
 +++
 
 <em>Detta är den andra av mina personliga intervjuer med människor inom svensk fandom eller som på annat vis är involverade i det här med sf och fantasy. Biörn föreslogs av det förra intervjuoffret, Gabriel Nilsson, med motiveringen att han klär bra i hatt!</em>

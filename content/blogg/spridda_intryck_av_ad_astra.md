@@ -5,8 +5,8 @@ date = 2008-04-03
 
 [taxonomies]
 forfattare = ["Ante"]
-kategorier = ["Rapporter", "Kåserier"]
-taggar = ["fandom", "kongresser", "skräck", "knäppgökar"]
+kategorier = ["Kåserier", "Rapporter"]
+taggar = ["kongresser", "fandom", "knäppgökar", "skräck"]
 +++
 
 Nu har jag då tillslut varit på en kongress i nordamerika. Det var kul att gå på kongress. Saker var välskötta och rullade på så fansen kunde roa sig utan katastrofer och det är ju det viktigaste. Det som jag tyckte var lite dåligt var att det inte fanns någon från arrangörerna som vallade panelister och såg till att de var på plats och fick vad de kunde behöva. Det var ju inget jag personligen led av, men det hade varit en bra sak att ha.

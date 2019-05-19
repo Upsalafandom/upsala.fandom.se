@@ -6,7 +6,7 @@ date = 2009-03-03
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Inbjudningar"]
-taggar = ["SFF", "fanzines"]
+taggar = ["fanzines", "SFF"]
 +++
 
 <em>Beware the Ides of March!</em> kraxar den åldrige siaren i Shakespeares <em>Julius Caesar</em>. Som bekant aktade sig inte Caesar tillräckligt mycket. Nå, nu är turen kanske kommen till dig, för denna dag eller någon dag i veckan efter kommer Sveriges Fanzineförening att lägga en sändning fanzines till medlemmarna på posten. Vill du vara med har du alltså tio dagar på dig att knåpa ihop ett fanzine och få över det till Linnéa och mig.

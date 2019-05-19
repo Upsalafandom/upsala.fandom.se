@@ -6,7 +6,7 @@ date = 2009-03-02
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["science fiction", "historia", "litteratur", "Lester del Rey"]
+taggar = ["Lester del Rey", "science fiction", "litteratur", "historia"]
 +++
 
 Nyligen fick bokpratargruppen <a href="http://fearlessfantasy.wordpress.com/">Fearless Fantasy Fans</a> ärva en boksamling. Jag råkar ju ha lyckan att bo med en av de drivande krafterna i gruppen, och dessutom bo i den lägenhet där bö§ckerna förvaras för vidare spridning i gruppen. Möjligheterna att botanisera i samlingen har alltså varit goda, och jag har funnit en del pärlor.

@@ -6,7 +6,7 @@ date = 2005-07-04
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Inbjudningar"]
-taggar = ["pubmöten", "lyrik"]
+taggar = ["lyrik", "pubmöten"]
 +++
 
 <em>Melodi: Den gamle jägarn</em>

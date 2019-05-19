@@ -6,7 +6,7 @@ date = 2009-02-09
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Intervjuer"]
-taggar = ["framtiden", "e-lärande", "frihet", "Matthias Palmér"]
+taggar = ["framtiden", "frihet", "Matthias Palmér", "e-lärande"]
 +++
 
 <em>Detta är den fjärde av mina personliga intervjuer med människor inom svensk fandom eller som på annat vis är involverade i det här med sf och fantasy. Matthias föreslogs av det förra intervjuoffret, Kruse, med motiveringen att hon är nyfiken på vad han gör nuförtiden. "Han behöver en liten puff för att komma till ett månadsmöte!"</em>

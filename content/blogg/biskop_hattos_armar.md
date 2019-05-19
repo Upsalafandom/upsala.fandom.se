@@ -6,7 +6,7 @@ date = 2016-10-25
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Rapporter"]
-taggar = ["Luncon", "kongressrapport"]
+taggar = ["kongressrapport", "Luncon"]
 +++
 
 En rapport från den fjärde Lunconen, oktober 2016

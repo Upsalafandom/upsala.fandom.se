@@ -6,7 +6,7 @@ date = 2008-03-07
 [taxonomies]
 forfattare = ["Lennart Svensson"]
 kategorier = ["Kåserier"]
-taggar = ["datorer", "foto", "böcker"]
+taggar = ["böcker", "datorer", "foto"]
 +++
 
 Tänkte be er om en tjänst, kära Uppsalavänner och fans.

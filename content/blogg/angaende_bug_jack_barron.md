@@ -6,7 +6,7 @@ date = 2010-04-14
 [taxonomies]
 forfattare = ["Björn"]
 kategorier = ["Rapporter"]
-taggar = ["bokprat", "cyberpunk", "Norman Spinrad"]
+taggar = ["bokprat", "Norman Spinrad", "cyberpunk"]
 +++
 
 Kvällens bokprat handlade om <em>Bug Jack Barron</em> av Norman Spinrad. Boken gavs ut 1969 och är starkt influerad av den tidens politiska klimat,främst av den amerikanska medborgarrättsrörelsen.

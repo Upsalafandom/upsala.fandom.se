@@ -6,7 +6,7 @@ date = 2008-05-01
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["litteraturteori", "obehag", "Hamlet", "kaos", "skräck"]
+taggar = ["litteraturteori", "obehag", "kaos", "skräck", "Hamlet"]
 +++
 
 Har ni tänkt på det här med vad som anses vara "sci fi", eller annan fantastik som ligger en nära om hjärtat? Det är ganska mycket skit som skyfflats ut för konsumtion som stämplats med fantastikstämpeln för att det funnits en eller annan raket, strålpistol eller nåt annat fånigt tecken på att det tillhör genren. Själv insåg jag efter den litteraturkurs jag gick om sf, då vi konfronterats med några olika mer eller mindre fantasifulla försök att definiera science fiction, att det inte är en genre över huvud taget. Nu är det dock inte science fiction som jag tänkt på, utan en annan "genre" som jag sedan många år känt mig mycket förtjust i. Jag tänker på skräckgenren, och jag antar att ingen blir direkt förvånad om jag säger att jag inte anser att skräck är en genre det heller.

@@ -6,7 +6,7 @@ date = 2009-03-08
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Kåserier"]
-taggar = ["pliktläsning", "böcker", "läsning"]
+taggar = ["böcker", "läsning", "pliktläsning"]
 +++
 
 Några olika faktorer styr hur jag väljer böcker att läsa. Jag försöker att:

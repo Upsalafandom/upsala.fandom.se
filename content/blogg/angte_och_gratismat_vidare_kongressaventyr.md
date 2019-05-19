@@ -6,7 +6,7 @@ date = 2009-04-02
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Rapporter"]
-taggar = ["steampunk", "skrivande", "kongresser"]
+taggar = ["skrivande", "kongresser", "steampunk"]
 +++
 
 Jag har förlorat en del av mitt <a href="http://annien.wordpress.com/2009/01/27/the-extended-mind/">exended mind</a>: jag hittar inte min anteckningsbok. Jag brukar alltid bära med mig en sån, och där skriver jag ner alla saker som faller mig in: ideer, citat, att göra-listor, utkast till olika texter, minnesanteckningar, böcker jag vill läsa, och så vidare. Var är min anteckningsbok? Frustrerande. Nåja, några spridda noteringar från helgens kongress kan jag nog åstadkomma ändå.

@@ -6,7 +6,7 @@ date = 2009-05-16
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Intervjuer"]
-taggar = ["Andrew Wiles", "Alexander Petrov", "Sten Thaning", "Dublin", "Örebro"]
+taggar = ["Dublin", "Andrew Wiles", "Sten Thaning", "Örebro", "Alexander Petrov"]
 +++
 
 <em>Detta är den femte av mina personliga intervjuer med människor inom svensk fandom eller som på annat vis är involverade i det här med sf och fantasy. Sten föreslogs av det förra intervjuoffret, </em><em>Matthias</em><em>, med frågan "är han fortfarande aktiv i fandom?"

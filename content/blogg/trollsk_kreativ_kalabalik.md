@@ -6,7 +6,7 @@ date = 2008-05-23
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["sword &amp; sorcery", "fandom", "rollspel", "tunnels &amp; trolls"]
+taggar = ["sword &amp; sorcery", "fandom", "tunnels &amp; trolls", "rollspel"]
 +++
 
 De som känner mig vet att jag samlar på rollspel, och att jag är rätt aktiv på en del epostlistor/webbforum och andra ställen. Nu har jag hittat ett nytt sätt att lägga tid på min hobby! Först lite bagrund innan jag berättar vad jag fastnat för den här gången. Om man inte vet så mycket om rollspelshobbyn kanske man inte hört talas om så mycket mer än namnet Dungeons &amp; Dragons. Eftersom det spelet för många blivit synonymt med hobbyn är det för en del nästan förvånande att det finns fler spel! Själv har jag nu snöat in på Tunnels &amp; Trolls. Nej, innan någon frågar, det måste inte heta Bla &amp; Bla, men det var lite populärt ett tag på sjuttiotalet. T&amp;T skapades av <a href="http://en.wikipedia.org/wiki/Ken_St_Andre">Ken St. Andre</a> som ett alternativ till det i hans tycke trevliga konceptet i D&amp;D, men utan de mycket förbryllande och invecklade reglerna. För de som gillade tanken på Sword &amp; Sorcery-äventyr hemma i vardagsrummet var T&amp;T enklare och inte lika seriöst menat.

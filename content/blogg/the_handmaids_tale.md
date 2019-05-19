@@ -6,7 +6,7 @@ date = 2009-08-31
 [taxonomies]
 forfattare = ["Björn"]
 kategorier = ["Rapporter"]
-taggar = ["bokprat", "The Handmaid's Tale", "Margaret Atwood"]
+taggar = ["bokprat", "Margaret Atwood", "The Handmaid's Tale"]
 +++
 
 Här är en liten rapport från kvällens bokprat om <em>The Handmaid's Tale</em> av Margaret Atwood. American Library Association har enligt uppgift rankat boken som 37:e mest anmälda bok 1990–2000. Vi pratade en stund om varför, men tyckte väl själva att vi läst värre.

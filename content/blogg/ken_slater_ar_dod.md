@@ -6,7 +6,7 @@ date = 2008-02-19
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Nyheter"]
-taggar = ["brittisk fandom", "Ken Slater", "dödsfall", "fanhistoria"]
+taggar = ["Ken Slater", "fanhistoria", "brittisk fandom", "dödsfall"]
 +++
 
 Ken Slater var 20 år gammal när Storbritanniens sf-fandom kom igång på allvar. Det var 70 år sedan. Jag träffade honom senast för två år sedan, på den brittiska påskkongressen i Glasgow. Då stod han som vanligt och sålde böcker, och såg inte ut att vara en dag äldre än 75. En makalös människa.

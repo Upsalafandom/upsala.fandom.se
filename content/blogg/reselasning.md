@@ -6,7 +6,7 @@ date = 2008-07-17
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["Poul Anderson", "böcker", "resor", "Ian McDonald", "Ramsey Cambell"]
+taggar = ["böcker", "resor", "Poul Anderson", "Ian McDonald", "Ramsey Cambell"]
 +++
 
 Så, då var det snart dags för oss att återvänta till den eviga ungdomens stad. Naturligtvis är en av de viktiga saker man måste packa någonting att läsa på vägen. Men vad?

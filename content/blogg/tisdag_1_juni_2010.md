@@ -6,7 +6,7 @@ date = 2010-06-02
 [taxonomies]
 forfattare = ["Björn"]
 kategorier = ["Rapporter"]
-taggar = ["foto", "pubmöten"]
+taggar = ["pubmöten", "foto"]
 +++
 
 [gallery link="file" orderby="ID"]

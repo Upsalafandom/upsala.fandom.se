@@ -6,7 +6,7 @@ date = 2008-02-14
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Recensioner"]
-taggar = ["fantasy", "böcker"]
+taggar = ["böcker", "fantasy"]
 +++
 
 Igår gick jag förbi den där hyllan med nya böcker, och min blick fastnade på ett bekant namn. Steven Erikson.

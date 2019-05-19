@@ -6,7 +6,7 @@ date = 2008-05-19
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Kåserier"]
-taggar = ["medvetande", "kropp", "känslor", "galen vetenskapsman"]
+taggar = ["galen vetenskapsman", "medvetande", "känslor", "kropp"]
 +++
 
 På sistone har jag läst ett par saker som fått mig att fundera lite på det här med den vacklande och vinglande inställningen till känslor i science fiction. Det finns säkert väldigt mycket att säga om saken, men för tillfället knattrar jag bara ur mig ett par lösryckta tankar.

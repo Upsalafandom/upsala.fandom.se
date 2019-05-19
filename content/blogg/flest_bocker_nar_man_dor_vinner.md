@@ -6,7 +6,7 @@ date = 2008-05-15
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["readers block", "böcker", "läsjournaler"]
+taggar = ["böcker", "readers block", "läsjournaler"]
 +++
 
 Jag har under de senaste åren fört en läsjournal, och dumt nog jämfört mig med andra läsare. Förra året blev det 30 volymer och årentinnan det 24. Naturligtvis såg det bra ut med 17 lästa verk efter 17 veckor på året. Nu skulle jag kanske klara den magiska gränsen 52 på ett år!

@@ -6,7 +6,7 @@ date = 2009-05-11
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Nyheter"]
-taggar = ["Fantasticon 2009", "Finncon 2009", "Åcon 3", "Norcon 2009", "Swecon 2009", "Imagicon 2", "Alcocon 3", "Aplakonen"]
+taggar = ["Åcon 3", "Fantasticon 2009", "Swecon 2009", "Finncon 2009", "Aplakonen", "Imagicon 2", "Norcon 2009", "Alcocon 3"]
 +++
 
 Årets första sf-kongress i Norden har redan ägt rum, det var <a href="http://www.clubcosmos.net/Alcocon3/">Alcocon 3 i Göteborg</a>, som avhölls 24-26 april. Bilder en masse därifrån finns på <a href="http://www.flickr.com/photos/tags/alcocon3/">Flickr</a>. Resten av årets kongresser är:

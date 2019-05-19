@@ -6,7 +6,7 @@ date = 2008-06-25
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["fantasy", "böcker"]
+taggar = ["böcker", "fantasy"]
 +++
 
 Jag har precis börjat läsa en nya bokserie, av en kanadensare som heter R. Scott Bakker. Han är visst kompis med Steven Erikson, känd för sin bokserie The Malazan Book of the Fallen, som även han är från Kanada. Den senare har ju rönt viss uppmärksamhet för sin bokserie av flera skäl. Ett är ju förstås att han skrivit kontrakt på tio böcker, och när den första kom ut och var över tusen sidor tjock blev man ju mörkrädd. Han är produktiv, Steven. Vi fick en CD på en påskkongress en gång där han läste ett kapitel från en av sina böcker. Det befäste min åsikt att författarläsningar är sövande och oerhört meningslösa.

@@ -6,7 +6,7 @@ date = 2008-06-19
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["totalitarianism", "fascism"]
+taggar = ["fascism", "totalitarianism"]
 +++
 
 Så skedde det tillslut att sveriges riksdag röstade igenom förslaget som ger FRA i uppdrag att spionera på medborgarna. Från och med denna dag ändras svensk rättspraxis till att du är förmodad skyldig tills motsatsen bevisats. Det är nog den mörkaste dagen i svensk historia.

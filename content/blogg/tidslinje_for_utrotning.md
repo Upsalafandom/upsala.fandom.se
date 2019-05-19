@@ -6,7 +6,7 @@ date = 2008-03-05
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Länkar"]
-taggar = ["spådomar", "framtiden", "humor"]
+taggar = ["humor", "spådomar", "framtiden"]
 +++
 
 Ross Dawson har på sin blogg <a href="http://www.rossdawsonblog.com/" title="Trends in the Living Networks">Trends in the Living Networks</a> publicerat en underhållande <a href="http://www.rossdawsonblog.com/weblog/archives/2007/10/extinction_time.html" title="Extinction timeline">tidslinje</a> över hur saker och personer har utrotas och kommer att utrotas åren 1950-2050. Den är en blandning av allvar och småleende satir.

@@ -6,7 +6,7 @@ date = 2009-03-11
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Kåserier"]
-taggar = ["fantasy", "film", "kina"]
+taggar = ["fantasy", "kina", "film"]
 +++
 
 Jag har förmodligen nämnt min fascination för asiatisk film förr. Jag har egentligen inte läst in mig, så jag <em>vet</em> inte mycket om det. Jag bara uppmuntrar maken, och han hittar en massa roliga filmer. Sedan tittar jag. Jag förstår ofta inte riktigt vad som händer, och ofta är det inte alls uppenbart vilken sida man ska sympatisera med och varför. Jag anar ibland syftningar till händelser och företeelser jag inte känner till. Det är roligt, och lite utmanande. Det är lite som att upptäcka en ny värld helt från början.

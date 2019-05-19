@@ -6,7 +6,7 @@ date = 2010-06-11
 [taxonomies]
 forfattare = ["George"]
 kategorier = ["Länkar"]
-taggar = ["Ken Macleod", "musik"]
+taggar = ["musik", "Ken Macleod"]
 +++
 
 I found <a title="Slideshow+Music!" href="http://kenmacleod.blogspot.com/2010/06/diana-comet-presents75-years-of.html">this</a> last week on Ken Macleod's excellent blog. This is not to be missed!

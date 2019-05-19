@@ -6,7 +6,7 @@ date = 2008-11-27
 [taxonomies]
 forfattare = ["Johan J."]
 kategorier = ["Nyheter"]
-taggar = ["Catahya", "Catahyapriset", "skräck", "noveller"]
+taggar = ["noveller", "Catahyapriset", "Catahya", "skräck"]
 +++
 
 Fantasyföreningen Catahya (som var med och hjälpte till att arrangera Kontext nyligen) delar sedan förra året ut ett novellpris, som årligen skall uppmärksamma den mest förtjänta fantastiknovellen. I år gick det till Johan Theorins "Endast jag är vaken", ur antologin <i>Mardrömmar i midvintertid och andra morbiditeter</i>. Juryns motivering:
