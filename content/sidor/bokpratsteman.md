@@ -13,8 +13,8 @@ alla läst. 2009 till 2017 hölls bokpraten i samarbete med
 
 * Ann Leckie – Ancillary Justice 
 * Elizabeth Bear – Karen Memory
-* Saladin Ahmed – Throne of the Crescent Moon (22 nov)
-* Kameron Hurley (bok ännu inte bestämd)
+* Saladin Ahmed – Throne of the Crescent Moon
+* Kameron Hurley – ?
 
 ## 2013
 
