@@ -19,6 +19,6 @@ Två saker bidrar till att jag läser fler nya böcker, särskilt det senaste å
 
 2) Hyllan för nyinkommen science fiction på biblioteket. Det här gäller bara det senaste året, för säga vad man vill: på svenska bibliotek finns inte en hylla med ny sf och fantasy i hårdpärm. På svenska bibliotek kan man (nästan) aldrig läsa engelskspråkig fantastik i tid att hinna nominera den till Hugon, men det kan man faktiskt här.
 
-Senast läste jag <em>The Dragons of Babel</em> av Michael Swanwick, och den kan jag verkligen rekommendera. Läs också min <a href="http://lablit.com/article/389">recension av <em>Final Theory</em></a>, en sorts vetenskapsthriller.
+Senast läste jag <em>The Dragons of Babel</em> av Michael Swanwick, och den kan jag verkligen rekommendera. Läs också min <a href="http://lablit.com/article/389">recension av _Final Theory_</a>, en sorts vetenskapsthriller.
 
 För övrigt anser jag att det är märkligt att Upsalafandom online numera verkar bestå till så stor andel av folk som bor i Kanada. Finns det ingen mer därhemma som har något intressant att säga? (Jag har det inte alltid, men jag harvar på eftersom Johan A gav mig en föreläsning om hur viktigt det är att inte se bloggandet som ett tillfälligt åtagande ;-)

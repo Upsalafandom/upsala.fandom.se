@@ -23,4 +23,4 @@ De fantastiska elementen i boken består av händelser relaterade till Kalikulte
 
 Är det någon mer som läst boken och har något att tillägga?
 
-Nästa bok till läsning är <em>Last Call</em> av Tim Powers. Se [sidan om bokprat](bokprat) och [kalendariet](kalender).
+Nästa bok till läsning är _Last Call_ av Tim Powers. Se [sidan om bokprat](bokprat) och [kalendariet](kalender).

@@ -19,4 +19,4 @@ Vi pratade ett stund om huruvida den snabba samhällsomvandling som boken skildr
 
 När vi pratat klart om Atwood forsatte vi med andra ämnen, som emotönten Bradbury.
 
-Nästa bokprat kommer att handla om <em>Toffs bok</em> av Kalle Dixelius. Datum kommer snart.
+Nästa bokprat kommer att handla om _Toffs bok_ av Kalle Dixelius. Datum kommer snart.

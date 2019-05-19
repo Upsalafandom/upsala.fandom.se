@@ -17,4 +17,4 @@ Vi lyckades ändå få en hel del sagt. Det är en bok som det finns mycket att 
 
 Boken handlar om nedfrysning av människor och odödlighetskurer, och vem som har rätt till dem. Upplösningen har inget definitivt budskap, även om den har en starkt moralisk ton. På sätt och vis är budskapet att sanningen alltid måste fram, vilket ju också är ett cyberpunkdrag.
 
-Nästa bokpratsbok är <em>The Affirmation</em> av Christopher Priest, som vi ska prata om onsdag 12 maj. (Se [kalendern](kalender) för detaljer.)
+Nästa bokpratsbok är _The Affirmation_ av Christopher Priest, som vi ska prata om onsdag 12 maj. (Se [kalendern](kalender) för detaljer.)

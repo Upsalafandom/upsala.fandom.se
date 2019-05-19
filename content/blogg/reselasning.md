@@ -19,4 +19,4 @@ Vad är det då som gör en bra resebok? Till att börja med måste den ju vara 
 
 Du har kanske fler saker du funderar över när du väljer reseläsning? Vilka är de i så fall?
 
-Nu ser det ut att bli <em>Desolation Road</em> av Ian McDonald, <em>Long Lost</em> av Ramsey Campbell samt <em>The Boat of a million Years </em>av Poul Anderson. Förutom den där saken som åker med i sista minuten, förstås.
+Nu ser det ut att bli _Desolation Road_ av Ian McDonald, _Long Lost_ av Ramsey Campbell samt <em>The Boat of a million Years </em>av Poul Anderson. Förutom den där saken som åker med i sista minuten, förstås.

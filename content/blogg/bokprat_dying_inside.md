@@ -9,9 +9,9 @@ kategorier = ["Rapporter"]
 taggar = ["Dying Inside", "Robert Silverberg", "bokprat", "telepati"]
 +++
 
-Kvällens bokprat behandlade <em>Dying Inside</em> av Robert Silverberg, som en del av vårt pågående tema, science fictions bortglömda mästare. Deltog gjorde Anna Davour, Jesper Svedberg, George Berger och jag själv.
+Kvällens bokprat behandlade _Dying Inside_ av Robert Silverberg, som en del av vårt pågående tema, science fictions bortglömda mästare. Deltog gjorde Anna Davour, Jesper Svedberg, George Berger och jag själv.
 
-Boken handlar om en man som lever i New York i mitten av sjuttiotalet (författarens nära framtid), och försöker hantera sin trytande telepatiska förmåga. En del av oss tyckte att den påminde om vår förra bokpratsbok, <em>Camp Concentration</em>, bland annat i det att den båda försöker behandla det som _verkligen_ händer i allas vårt inre.
+Boken handlar om en man som lever i New York i mitten av sjuttiotalet (författarens nära framtid), och försöker hantera sin trytande telepatiska förmåga. En del av oss tyckte att den påminde om vår förra bokpratsbok, _Camp Concentration_, bland annat i det att den båda försöker behandla det som _verkligen_ händer i allas vårt inre.
 
 Ett annat tema är frågan om huruvida kunskap om andras tankar verkligen skulle hjälpa oss att förstå andra. Är huvudpersonens egna attityder och fördomar för starka för att hans förmåga ska kunna öka hans förståelse för andra?
 

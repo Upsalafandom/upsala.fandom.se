@@ -9,7 +9,7 @@ kategorier = ["Kåserier"]
 taggar = []
 +++
 
-En av mina favoritböcker alla kategorier är <em>Dying Inside</em> av Robert Silverberg. På den tiden jag var med i ett band som hette [Elektrubadur](http://elektrubadur.se/musik) gjorde vi en låt vars hela text var tagen rakt av från sista stycket i den här boken. Väldigt tjusig. (Vi kontaktade Robert Silverberg, som tyvärr hade en ganska tråkig attityd och satte oss i kontakt med sin agent så att vi skulle få veta hur vi skulle betala pengar om vi tjänade något på låten i fråga. Som om! Snarare hade vi väl tänkt göra lite reklam för boken. Men det blev nu inte så mycket med det.)
+En av mina favoritböcker alla kategorier är _Dying Inside_ av Robert Silverberg. På den tiden jag var med i ett band som hette [Elektrubadur](http://elektrubadur.se/musik) gjorde vi en låt vars hela text var tagen rakt av från sista stycket i den här boken. Väldigt tjusig. (Vi kontaktade Robert Silverberg, som tyvärr hade en ganska tråkig attityd och satte oss i kontakt med sin agent så att vi skulle få veta hur vi skulle betala pengar om vi tjänade något på låten i fråga. Som om! Snarare hade vi väl tänkt göra lite reklam för boken. Men det blev nu inte så mycket med det.)
 
 Idag hittade jag (via [Locus Online](http://www.locusmag.com), som så mycket annat) [en artikel om Silverberg och den här boken](http://www.latimes.com/features/books/la-et-robert-silverberg21-2009apr21,0,7551767.story).
 
