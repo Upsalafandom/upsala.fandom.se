@@ -1,7 +1,7 @@
 +++
 title = "In English"
 path = "english"
-language = "en"
+lang = "en"
 +++
 
 Welcome, alien visitor.
