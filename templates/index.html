@@ -35,7 +35,7 @@
 </head>
 
 <body>
-    {% if current_path and current_path == "/" %}
+    {% if section and not current_path %}
     <header>
         <h1>{{ config.title }}</h1>
         <p>{{ config.description }}</p>
