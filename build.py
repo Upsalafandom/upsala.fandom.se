@@ -18,6 +18,7 @@ class Builder(cli.Application):
     TCPServer.allow_reuse_address = True
 
     def serve(self):
+        print("Starting server.")
         with TCPServer(("", PORT), SimpleHTTPRequestHandler) as httpd:
             with local.cwd(local.cwd / "public"):
                 httpd.serve_forever()
