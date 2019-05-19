@@ -66,54 +66,11 @@ authors.update(
 )
 
 # Create output directories.
-for d in ("content", "content/sidor", "content/blogg"):
+for d in ("content", "content/blogg"):
     try:
         os.mkdir(d)
     except FileExistsError:
         pass
-
-# Get posts
-posts = channel.xpath('./item[wp:post_type = "post"]', namespaces=namespaces)
-for post in posts:
-    # Extract data
-    title = post.xpath("./title/text()")[0].replace('"', '\\"')
-    slug = post.xpath("./wp:post_name/text()", namespaces=namespaces)[0].replace(
-        "-", "_"
-    )
-    author = post.xpath("./dc:creator/text()", namespaces=namespaces)[0]
-    date = post.xpath("./wp:post_date/text()", namespaces=namespaces)[0][:10]
-    content = clean_content(
-        post.xpath("./content:encoded/text()", namespaces=namespaces)[0]
-    )
-
-    categories = {
-        e.xpath("./text()")[0]
-        for e in post.xpath('./category[@domain="category"]', namespaces=namespaces)
-    }
-    categories_list = ", ".join(f'"{c}"' for c in categories)
-    tags = {
-        e.xpath("./text()")[0]
-        for e in post.xpath('./category[@domain="post_tag"]', namespaces=namespaces)
-    }
-    tag_list = ", ".join(f'"{t}"' for t in tags)
-
-    # Write file
-    with open(f"content/blogg/{slug}.md", "w") as f:
-        f.write(
-            f"""+++
-title = "{title}"
-slug = "{slug}"
-date = {date}
-
-[taxonomies]
-forfattare = ["{authors[author]}"]
-kategorier = [{categories_list}]
-taggar = [{tag_list}]
-+++
-
-{content}
-"""
-        )
 
 # Get pages
 pages = channel.xpath('./item[wp:post_type = "page"]', namespaces=namespaces)
