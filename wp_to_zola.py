@@ -1,11 +1,20 @@
 #!/usr/bin/env python3
 
+import os
 import sys
 from lxml import etree
 import re
 
 
-URL_RE = re.compile("https?://upp?sala\.fandom\.se")
+URL_RE = re.compile(r"https?://upp?sala\.fandom\.se")
+MORE_RE = re.compile(r"<!-- *more *-->\r?")
+
+
+def clean_content(content):
+    content = URL_RE.sub("__FIXME__", content)
+    content = MORE_RE.sub("<!-- more -->", content)
+    return content
+
 
 namespaces = {
     "excerpt": "http://wordpress.org/export/1.2/excerpt/",
@@ -52,6 +61,13 @@ authors.update(
     }
 )
 
+# Create output directories.
+for d in ("content", "content/sidor", "content/blogg"):
+    try:
+        os.mkdir(d)
+    except FileExistsError:
+        pass
+
 # Get posts
 posts = channel.xpath('./item[wp:post_type = "post"]', namespaces=namespaces)
 for post in posts:
@@ -62,9 +78,10 @@ for post in posts:
     )
     author = post.xpath("./dc:creator/text()", namespaces=namespaces)[0]
     date = post.xpath("./wp:post_date/text()", namespaces=namespaces)[0][:10]
-    content = URL_RE.sub(
-        "__FIXME__", post.xpath("./content:encoded/text()", namespaces=namespaces)[0]
+    content = clean_content(
+        post.xpath("./content:encoded/text()", namespaces=namespaces)[0]
     )
+
     categories = {
         e.xpath("./text()")[0]
         for e in post.xpath('./category[@domain="category"]', namespaces=namespaces)
@@ -109,9 +126,8 @@ for page in pages:
     if slug == "e_postlista":
         slug = "epostlista"
 
-    content = URL_RE.sub(
-        "__FIXME__",
-        page.xpath("./content:encoded/text()", namespaces=namespaces)[0].rstrip(),
+    content = clean_content(
+        page.xpath("./content:encoded/text()", namespaces=namespaces)[0].rstrip()
     )
 
     # Write file
