@@ -13,6 +13,7 @@ EMPTY_ALT_RE = re.compile(r'alt=""')
 LINK_RE = re.compile(
     r'<a[^>]+href="(?:__FIXME__)?(?:/)?(?P<url>[^"]*[^/])/?"[^>]*>(?P<text>[^<]+)</a>'
 )
+HAS_IMG_RE = re.compile(r"<img\b")
 
 
 def clean_content(content):
@@ -101,8 +102,17 @@ for post in posts:
     }
     tag_list = ", ".join(f'"{t}"' for t in sorted(tags))
 
+    if "<img" in content:
+        try:
+            os.mkdir(f"content/blogg/{slug}")
+        except FileExistsError:
+            pass
+        filename = f"content/blogg/{slug}/index.md"
+    else:
+        filename = f"content/blogg/{slug}.md"
+
     # Write file
-    with open(f"content/blogg/{slug}.md", "w") as f:
+    with open(filename, "w") as f:
         f.write(
             f"""+++
 title = "{title}"
