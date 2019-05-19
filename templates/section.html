@@ -7,8 +7,13 @@
 {% endblock pageheader %}
 
 {% block content %}
-{{ section.paginator }}
-{% for page in section.pages %}
+{% if paginator %}
+{% set pages = paginator.pages %}
+{% else %}
+{% set pages = section.pages %}
+{% endif %}
+
+{% for page in pages %}
 {{ macros::page_in_list(page=page) }}
 {% endfor %}
 {% endblock content %}
