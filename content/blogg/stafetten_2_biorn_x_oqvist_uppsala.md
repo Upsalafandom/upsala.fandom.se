@@ -6,7 +6,7 @@ date = 2008-09-03
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Intervjuer"]
-taggar = ["Kepler", "vänskap", "klingonska", "Okrand", "anarkism", "kläder", "frihet", "uppväxt", "hattar"]
+taggar = ["Kepler", "Okrand", "anarkism", "frihet", "hattar", "klingonska", "kläder", "uppväxt", "vänskap"]
 +++
 
 <em>Detta är den andra av mina personliga intervjuer med människor inom svensk fandom eller som på annat vis är involverade i det här med sf och fantasy. Biörn föreslogs av det förra intervjuoffret, Gabriel Nilsson, med motiveringen att han klär bra i hatt!</em>
@@ -41,7 +41,7 @@ Drömmen skulle ha ett helt portabelt liv; en väska med jobb och förnödenhete
 
 Internet, och dess utveckling, är det största som har skett i världen under mitt liv. När jag gick i gymnasiet (mitten på nittitalet) fanns det inte mycket på nätet. Letade man efter datorinformation stod det mesta att finna, men det är först nu långt senare som man kan hitta <strong>allt</strong>. Stickbeskrivningar, instruktioner om växtbeskärning, och hur man renoverar sitt badrum, etc. Vardagsprylar. Så'n info man verkligen behöver. Nu när "Ten years of September" börjar gå mot femton finns allt!
 
-Mina intressen spretar åt alla möjliga håll. Klingonska har jag ägnat mig åt - skapat Klingonska Akademien med tillhörande webbsida <a title="Klingonska Akademien" href="http://www.klingonska.org" target="_blank">www.klingonska.org</a>, ägnat mig åt självstudier, undervisande, samt deltagande på möten - <em>qep'a'</em> och <em>qepHom</em>).
+Mina intressen spretar åt alla möjliga håll. Klingonska har jag ägnat mig åt - skapat Klingonska Akademien med tillhörande webbsida [www.klingonska.org](http://www.klingonska.org), ägnat mig åt självstudier, undervisande, samt deltagande på möten - <em>qep'a'</em> och <em>qepHom</em>).
 
 Viktigast i mitt liv är förmodligen min individuella frihet, möjligheten att göra lite som det faller mig in. Inte vara alltför uppbunden av jobb, plikter och annat "styrt". Jag tycker bättre om att leva på sparlåga med lite halvkrasslig inkomst än ha alla pengar i världen men ingen tid. Min tid är värdefull, för värdefull för att ge bort i stor skala.
 

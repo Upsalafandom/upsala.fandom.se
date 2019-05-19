@@ -6,7 +6,7 @@ date = 2010-08-04
 [taxonomies]
 forfattare = ["Björn"]
 kategorier = ["Rapporter"]
-taggar = ["Pipes of Scotland", "pubmöten", "Finska", "foto"]
+taggar = ["Finska", "Pipes of Scotland", "foto", "pubmöten"]
 +++
 
 Efter sommarens kaos kunde pubmötet denna dag åter avhållas på puben Pipes of Scotland. Ett ämne i tiden är svenskans ställning i Finland. Många närvarande var bekymrade, men Johan Jönsson kunde lugnande rapportera att än på 20-30 år är det inte troligt att svenskan kommer att utrotas i Finland.

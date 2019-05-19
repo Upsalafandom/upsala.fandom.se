@@ -6,10 +6,10 @@ date = 2008-03-05
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Länkar"]
-taggar = ["sword &amp; sorcery", "noveller", "webbmagasin"]
+taggar = ["noveller", "sword &amp; sorcery", "webbmagasin"]
 +++
 
 Jag hittade en länk till ett magasin med s&amp;s berättelser. De finns i tryck och på nätet. Kanske kan vara värt att besöka?
 
-<a href="http://flashingswords.sfreader.com/titlepage.asp" title="Flashing Swords">Flashing Swords
-</a>
+[Flashing Swords
+](http://flashingswords.sfreader.com/titlepage.asp)

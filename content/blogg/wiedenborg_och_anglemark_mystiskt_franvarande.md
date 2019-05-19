@@ -17,7 +17,7 @@ Hur som helst var ett tiotal fantaster av den vetenskapliga vitterheten på plat
 
 Jag ska dock rapportera att innan jag kom hade Jolkkonen förklarat för Jesper hur man bygger en vätebomb, och August hade avlöjat sina fördomar mot medelålders new age-tanter.
 
-Efter att jag fått detta berättat för mig gled konversationen naturligt in på kopplingarna mellan Marxismen och Darwinismen. Jolkkonen förklarade hur han låtit historiematerialismen genomsyra sin undervisning på den kurs om kärnbränslen han ger för kemistudenter. Närmare bestämt handlade det om hur tekniska uppfinningar driver fram vetenskapliga framsteg. <a href="http://en.wikipedia.org/wiki/Lawrence_Joseph_Henderson">L. J. Henderson</a> citerades: "Science owes more to the steam engine than the steam engine owes to Science".
+Efter att jag fått detta berättat för mig gled konversationen naturligt in på kopplingarna mellan Marxismen och Darwinismen. Jolkkonen förklarade hur han låtit historiematerialismen genomsyra sin undervisning på den kurs om kärnbränslen han ger för kemistudenter. Närmare bestämt handlade det om hur tekniska uppfinningar driver fram vetenskapliga framsteg. [L. J. Henderson](http://en.wikipedia.org/wiki/Lawrence_Joseph_Henderson) citerades: "Science owes more to the steam engine than the steam engine owes to Science".
 
 Ungefär här försvann jag och Biörn X in i en egen konversation rörande storleken, papperskvaliteten och användbarheten hos olika slags registerkort.
 
@@ -25,4 +25,4 @@ När vi återanslöt oss till huvudsamtalet handlade det om det tyska språkets 
 
 Jolkkonen efterfrågade nyskriven opera och teater, istället för "dövhomotransversioner av King Lear". Tyvärr kan vi inte vänta oss något sådant, då vi befinner oss i en dekadent fas av den västerländska kulturen.
 
-Torbjörn planerar att anordna bokmat (alltså bokprat parat med lagande och ätande av god mat) igen. Möjligheten att få tag på råvaror för att göra kalvdans diskuterades. Frågan är dock om Torbjörn är mannen att hålla i detta – han vet ju inte ens vem <a href="http://en.wikipedia.org/wiki/Fritz_Leiber">Fritz Leiber</a> är.
+Torbjörn planerar att anordna bokmat (alltså bokprat parat med lagande och ätande av god mat) igen. Möjligheten att få tag på råvaror för att göra kalvdans diskuterades. Frågan är dock om Torbjörn är mannen att hålla i detta – han vet ju inte ens vem [Fritz Leiber](http://en.wikipedia.org/wiki/Fritz_Leiber) är.

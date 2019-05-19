@@ -9,7 +9,7 @@ kategorier = ["Recensioner"]
 taggar = ["Bokslut2007"]
 +++
 
-Här fortsätter jag min genomgång av 2007 års läsuppleveler. Tidigare delar kan läsas <a href="__FIXME__/bokslut-2007-del-1/">här</a> och <a href="__FIXME__/bokslut-2007-del-2/">här</a>.
+Här fortsätter jag min genomgång av 2007 års läsuppleveler. Tidigare delar kan läsas [här](bokslut-2007-del-1) och [här](bokslut-2007-del-2).
 
 <strong>Frederik Pohl &amp; C. M. Kornbluth - <em>The Space Merchants</em></strong>
 Det här var en av de bästa och mest underhållande romaner jag läste under året. <em>The Space Merchants</em> handlar om en reklammakare i en överbefolkad framtid som efter att ha blivit nerkastad på samhällets botten inser att det han dittills sysslat med är omoraliskt. Handlingen är berättad i en mycket spännande och medryckande thrillerform som hur lätt som helst skulle kunna omvandlas till en bra Hollywoodfilm och kritiken som här är riktad mot ett rovgirigt konsumtionssamhälle känns långt före sin tid.

@@ -5,8 +5,8 @@ date = 2008-04-14
 
 [taxonomies]
 forfattare = ["Anglemark"]
-kategorier = ["Kåserier", "Inbjudningar"]
-taggar = ["mediefandom", "Buffy", "evenemang", "Joss Whedon"]
+kategorier = ["Inbjudningar", "Kåserier"]
+taggar = ["Buffy", "Joss Whedon", "evenemang", "mediefandom"]
 +++
 
 Såg följande inbjudan på en e-postlista (Fanac-listan):

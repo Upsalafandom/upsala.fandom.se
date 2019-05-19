@@ -6,10 +6,10 @@ date = 2009-04-02
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Rapporter"]
-taggar = ["skrivande", "kongresser", "steampunk"]
+taggar = ["kongresser", "skrivande", "steampunk"]
 +++
 
-Jag har förlorat en del av mitt <a href="http://annien.wordpress.com/2009/01/27/the-extended-mind/">exended mind</a>: jag hittar inte min anteckningsbok. Jag brukar alltid bära med mig en sån, och där skriver jag ner alla saker som faller mig in: ideer, citat, att göra-listor, utkast till olika texter, minnesanteckningar, böcker jag vill läsa, och så vidare. Var är min anteckningsbok? Frustrerande. Nåja, några spridda noteringar från helgens kongress kan jag nog åstadkomma ändå.
+Jag har förlorat en del av mitt [exended mind](http://annien.wordpress.com/2009/01/27/the-extended-mind): jag hittar inte min anteckningsbok. Jag brukar alltid bära med mig en sån, och där skriver jag ner alla saker som faller mig in: ideer, citat, att göra-listor, utkast till olika texter, minnesanteckningar, böcker jag vill läsa, och så vidare. Var är min anteckningsbok? Frustrerande. Nåja, några spridda noteringar från helgens kongress kan jag nog åstadkomma ändå.
 
 För det första måste jag instämma med Ante om att det var mer välorganiserat i år. Alla verkade vara informerade om vilka paneler de skulle vara med i, och programmet ändrades inte mycket efter att kongressen börjat. Det var intressantare också (enligt min smak), med fler programpunkter som handlade om ideinnehåll och vad man kan göra med litteratur. Jag såg till exempel en panel som handlade om vad ondska egentligen är, och vad den har för roll i sf och fantasy. Och så var jag med i en panel om kolonialism och sf, som bland annat handlade om i vilken utsträckning sf är propaganda för kolonisering av rymden. Jag tycker förstås att paneler om att skriva och publicera är intressanta också.
 

@@ -9,7 +9,7 @@ kategorier = ["Recensioner"]
 taggar = ["Bokslut2007"]
 +++
 
-Jag fortsätter här min  genomgång av alla böcker jag läste ut under 2007. Den första delen kan läsas <a href="__FIXME__/bokslut-2007-del-1/">här</a>.
+Jag fortsätter här min  genomgång av alla böcker jag läste ut under 2007. Den första delen kan läsas [här](bokslut-2007-del-1).
 
 <strong>Jasper Fforde - <em>The Fourth Bear</em></strong> (ljudbok)
 Det här är den första romanen av Fforde som jag läst och jag kan definitivt tänka mig att läsa mer av honom. <em>The Fourth Bear</em> är en typiskt brittisk, lättsam och humoristisk bok som kan vara väldigt trevlig att läsa om man inte orkar ge sig på något tyngre, men som inte direkt lämnar något större avtryck.

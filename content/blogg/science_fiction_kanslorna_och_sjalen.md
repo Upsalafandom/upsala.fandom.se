@@ -6,14 +6,14 @@ date = 2008-05-19
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Kåserier"]
-taggar = ["galen vetenskapsman", "medvetande", "känslor", "kropp"]
+taggar = ["galen vetenskapsman", "kropp", "känslor", "medvetande"]
 +++
 
 På sistone har jag läst ett par saker som fått mig att fundera lite på det här med den vacklande och vinglande inställningen till känslor i science fiction. Det finns säkert väldigt mycket att säga om saken, men för tillfället knattrar jag bara ur mig ett par lösryckta tankar.
 
 En bok jag läser nu (Final Theory, en vetenskapsbaserad thriller av Mark Alpert) innehåller en person som lämnat fysiken för att syssla med robotar och artificiell intelligens. Han säger vid något tillfälle att människan är för dum för att kunna hålla fred. Han började syssla med AI i förhoppningen att vi skulle kunna lära oss mer om oss själva på den vägen och så kanske kunna nå en högre form av medvetande eller mognad.
 
-Jag läste också artikeln <a href="http://www.gwup.org/skeptiker/archiv/2004/4/mad_scientist.html">Von allen guten Geistern verlassen?</a>, som handlar om "galna vetenskapsmän" på film. Där sägs att det som skiljer de riktigt onda forskarna från de som bara är tragiska är känslorna. Det är ett exempel på det ganska vanliga sf-motivet att det är känslorna som gör oss mänskliga, och de som distanserar sig från känslorna (till exempel till förmån för att renodla sitt förnuft) också förlorar sin mänsklighet.
+Jag läste också artikeln [Von allen guten Geistern verlassen?](http://www.gwup.org/skeptiker/archiv/2004/4/mad_scientist.html), som handlar om "galna vetenskapsmän" på film. Där sägs att det som skiljer de riktigt onda forskarna från de som bara är tragiska är känslorna. Det är ett exempel på det ganska vanliga sf-motivet att det är känslorna som gör oss mänskliga, och de som distanserar sig från känslorna (till exempel till förmån för att renodla sitt förnuft) också förlorar sin mänsklighet.
 
 I det första exemplet är det känslorna som är farliga, och man är ute efter ett sätt att kunna vara smart nog att komma runt deras destruktiva tendens. I det andra exemplet är det förnuftet som är farligt, och känslorna som är den räddande aspekten. I båda fallen handlar det om kärnan i mänskligheten.
 

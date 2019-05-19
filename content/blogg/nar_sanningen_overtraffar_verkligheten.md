@@ -6,7 +6,7 @@ date = 2008-04-17
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["konspirationsteori", "teve", "frihet", "Arkiv X", "Adolf Hitler", "politik"]
+taggar = ["Adolf Hitler", "Arkiv X", "frihet", "konspirationsteori", "politik", "teve"]
 +++
 
 Jag har på sistone gjort ett återbesök i det förflutna. I detta fall innebar det en märklig impuls att titta på tv-serien <em>Arkiv X</em> igen. Den kunde när den var som sämst vara lite sådär småfånig, och när den var som bäst ett stycke ganska intrikat paranoia och konspirationsteori. Inget kittlar väl fantasin lika mycket som tanken på främmande liv i universum och om man dessutom får en liten adrenalinkick av invecklade försök att hålla sanningen hemlig så är det ju en given vinnare. På något vis kändes serien som en ganska typisk nittiotalare, med misstro mot etablissemang och lite anstrykning av "alternativa" livstolkningar. Men, det som slår en när man ser om den är ju hur spöklikt det känns som om den handlar om nutiden.

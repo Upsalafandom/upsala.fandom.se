@@ -6,7 +6,7 @@ date = 2008-10-19
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Rapporter"]
-taggar = ["kongresser", "fandom", "Montreal"]
+taggar = ["Montreal", "fandom", "kongresser"]
 +++
 
 Nu är det sista dagen på kongressen. Igår var det maskerad efter jag skrev sist. Rebecka hade fått vara i ett lekrum med de andra barnen under dagen. Det var en trevlig innovation som gjorde kongressbesökandet mer fritt för oss med barn. Barnen skulle också få vara med i maskeraden i en liten fashionshow. Rebecka fick vara prinsessa med sin lilla mjukiskatt i mantel och allt. Riktigt festligt.

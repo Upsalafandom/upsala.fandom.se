@@ -6,7 +6,7 @@ date = 2008-05-13
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Kåserier"]
-taggar = ["skräck", "Lovecraft"]
+taggar = ["Lovecraft", "skräck"]
 +++
 
 Ett av de nyare tillskotten i makens ganska imponerande rollspelssamling är <em>Trail of Cthulhu</em>. Jag bläddrade lite i den och råkade läsa beskrivningen av egenskapen "Sanity". Det slog mig att det här nog sätter fingret på en aspekt av vad som gör att den här sortens skräck inte funkar på mig. Så här står det:

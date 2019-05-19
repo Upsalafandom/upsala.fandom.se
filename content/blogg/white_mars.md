@@ -6,7 +6,7 @@ date = 2008-04-07
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Kåserier"]
-taggar = ["Mars", "Åre", "rymdexpeditioner"]
+taggar = ["Mars", "rymdexpeditioner", "Åre"]
 +++
 
 Jag är just återkommen från några dagar i Åre, och när jag befann mig uppe på Åreskutan så begrep jag mycket väl varför så många forskare och sf-författare drar paralleller mellan de vita vidderna vid polerna och förhållandena på Mars. (Det begrep jag i och för sig innan med, men det levandegjordes på ett suveränt sätt däruppe.)

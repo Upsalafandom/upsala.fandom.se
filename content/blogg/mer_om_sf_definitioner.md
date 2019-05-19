@@ -6,10 +6,10 @@ date = 2008-06-16
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Kåserier"]
-taggar = ["vetenskap", "science fiction", "litteratur", "forskare"]
+taggar = ["forskare", "litteratur", "science fiction", "vetenskap"]
 +++
 
-Detta ständigt återkommande ämne. Ni som har varit på ConFuse och träffat Adam Roberts har säkert haft tillfälle att diskutera science fictions sanna natur och sånt. För att ge lite mer näring till såna diskussioner vill jag bara presentera en liten observation jag gjort. <a href="http://lablit.com">LabLit.com</a> är en webbplats som handlar om forskare i litteraturen. Där finns en <a href="http://lablit.com/the_list">lista över olika verk</a>, som inleds med en liten förklaring av vad LabLit är för något. Där står så här:
+Detta ständigt återkommande ämne. Ni som har varit på ConFuse och träffat Adam Roberts har säkert haft tillfälle att diskutera science fictions sanna natur och sånt. För att ge lite mer näring till såna diskussioner vill jag bara presentera en liten observation jag gjort. [LabLit.com](http://lablit.com) är en webbplats som handlar om forskare i litteraturen. Där finns en [lista över olika verk](http://lablit.com/the_list), som inleds med en liten förklaring av vad LabLit är för något. Där står så här:
 
 
 

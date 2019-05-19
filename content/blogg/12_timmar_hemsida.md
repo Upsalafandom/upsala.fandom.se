@@ -29,4 +29,4 @@ Jesper skrev beskrivningar av bokpratsmötena och pubkvällarna.
 
 Vår förhoppning är att den nya hemsidan ska bli en mer integrerad del av vår verksamhet. Rapporter från pubkvällar, bokprat med mera kommer att hamna här.
 
-Om man <a href="__FIXME__/wp-login.php?action=register">registrerar sig</a> kan man på en gång börja skriva sina egna inlägg. Recensioner och annat är välkommet så väl som sådant som är direkt kopplat till vår verksamhet.
+Om man [registrerar sig](wp-login.php?action=register) kan man på en gång börja skriva sina egna inlägg. Recensioner och annat är välkommet så väl som sådant som är direkt kopplat till vår verksamhet.

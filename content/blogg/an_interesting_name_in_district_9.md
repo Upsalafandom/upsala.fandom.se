@@ -6,7 +6,7 @@ date = 2010-05-14
 [taxonomies]
 forfattare = ["George"]
 kategorier = ["Recensioner"]
-taggar = ["film", "District 9"]
+taggar = ["District 9", "film"]
 +++
 
 Last Saturday evening I viewed 'District 9' on my new DVD system. Two days ago I described the film to a Dutch woman who was active in the Anti-Apartheid movement in the Netherlands. While telling her a bit about this important film and its alien 'prawns,' I mentioned that the protagonist's surname was van de Merwe. She burst out in laughter. When she calmed down she told me that this name is South African slang for a shady, untrustworthy, character. The sort of creep one wouldn't want to buy a used car from.

@@ -6,7 +6,7 @@ date = 2008-07-28
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Kåserier"]
-taggar = ["fantasy", "noveller", "Kate Atkinson"]
+taggar = ["Kate Atkinson", "fantasy", "noveller"]
 +++
 
 Vad kallar man det? Slipstream? Weird fiction? Fast det kanske bara gäller om det är författare från genreghettot som skriver?

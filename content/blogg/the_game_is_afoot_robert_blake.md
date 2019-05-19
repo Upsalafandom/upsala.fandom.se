@@ -6,7 +6,7 @@ date = 2008-06-18
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Recensioner"]
-taggar = ["victoriana", "H.P. Lovecraft", "Sherlock Holmes", "pasticher", "London"]
+taggar = ["H.P. Lovecraft", "London", "Sherlock Holmes", "pasticher", "victoriana"]
 +++
 
 För ett tag sedan gick vi här i Kanada igång ordentligt på victoriansk kultur, gammal och nygammal. Åka har sin fascination för steampunk, och jag har återupptäckt den främste av detektiver, Sherlock Holmes.

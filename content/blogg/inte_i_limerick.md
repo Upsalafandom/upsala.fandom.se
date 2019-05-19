@@ -6,7 +6,7 @@ date = 2008-09-03
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Rapporter"]
-taggar = ["pubmöten", "Göstapriset", "Williams"]
+taggar = ["Göstapriset", "Williams", "pubmöten"]
 +++
 
 Igår var det terminsstart för Upsalafandoms månadsmöten. Nå, mötena har hållits varje månad utan undantag sedan 1 januari 1997, så några särskilda terminer har vi knappast, men det lokala universitetet har kört igång och en färsk filosofie student vid namn Erik från Vagnhärad hade sökt sig till vitterhetens källa för att insupa visdom runt borden på Williams. Evelina som gjorde ett nedslag på ett möte för fyra år sedan var också där, samt Bertil och Otto - nykomlingar från förra mötet. Otto, som är den ende fan jag vet som raggats till fandom av en taxichaufför i tjänst. Dessutom var ett urval av the usual suspects närvarande; Lennart K, Gunnar, Lena, Johan J, Jesper, Gabriel, Lennart J, Jolkkonen, August och Carl-Henrik. Har jag glömt någon beklagar jag, jag förde inga anteckningar utan detta minne är silat genom - i tur och ordning - en otillräckligt salt lassi, en Gem, en Hell, en Westmalle Tripel samt en Tripel Karmeliet.
@@ -23,4 +23,4 @@ Tre Kontextarrangörer pratade om planeringen framöver, och avlade högtidliga 
 
 Annars var det det vanliga sladdret om Star Trek, Orhan Pamuk, alkohol, hurritisk meningsbyggnad, essäer om skiffy och annat som förgyller Upsalafanens pubtimmar.
 
-Till sist en uppmaning: På nästa möte, oktobermötet, är det dags för första gången på fem år att utse en <a title="Göstapriset" href="http://sfweb.dang.se/a/gosta/gostapriset.html" target="_blank">Göstapristagare</a>! Slut upp och rösta fram en värdig vinnare!
+Till sist en uppmaning: På nästa möte, oktobermötet, är det dags för första gången på fem år att utse en [Göstapristagare](http://sfweb.dang.se/a/gosta/gostapriset.html)! Slut upp och rösta fram en värdig vinnare!

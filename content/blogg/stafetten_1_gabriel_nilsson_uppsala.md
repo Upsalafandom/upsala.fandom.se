@@ -6,7 +6,7 @@ date = 2008-07-30
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Intervjuer"]
-taggar = ["uppväxt", "författande", "speldesign", "rollspel"]
+taggar = ["författande", "rollspel", "speldesign", "uppväxt"]
 +++
 
 <span lang="SV"><em>Jag kommer under en tid framöver att utföra personliga intervjuer med ett antal människor inom svensk fandom eller som på annat vis är involverade i det här med sf och fantasy. Resultaten presenterar jag här på Upsalafandombloggen. Först ut är Gabriel Nilsson!</em></span>

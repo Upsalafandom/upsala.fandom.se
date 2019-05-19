@@ -17,6 +17,6 @@ Så kan man ju sammanfatta "Eld och rörelse"s begynnelse. Det började på Will
 
 Nu, så här halvtannat år efter starten, har jag hunnit få en del respons på boken, av Uppsalafans och andra. "Nineves skatt", "Ett svenskt Roswell" och "Riddaren, djävulen och döden" tycks vara de mest populära novellerna.
 
-Sedan har det kommit en veritabel recension av boken också, en bloggräka av en skribent som gått i närkamp med texten. Det är poeten Granlund på "Marmeladkungen" som funnit mycket att tala om, mycket att reagera på och en hel del att gilla också, bland annat titelstoryn. <a href="http://marmeladkungen.wordpress.com/2008/12/13/bokrecension-eld-och-rorelse-av-lennart-svensson/">Läs hela inlägget här.</a>
+Sedan har det kommit en veritabel recension av boken också, en bloggräka av en skribent som gått i närkamp med texten. Det är poeten Granlund på "Marmeladkungen" som funnit mycket att tala om, mycket att reagera på och en hel del att gilla också, bland annat titelstoryn. [Läs hela inlägget här.](http://marmeladkungen.wordpress.com/2008/12/13/bokrecension-eld-och-rorelse-av-lennart-svensson)
 
 Det rör på sig litegrann får man säga. Och nu fortsätter äventyret; i februari (typ) lär jag ha min nästa bok klar, en roman, och då ska jag låta även den ha sin debut på Williams. Jag ska alltså "gå runt och sälja den bland folk på den där baren"...

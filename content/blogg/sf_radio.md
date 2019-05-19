@@ -6,7 +6,7 @@ date = 2008-03-31
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Kåserier"]
-taggar = ["radio", "mp3"]
+taggar = ["mp3", "radio"]
 +++
 
 Oh, yum!

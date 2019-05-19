@@ -11,4 +11,4 @@ taggar = ["Fanspan"]
 
 Jag har det inte alltid lätt att motivera mig att uppdatera Fanspan, med tanke på hur många bloggar det numera finns som rapporterar nyheter från sf-fältet. Finns behovet fortfarande? Nåja, jag har börjat skönja lite mer obunden fritid, så då passade jag på att uppdatera Fanspan med sådant som har inträffat senaste månaden, kongresser, Tolkienistjubileer, Alvarpriset, filmfestivalnyheter och annat.
 
-<a href="http://sfweb.dang.se/a/span.html">http://sfweb.dang.se/a/span.html</a>
+[http://sfweb.dang.se/a/span.html](http://sfweb.dang.se/a/span.html)

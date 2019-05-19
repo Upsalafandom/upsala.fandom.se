@@ -6,7 +6,7 @@ date = 2008-10-09
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Intervjuer"]
-taggar = ["Hallstahammar", "utbildning", "Kruse", "rädda världen", "aktivism", "Östtimor", "Dalai Lama"]
+taggar = ["Dalai Lama", "Hallstahammar", "Kruse", "aktivism", "rädda världen", "utbildning", "Östtimor"]
 +++
 
 <em>Detta är den tredje av mina personliga intervjuer med människor inom svensk fandom eller som på annat vis är involverade i det här med sf och fantasy. Kruse föreslogs av det förra intervjuoffret, Biörn X Öqvist, med motiveringen att hon är en ganska skön person!</em>
@@ -53,7 +53,7 @@ Men allt var inte kul. Att vara omringad av indonesiska flottan ute vid kusten v
 
 Inte för att det avskräckte mig. Jag körde flera race tills jag fick fast anställning och började pendla till Sala 1994. Efter det har jag bara gjort kortare strandhugg, mestadels i Bryssel där mitt förlag har anordnat en del konferenser med fokus på "u-lands"-kvinnor i världsekonomin. Att stå mitt i ett gäng nynazister i Berlin på <em>Anschluss</em>-dagen med min "judiska näsa" var inte heller riskfritt. Jag klarade mig med mitt svenska pass och tyskklingande namn (då bar de till och med mitt bagage...)
 
-Just nu är det Västsahara jag arbetar mest med, särskilt genom det lilla bokförlag i form av stiftelse som jag sedan många år driver med ett par kompisar. Kolla vår hemsida <a title="Global Publications" href="http://www.globalpublications.org" target="_blank">www.globalpublications.org</a>. Där kan man läsa en hel del artiklar (gratis) och köpa böcker. Mina två titlar om Östtimor är slutsålda tror jag, men den första av dem håller just nu på att bli översatt till bosniska. Kul!
+Just nu är det Västsahara jag arbetar mest med, särskilt genom det lilla bokförlag i form av stiftelse som jag sedan många år driver med ett par kompisar. Kolla vår hemsida [www.globalpublications.org](http://www.globalpublications.org). Där kan man läsa en hel del artiklar (gratis) och köpa böcker. Mina två titlar om Östtimor är slutsålda tror jag, men den första av dem håller just nu på att bli översatt till bosniska. Kul!
 
 Men mina barn Anna och Jarl, 10 respektive 4 år, går naturligtvis före allt annat.
 <h2>Arbetet</h2>

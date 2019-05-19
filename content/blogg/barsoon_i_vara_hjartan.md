@@ -6,7 +6,7 @@ date = 2009-04-13
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["Edgar Rice Burroughs", "Barssom"]
+taggar = ["Barssom", "Edgar Rice Burroughs"]
 +++
 
 Nu har jag läst två volymer av Edgar Rice Burroughs kända Barsoom serie. Det är märkligt vad autodidakter kan producera märkliga verk när de ger sig hän. Den första volymen skrevs av en Burroughs som hade prövat det mesta, och nu var pank och desillusionerad. Klart att då kan man ju kanske lika gärna skriva en bok!

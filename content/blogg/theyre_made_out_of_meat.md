@@ -6,7 +6,7 @@ date = 2009-05-04
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Länkar"]
-taggar = ["David Lynch", "Björnar", "Kött", "Terry Bission"]
+taggar = ["Björnar", "David Lynch", "Kött", "Terry Bission"]
 +++
 
 

@@ -9,7 +9,7 @@ kategorier = ["Recensioner"]
 taggar = ["Bokslut2007"]
 +++
 
-Nu till del fyra i vår <a href="__FIXME__/tag/bokslut2007/">odyssé</a> genom det litterära landskapet.
+Nu till del fyra i vår [odyssé](tag/bokslut2007) genom det litterära landskapet.
 
 <strong>Ursula K. Le Guin - <em>The Left Hand of Darkness</em></strong>
 <em>The Left Hand of Darkness</em> är även den en riktig klassiker. När den gavs ut 1969 lyckades den vinna både Hugo- och Nebulapriset och tillsammans med <em>The Dispossessed</em> får den ses som Le Guins mest kända sf-roman.

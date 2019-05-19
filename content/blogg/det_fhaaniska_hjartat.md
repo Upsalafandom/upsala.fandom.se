@@ -6,7 +6,7 @@ date = 2008-03-01
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["fandom", "fhaaniskhet", "rollspel", "rhåkraft", "hack mode", "samhörighet"]
+taggar = ["fandom", "fhaaniskhet", "hack mode", "rhåkraft", "rollspel", "samhörighet"]
 +++
 
 Det här med flocken, gruppen, är intressant. Här sitter du nu och läser det här på en webbplats som heter fandom.se, vilket alltså betyder att det här har nåt med den där "fandom" att göra. Vad är det där egentligen, undrar jag ibland? Vad är den fhaaniska essensen?

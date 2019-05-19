@@ -11,7 +11,7 @@ taggar = ["teve"]
 
 Vi har lanserat en ny hemsida för Uppsalafandom, och till den ska höra en blogg – denna blogg. Och själv har jag ombetts att skriva i bloggen, gärna det...!
 
-Detta är alltså mitt första blogginlägg i detta forum. Och jag tänkte jag skulle skriva om TV-serien <a href="http://imdb.com/title/tt0118480/">Stargate SG-1</a>. Den går på Kanal 6 på vardagar kl 1800 och är väl värd att följa.
+Detta är alltså mitt första blogginlägg i detta forum. Och jag tänkte jag skulle skriva om TV-serien [Stargate SG-1](http://imdb.com/title/tt0118480). Den går på Kanal 6 på vardagar kl 1800 och är väl värd att följa.
 
 Jovisst är den det; ge den några chanser och du ska se att du är fast. Hursomhelst är det en smart serie, av flera skäl. Jag kan här förbigå sånt som bra rollbesättning (den har det, nog om det) och lagom påkostad scenografi, för det bästa med den är själva intrigerna, själva mångfalden i intrigtrådar.
 

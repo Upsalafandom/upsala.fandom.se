@@ -15,7 +15,7 @@ Jag har just börjat lyssna på en serie podcasts med samtal mellan Jonathan Str
 
 Det här är två snubbar som är grundligt pålästa och belästa, och som slänger namn och titlar ur sig på löpande band. Ofta gör de som man brukar när man är väldigt bekant med folk och kallar författare vid enbart förnamn, så man får spetsa öronen ibland för att hänga med. I stort sett har jag inte haft några problem med det ändå, och det är kul och inspirerande att höra på. I några avsnitt har de tagit in fler personer i konversationen också. 
 
-Alla avsnitt kan laddas ner från <a href="http://www.jonathanstrahan.com.au/wp/">Jonathan Strahans blogg</a>. Jag hittade dem först via <a href="http://vectoreditors.wordpress.com/2010/07/09/no-present-like-links/">en länklista på Torque Control (Vector-bloggen)</a>, där det finns direktlänkar till de första nio avsnitten. Sedan får man leta i arkiven efter resten.
+Alla avsnitt kan laddas ner från [Jonathan Strahans blogg](http://www.jonathanstrahan.com.au/wp). Jag hittade dem först via [en länklista på Torque Control (Vector-bloggen)](http://vectoreditors.wordpress.com/2010/07/09/no-present-like-links), där det finns direktlänkar till de första nio avsnitten. Sedan får man leta i arkiven efter resten.
 
 Jag tänker nog lyssna igenom dem i tur och ordning. Får se om jag kommer ikapp!
 

@@ -13,4 +13,4 @@ Jag säger bara hjälp! Var finns en personlig assistent som kan hjälpa mig? At
 
 Var finns SF/F i det?
 
-PS. Jag ser att jag är den tredje i raden med ursäkter för att jag inte hinner... <a href="http://blogg.aftonbladet.se/597">Titta in på min andra blogg </a>och få er lite till livs i alla fall.
+PS. Jag ser att jag är den tredje i raden med ursäkter för att jag inte hinner... [Titta in på min andra blogg ](http://blogg.aftonbladet.se/597)och få er lite till livs i alla fall.

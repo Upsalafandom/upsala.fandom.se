@@ -9,7 +9,7 @@ kategorier = ["Inbjudningar"]
 taggar = ["bokprat"]
 +++
 
-Onsdagen 16/4 är datumet för nästa bokpratsmöte. Den aktuella boken den här gången är Cory Doctorows <i>Someone Comes to Town, Someone Leaves Town</i>. Skulle man inte vilja lägga sina surt förvärvade slantar på att köpa den, eller vill beställa hem den men tycker att det är lite ont om tid, så har författaren lagt upp den för gratis nedladdning i en lång rad format  <a href="http://craphound.com/someone/download.php">här</a>.
+Onsdagen 16/4 är datumet för nästa bokpratsmöte. Den aktuella boken den här gången är Cory Doctorows <i>Someone Comes to Town, Someone Leaves Town</i>. Skulle man inte vilja lägga sina surt förvärvade slantar på att köpa den, eller vill beställa hem den men tycker att det är lite ont om tid, så har författaren lagt upp den för gratis nedladdning i en lång rad format  [här](http://craphound.com/someone/download.php).
 
 Bok: <i>Someone Comes to Town, Someone Leaves Town</i>, Cory Doctorow.
 Tidpunkt: 16/4 klockan 19:00.

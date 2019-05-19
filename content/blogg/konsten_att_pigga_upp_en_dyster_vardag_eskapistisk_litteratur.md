@@ -6,7 +6,7 @@ date = 2008-03-14
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["böcker", "svart humor", "Larry Niven", "läsvanor", "Paul McAuley", "Glen Cook"]
+taggar = ["Glen Cook", "Larry Niven", "Paul McAuley", "böcker", "läsvanor", "svart humor"]
 +++
 
 Jag har funderat lite mer på det här om vad det är jag läser, och varför. För två dagar sedan fick jag ett brev från min far som berättade att farfar slutat sina dagar. Precis som när jag förra året fick besked om ett annat dödsfall, så blev det förstås något som kom att påverka mig på alla plan. Detta inkluderar förstås även vad jag läser.

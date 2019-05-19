@@ -6,7 +6,7 @@ date = 2009-03-31
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier", "Rapporter"]
-taggar = ["kongress", "Ad Astra", "Toronto"]
+taggar = ["Ad Astra", "Toronto", "kongress"]
 +++
 
 Så var då ännu en kongress avklarad! Lite sliten och med en huvudvärk i tungviktsklass så ska jag försöka sammanfatta lite intryck. 

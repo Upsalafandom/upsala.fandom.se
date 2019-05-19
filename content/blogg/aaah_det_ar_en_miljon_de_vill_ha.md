@@ -13,4 +13,4 @@ Jag läste nyheten på flera bloggar.
 
 The Fine Books Company i Rochester, Michigan, erbjuder en uppsättning förstaupplagor av alla Hugo- och Nebula-vinnande romaner för 116,50 dollar. Huh? Hur kan det vara så billigt? Varför beklagar folk att de inte har råd? Det är väl bara att slå till? Vad är det jag missar.
 
-Sedan gick jag till<a title="Hugo- och Nebulavinnare till salu" href="http://www.abebooks.com/books/collecting-hugo-nebula/science-fiction-fantasy-awards.shtml?cm_ven=nl&amp;cm_cat=nl&amp;cm_pla=cme_hugo_nebula&amp;cm_ite=feature-top" target="_self"> sidan som de hänvisade till</a> och insåg hur jag hade läst fel. Aha.
+Sedan gick jag till[ sidan som de hänvisade till](http://www.abebooks.com/books/collecting-hugo-nebula/science-fiction-fantasy-awards.shtml?cm_ven=nl&amp;cm_cat=nl&amp;cm_pla=cme_hugo_nebula&amp;cm_ite=feature-top) och insåg hur jag hade läst fel. Aha.

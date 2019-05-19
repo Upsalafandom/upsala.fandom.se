@@ -6,7 +6,7 @@ date = 2010-02-16
 [taxonomies]
 forfattare = ["Jesper"]
 kategorier = ["Rapporter"]
-taggar = ["bokprat", "Thomas M. Disch", "Camp Concentration", "science fiction"]
+taggar = ["Camp Concentration", "Thomas M. Disch", "bokprat", "science fiction"]
 +++
 
 <div>I onsdags träffades vi hemma hos Björn Lindström för att diskutera <a href="http://en.wikipedia.org/wiki/Camp_Concentration"><em>Camp Concentration</em></a> av Thomas M. Disch. Närvarande var jag, Björn och George Berger. Jag hade precis läst ut boken och Björn likaså, men han hävdade att han varit för trött när han läste den och hade därför inte riktigt kunnat ta sig till den. George hade läst den för många år sedan, men tyckte ändå att det var en så bra bok att den kunde vara värd att diskutera. Eftersom jag då var den med boken bäst i minnet inledde jag mötet med att kort sammanfatta dess handling (något som borde bli en vana på framtida bokprat, då det är ett utmärkt sätt att få igång lite diskussion).</div>

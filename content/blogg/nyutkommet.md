@@ -15,7 +15,7 @@ Själv gjorde jag precis den intressanta iakttagelsen att de fem senaste böcker
 
 Två saker bidrar till att jag läser fler nya böcker, särskilt det senaste året.
 
-1) RSS, som hjälper mig att hålla koll på <a href="http://locusmag.com" title="Locus">Locus online</a> och andra källor till information online, så att jag vet något om vad som är på gång i bokvärlden. Det har jag använt mig av i tre år, eller vad det nu kan bli.
+1) RSS, som hjälper mig att hålla koll på [Locus online](http://locusmag.com) och andra källor till information online, så att jag vet något om vad som är på gång i bokvärlden. Det har jag använt mig av i tre år, eller vad det nu kan bli.
 
 2) Hyllan för nyinkommen science fiction på biblioteket. Det här gäller bara det senaste året, för säga vad man vill: på svenska bibliotek finns inte en hylla med ny sf och fantasy i hårdpärm. På svenska bibliotek kan man (nästan) aldrig läsa engelskspråkig fantastik i tid att hinna nominera den till Hugon, men det kan man faktiskt här.
 

@@ -9,4 +9,4 @@ kategorier = ["Länkar"]
 taggar = ["film"]
 +++
 
-...och ser fram emot <a href="http://www.imdb.com/title/tt0910970/" title="IMDb">Wall*E</a>.
+...och ser fram emot [Wall*E](http://www.imdb.com/title/tt0910970).

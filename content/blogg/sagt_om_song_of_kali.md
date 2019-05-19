@@ -5,8 +5,8 @@ date = 2009-01-21
 
 [taxonomies]
 forfattare = ["Björn"]
-kategorier = ["Recensioner", "Rapporter"]
-taggar = ["böcker", "bokprat", "skräck", "Dan Simmons"]
+kategorier = ["Rapporter", "Recensioner"]
+taggar = ["Dan Simmons", "bokprat", "böcker", "skräck"]
 +++
 
 Ikväll möttes sex belevade Upsalafans hemma hos mig för det första bokpratet i den nya serien.
@@ -23,4 +23,4 @@ De fantastiska elementen i boken består av händelser relaterade till Kalikulte
 
 Är det någon mer som läst boken och har något att tillägga?
 
-Nästa bok till läsning är <em>Last Call</em> av Tim Powers. Se <a href="__FIXME__/bokprat/">sidan om bokprat</a> och <a href="__FIXME__/kalender/">kalendariet</a>.
+Nästa bok till läsning är <em>Last Call</em> av Tim Powers. Se [sidan om bokprat](bokprat) och [kalendariet](kalender).

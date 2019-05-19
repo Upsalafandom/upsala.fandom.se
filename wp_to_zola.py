@@ -10,6 +10,9 @@ URL_RE = re.compile(r"https?://upp?sala\.fandom\.se")
 MORE_RE = re.compile(r"<!-- *more *-->\r?")
 CLASS_RE = re.compile(r'class="[^"]*"')
 EMPTY_ALT_RE = re.compile(r'alt=""')
+LINK_RE = re.compile(
+    r'<a[^>]+href="(?:__FIXME__)?(?:/)?(?P<url>[^"]*[^/])/?"[^>]*>(?P<text>[^<]+)</a>'
+)
 
 
 def clean_content(content):
@@ -17,6 +20,7 @@ def clean_content(content):
     content = MORE_RE.sub("<!-- more -->", content)
     content = CLASS_RE.sub("", content)
     content = EMPTY_ALT_RE.sub("", content)
+    content = LINK_RE.sub("[\g<text>](\g<url>)", content)
     return content
 
 
@@ -72,31 +76,43 @@ for d in ("content", "content/blogg"):
     except FileExistsError:
         pass
 
-# Get pages
-pages = channel.xpath('./item[wp:post_type = "page"]', namespaces=namespaces)
-for page in pages:
+# Get posts
+posts = channel.xpath('./item[wp:post_type = "post"]', namespaces=namespaces)
+for post in posts:
     # Extract data
-    title = page.xpath("./title/text()")[0]
-    slug = page.xpath("./wp:post_name/text()", namespaces=namespaces)[0].replace(
+    title = post.xpath("./title/text()")[0].replace('"', '\\"')
+    slug = post.xpath("./wp:post_name/text()", namespaces=namespaces)[0].replace(
         "-", "_"
     )
-
-    if slug in ("blogg", "riktlinjer"):
-        continue
-
-    if slug == "e_postlista":
-        slug = "epostlista"
-
+    author = post.xpath("./dc:creator/text()", namespaces=namespaces)[0]
+    date = post.xpath("./wp:post_date/text()", namespaces=namespaces)[0][:10]
     content = clean_content(
-        page.xpath("./content:encoded/text()", namespaces=namespaces)[0].rstrip()
+        post.xpath("./content:encoded/text()", namespaces=namespaces)[0]
     )
 
+    categories = {
+        e.xpath("./text()")[0]
+        for e in post.xpath('./category[@domain="category"]', namespaces=namespaces)
+    }
+    categories_list = ", ".join(f'"{c}"' for c in sorted(categories))
+    tags = {
+        e.xpath("./text()")[0]
+        for e in post.xpath('./category[@domain="post_tag"]', namespaces=namespaces)
+    }
+    tag_list = ", ".join(f'"{t}"' for t in sorted(tags))
+
     # Write file
-    with open(f"content/sidor/{slug}.md", "w") as f:
+    with open(f"content/blogg/{slug}.md", "w") as f:
         f.write(
             f"""+++
 title = "{title}"
-path = "{slug}"
+slug = "{slug}"
+date = {date}
+
+[taxonomies]
+forfattare = ["{authors[author]}"]
+kategorier = [{categories_list}]
+taggar = [{tag_list}]
 +++
 
 {content}

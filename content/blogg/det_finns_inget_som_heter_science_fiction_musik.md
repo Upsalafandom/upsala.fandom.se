@@ -6,7 +6,7 @@ date = 2008-02-18
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Kåserier"]
-taggar = ["musik", "Jeff Wayne"]
+taggar = ["Jeff Wayne", "musik"]
 +++
 
 Det är väldigt vanligt att sf- och fantasydiggare pratar om sf-musik och fantasymusik, med vilket de verkar mena något slags symfonisk rock eller hårdrock respektive svartmetall. Möjligen medeltidsliknande ballader om troll eller skäggiga krigare. Jag är en smula allergisk mot detta. Fantasy och sf är former av fiktion, berättelser som skildrar något som är tekniskt omöjligt för att vår vetenskap inte kommit på hur man gör, respektive något som är bryter mot våra naturlagar - magi och så vidare. Musikstycken, däremot, bryter inte mot våra naturlagar eller är tekniskt omöjliga. Inte heller är de berättelser om sådant.

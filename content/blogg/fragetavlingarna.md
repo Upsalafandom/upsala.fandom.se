@@ -6,10 +6,10 @@ date = 2013-08-07
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Rapporter"]
-taggar = ["quiz", "pubmöten", "frågetävling"]
+taggar = ["frågetävling", "pubmöten", "quiz"]
 +++
 
-Vi firade ju den 200:e pubträffen i obruten följd i går på Pipes of Scotland. Det var kul, jag räknade till 41 vuxna och ett barn, och jag kan ha missat någon. Största mötet någonsin och det överlägset största augustimötet. Av de elva som var på<a href="__FIXME__/1997/01/04/4-januari-1997/"> första mötet 4 januari 1997</a>, var tre närvarande: jag själv, Sten och Zrajm.
+Vi firade ju den 200:e pubträffen i obruten följd i går på Pipes of Scotland. Det var kul, jag räknade till 41 vuxna och ett barn, och jag kan ha missat någon. Största mötet någonsin och det överlägset största augustimötet. Av de elva som var på[ första mötet 4 januari 1997](1997/01/04/4-januari-1997), var tre närvarande: jag själv, Sten och Zrajm.
 
 Den stora aktiviteten på mötet var en frågetävling i fyra delar med fina priser, både prasslande (böcker) och flytande (öl). Jag lovade att lägga upp frågor och svar i efterhand. Här kommer de:
 
@@ -42,7 +42,7 @@ X-Files</li>
 	<li>Vem har skrivit böckerna om pandionriddaren Spjuthök?</li>
 	<li>Vilken bransch utsätts för Frederik Pohls och Cyril Kornbluths satir i romanen Venus är vår?</li>
 </ol>
-<a href="__FIXME__/wp-content/uploads/2013/08/facit1.pdf">Facit till deltävling 1</a>
+[Facit till deltävling 1](wp-content/uploads/2013/08/facit1.pdf)
 
 <b>Deltävling 2: Författares födelseår</b>
 
@@ -68,7 +68,7 @@ James Tiptree, Jr.
 H G Wells
 Kurt Vonnegut
 
-<a href="__FIXME__/wp-content/uploads/2013/08/facit2.pdf">Facit till deltävling 2</a>
+[Facit till deltävling 2](wp-content/uploads/2013/08/facit2.pdf)
 
 <b>Deltävling 3: </b><b>Författarinitialer</b>
 
@@ -110,7 +110,7 @@ SJL
 TÅB
 UKL<b><br clear="all" /> </b>
 
-<a href="__FIXME__/wp-content/uploads/2013/08/facit3.pdf">Facit till deltävling 3</a>
+[Facit till deltävling 3](wp-content/uploads/2013/08/facit3.pdf)
 
 <b>Deltävling 4: Kasta om bokstäverna</b>
 
@@ -132,4 +132,4 @@ Vilka filmer döljer sig i följande anagram?
 	<li>Cheetah Nap Moment</li>
 	<li>Alienate Unjust Tangent Term</li>
 </ol>
-<a href="__FIXME__/wp-content/uploads/2013/08/facit4.pdf">Facit till deltävling 4</a>
+[Facit till deltävling 4](wp-content/uploads/2013/08/facit4.pdf)

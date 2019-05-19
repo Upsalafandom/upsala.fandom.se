@@ -13,7 +13,7 @@ Jaaaa!
 
 De galna finnar som tillverkade den charmiga StarTrek parodin StarWreck håller tydligen på att begå ytterligare en egensinnig produktion, utan hänsyn till ifall folk tänker ge dem pengar för det eller inte (är mitt intryck)
 
-<a href="http://www.ironsky.net/site/?p=16">Site med Teaser-trailer</a>
+[Site med Teaser-trailer](http://www.ironsky.net/site/?p=16)
 
 Tydligen körde de gamla pålitliga antagonisterna i nazityskland ihop en månbas precis innan det tredje riket föll samman - nu har de (i tystnaden på månens mörka sida) vuxit i styrka sedan dess, och tänker få resten av världen att förstå det fantastiska med vakuumtorkad knackwürst (får man anta), med hjälp av sina avancerade vapen och flygande tefat :) 
 

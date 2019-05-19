@@ -6,7 +6,7 @@ date = 2008-07-15
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Kåserier"]
-taggar = ["fantasy", "språk", "fantasi"]
+taggar = ["fantasi", "fantasy", "språk"]
 +++
 
 Det finns en del "hjälpvetenskaper" för fantasyförfattare. Ett typiskt fantasyverk som utspelar sig i en sekundärvärld à la Tolkiens Midgård, Lewis Narnia, Jordans "Randland" osv, är ju ofta försett med kartor, egna språk eller fragment därav, utdrag ur fiktiva historiekrönikor osv. Tanken slog mig just att detta kanske inte bara är en konsekvens av att författaren försöker att måla upp en trovärdig sekundärvärld, utan närmare förknippat med den kreativa processen än så?

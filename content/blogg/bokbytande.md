@@ -6,7 +6,7 @@ date = 2009-03-05
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Kåserier"]
-taggar = ["bookcrossing", "bokbytande", "bokbytardagen"]
+taggar = ["bokbytande", "bokbytardagen", "bookcrossing"]
 +++
 
 Idag är det stora bokbytardagen. Folk träffas i ett antal av Sveriges större städer och byter böcker med främlingar. Man tar med sig en bok man vill byta bort, och går till mötesplatsen för att ta emot en bok av någon annan. Jag begriper mig inte på det.

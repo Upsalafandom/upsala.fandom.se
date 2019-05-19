@@ -6,7 +6,7 @@ date = 2008-09-07
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Recensioner"]
-taggar = ["böcker", "science fiction", "ekologi"]
+taggar = ["böcker", "ekologi", "science fiction"]
 +++
 
 [caption id="attachment_277" align="alignleft" width="300" caption="Bokomslag: The World Without Us"]<a href="__FIXME__/wp-content/uploads/2008/09/worldwithoutus.jpg"><img  src="__FIXME__/wp-content/uploads/2008/09/worldwithoutus-300x300.jpg" alt="The World Without Us" width="300" height="300" /></a>[/caption]En sak i <em>Book of the New Sun</em> som gjorde starkt intryck på mig var känslan av att ha så mycket av mänsklighetens sönderfallande lämningar under Severians fötter. Sand av nedmalna gamla städer, och gömda och glömda rester av äldre tider.
@@ -17,7 +17,7 @@ Vad skulle hända om människan försvann? Hur länge skulle våra byggnader st�
 
 Det handlar också om hur våra byggnader och vår teknologi står sig med tiden. Här har vi Severians sand.
 
-Scientific American skrev en del när boken kom ut, bland annat hade de en tidslinje för New Yorks sönderfall. <a href="http://www.sciam.com/article.cfm?id=an-earth-without-people">Här kan man hitta artikeln</a> om man skulle ha missat den.
+Scientific American skrev en del när boken kom ut, bland annat hade de en tidslinje för New Yorks sönderfall. [Här kan man hitta artikeln](http://www.sciam.com/article.cfm?id=an-earth-without-people) om man skulle ha missat den.
 
 Läser man inte den här boken är det i alla fall värt att känna till vad man missar.
 

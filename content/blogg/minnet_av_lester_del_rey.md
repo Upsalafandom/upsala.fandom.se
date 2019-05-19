@@ -6,16 +6,16 @@ date = 2009-03-02
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["Lester del Rey", "science fiction", "litteratur", "historia"]
+taggar = ["Lester del Rey", "historia", "litteratur", "science fiction"]
 +++
 
-Nyligen fick bokpratargruppen <a href="http://fearlessfantasy.wordpress.com/">Fearless Fantasy Fans</a> ärva en boksamling. Jag råkar ju ha lyckan att bo med en av de drivande krafterna i gruppen, och dessutom bo i den lägenhet där bö§ckerna förvaras för vidare spridning i gruppen. Möjligheterna att botanisera i samlingen har alltså varit goda, och jag har funnit en del pärlor.
+Nyligen fick bokpratargruppen [Fearless Fantasy Fans](http://fearlessfantasy.wordpress.com) ärva en boksamling. Jag råkar ju ha lyckan att bo med en av de drivande krafterna i gruppen, och dessutom bo i den lägenhet där bö§ckerna förvaras för vidare spridning i gruppen. Möjligheterna att botanisera i samlingen har alltså varit goda, och jag har funnit en del pärlor.
 
-En sak som slog mig, var att det fanns många samlingar med "best of" diverse mer eller mindre stora namn i genren. Det verkar som om The Science Fiction Bookclub gett ut en hel del sådana. Flera av dessa var intressanta, och jag kanske kommer att skriva mer om dem senare, men en som speciellt fångade min blick var den som samlade berättelser av <a href="http://en.wikipedia.org/wiki/Lester_Del_Rey">Lester del Rey.</a>
+En sak som slog mig, var att det fanns många samlingar med "best of" diverse mer eller mindre stora namn i genren. Det verkar som om The Science Fiction Bookclub gett ut en hel del sådana. Flera av dessa var intressanta, och jag kanske kommer att skriva mer om dem senare, men en som speciellt fångade min blick var den som samlade berättelser av [Lester del Rey.](http://en.wikipedia.org/wiki/Lester_Del_Rey)
 
 <!-- more -->
 
-Vilka av läsarna har hört talas om namnet del Rey? Är det via Del Rey Books, månne? Själv hörde jag talas om namnet på det viset, och då fick jag även veta att det var Lesters fru <a href="http://en.wikipedia.org/wiki/Judy-Lynn_del_Rey">Judy Lynn</a> som namngett Del Rey Books. Lite efterforskningar (på Wikipedia, som man gör nu för tiden) gav vid handa att han åstadkommit en hel del, och även fått fina priser för sina insatser. Så, är det bara jag som har dålig koll, eller är han inte så känd numera?
+Vilka av läsarna har hört talas om namnet del Rey? Är det via Del Rey Books, månne? Själv hörde jag talas om namnet på det viset, och då fick jag även veta att det var Lesters fru [Judy Lynn](http://en.wikipedia.org/wiki/Judy-Lynn_del_Rey) som namngett Del Rey Books. Lite efterforskningar (på Wikipedia, som man gör nu för tiden) gav vid handa att han åstadkommit en hel del, och även fått fina priser för sina insatser. Så, är det bara jag som har dålig koll, eller är han inte så känd numera?
 
 Nu kunde jag förstås inte låta bli att läsa lite i den <em>Best of Lester del Rey</em> volym som bor hemma hos oss. Ganska snart fick jag faktiskt en hypotes om varför Lester kanske är en av de bortglömda författarna. Jag ska presentera mina intryck, och har du några egna är jag sugen på att höra dem. Vårt exemplar av John-Henris <em>Inre Landskap, och yttre rymd</em> är ju t.ex. i Upsala, så jag vet inte om han kanske skriver nåt insiktsfullt där.
 

@@ -6,7 +6,7 @@ date = 2008-05-01
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["litteraturteori", "obehag", "kaos", "skräck", "Hamlet"]
+taggar = ["Hamlet", "kaos", "litteraturteori", "obehag", "skräck"]
 +++
 
 Har ni tänkt på det här med vad som anses vara "sci fi", eller annan fantastik som ligger en nära om hjärtat? Det är ganska mycket skit som skyfflats ut för konsumtion som stämplats med fantastikstämpeln för att det funnits en eller annan raket, strålpistol eller nåt annat fånigt tecken på att det tillhör genren. Själv insåg jag efter den litteraturkurs jag gick om sf, då vi konfronterats med några olika mer eller mindre fantasifulla försök att definiera science fiction, att det inte är en genre över huvud taget. Nu är det dock inte science fiction som jag tänkt på, utan en annan "genre" som jag sedan många år känt mig mycket förtjust i. Jag tänker på skräckgenren, och jag antar att ingen blir direkt förvånad om jag säger att jag inte anser att skräck är en genre det heller.
@@ -25,4 +25,4 @@ Man kan ju säkert vrida på det hela ganska mycket, men jag vet hur det känns 
 
 Kanske är jag helt vilse, eller så är jag nåt på spåret. I alla fall är det klart att böcker om vampyrer som lika gärna kunde handlat om folkskollärare är nåt som tråkar ut mig, och det som jag gillar handlar om helt andra saker. Det vore kul att veta om någon annan tänkt nåt liknande.
 
-Nu ska jag bara säga åt er att läsa <a href="http://www.amazon.com/Borderlands-1-No/dp/1565041070/ref=sr_1_7?ie=UTF8&amp;s=books&amp;qid=1209670097&amp;sr=8-7">Borderlands</a> som ett ypperligt exempel på när skräck inte är genrekonventioner utan bara riktigt skruvande, välskrivna berättelser som inte ger dig en känsla av avslappnat behag. Utan en mer svårbeskrivlig känsla av obehag. Njut.
+Nu ska jag bara säga åt er att läsa [Borderlands](http://www.amazon.com/Borderlands-1-No/dp/1565041070/ref=sr_1_7?ie=UTF8&amp;s=books&amp;qid=1209670097&amp;sr=8-7) som ett ypperligt exempel på när skräck inte är genrekonventioner utan bara riktigt skruvande, välskrivna berättelser som inte ger dig en känsla av avslappnat behag. Utan en mer svårbeskrivlig känsla av obehag. Njut.

@@ -6,7 +6,7 @@ date = 2009-02-09
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Intervjuer"]
-taggar = ["framtiden", "frihet", "Matthias Palmér", "e-lärande"]
+taggar = ["Matthias Palmér", "e-lärande", "framtiden", "frihet"]
 +++
 
 <em>Detta är den fjärde av mina personliga intervjuer med människor inom svensk fandom eller som på annat vis är involverade i det här med sf och fantasy. Matthias föreslogs av det förra intervjuoffret, Kruse, med motiveringen att hon är nyfiken på vad han gör nuförtiden. "Han behöver en liten puff för att komma till ett månadsmöte!"</em>
@@ -42,7 +42,7 @@ När jag inte är föräldraledig växlar jag mellan rollen som projektledare f�
 
 Jag forskar på hur den semantiska webben kan användas inom teknologiförstärkt lärande (kallas även ibland e-learning). Mer konkret skulle man kunna säga att jag forskar på system där individer har stor frihet i att utrycka sig med hjälp av metadata, överenskomna vokabulärer, begreppssystem osv. för att bättre kunna samarbeta och beskriva för sig själva och andra vad de vill/ska ha/har lärt sig. Förhoppningvis leder detta till att man kan själv välja sina verktyg och personligen hantera sitt lärande oavsett om det sker formaliserat på ett universitet, på arbetstid i ett företag eller helt privat för sitt höga nöjes skull. Dessutom måste man ta hänsyn till att lärandet inte är en isolerad aktivitet utan ofta sker "just in time" eller som en del av andra aktiviteter. Gränsdragningen mellan en väldigt omfattande vision och det som ska in i min avhandling är som synes ännu en aning otydlig.
 
-Den tid som blir över ägnar jag åt att programmera, se på föreläsningar online (t ex sajterna <a href="http://fora.tv">fora.tv</a> och <a href="http://ted.com">ted.com</a> är stora källor till glädje) samt förstås konsumera science fiction i olika format.
+Den tid som blir över ägnar jag åt att programmera, se på föreläsningar online (t ex sajterna [fora.tv](http://fora.tv) och [ted.com](http://ted.com) är stora källor till glädje) samt förstås konsumera science fiction i olika format.
 
 Jag bor med sambo och två barn i Rickomberga i en fin lägenhet som dock börjar kännas för liten.
 <h2>Engagemang</h2>
@@ -52,7 +52,7 @@ På ett annat plan är jag engagerad i att försvara våra rättigheter och frih
 
 Närbesläktad är frågan hur vi hanterar kunskap i samhället i stort. Vi har erövrat oerhörda mängder kunskap om oss själva och vår omvärld samtidigt som vi har möjligheten att i stort sett utan kostnad obegränsat dela med oss av den via nätet. Detta skulle kunna leda till en kulturell och samhällelig explosion där vi gemensamt löser de oerhörda problem som ligger framför oss i form av resursbrist, energibrist, pandemier samt mindre allvarliga sjukdomar. Tyvär ser vi hur detta hejdas av patent och vinstintressen som är uppkomna ur de traditionella affärsmodellerna. Jag tror inte att svaret är att kasta ut kapitalismen, men kanske bör den kompletteras på något sätt, särskilt när det finns starka inslag av allmännytta. Nå, jag har inga svar, men frågan engagerar mig.
 
-Jag är också fascinerad och lite engagerad av de många övriga kriser som verkar hänga över oss, särskilt intressanta är finanskrisen och de närliggande energi- och resurskriserna, då de har potential att förändra samhället i grunden (jag rekommenderar <a href="http://www.chrismartenson.com/crashcourse">www.chrismartenson.com/crashcourse</a> för er som orkar). Jag erkänner att jag gillar domedags-science fiction (vem gör inte det?) och att dessa kriser är nästan lika underhållande. Men det förminskar inte det faktum att vi verkar ha allvarliga problem framför oss och att det vore idiotiskt att i alla fall inte utvärdera riskerna och fundera på om traditionella skydd som att ha en hemförsäkring är nog.
+Jag är också fascinerad och lite engagerad av de många övriga kriser som verkar hänga över oss, särskilt intressanta är finanskrisen och de närliggande energi- och resurskriserna, då de har potential att förändra samhället i grunden (jag rekommenderar [www.chrismartenson.com/crashcourse](http://www.chrismartenson.com/crashcourse) för er som orkar). Jag erkänner att jag gillar domedags-science fiction (vem gör inte det?) och att dessa kriser är nästan lika underhållande. Men det förminskar inte det faktum att vi verkar ha allvarliga problem framför oss och att det vore idiotiskt att i alla fall inte utvärdera riskerna och fundera på om traditionella skydd som att ha en hemförsäkring är nog.
 <h2>Förebilder</h2>
 Så undrar Johan om det finns någon jag beundrar. Min tolkning av vad det innebär att beundra en person innefattar att man personligen skulle vilja besitta personens egenskaper och visioner, samt ha uppnått liknande framgångar som den personen. För mig känns det också naturligt att det är en samtida person.
 

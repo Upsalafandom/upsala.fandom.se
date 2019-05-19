@@ -6,12 +6,12 @@ date = 2009-03-09
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["Edgar Rice Burroughs", "pulperan", "Barssom", "Jack Williamson"]
+taggar = ["Barssom", "Edgar Rice Burroughs", "Jack Williamson", "pulperan"]
 +++
 
 Jag har ett intresse av att lite då och då ta en titt på hur sf traditionen skapades under 20 och trettiotalen. Förvånandsvärt många av dagens typiska genreelement skapades ganska tidigt, och det är lite kul att se var de kommer ifrån. En del av dessa små literaturarekologiska utfärder gräver fram pärlor, och andra saker man helst vill glömma.
 
-En författare som ibland fascinerat mig är Jack Williamson. Han var verksam ända från sf barndom på 1920-talet till sin död på 200-talet. Tänk att ha fått leva genom hela den tiden! Han fick ju i princip se hur världen förändrades och hur science fictions drömmar blev verklighet. Han är bl.a. känd för Legion of Space Series, vilken jag köpte i en volym från <a href="http://www.alvarfonden.org/">Alvarfonden</a>. Det var en intressant upplevelse, för här hade vi en av de där stilbildande verken som folk lystet köpte sf magasin för att få läsa. Hur skulle berättelserna te sig? Tyvärr måste jag säga att det nog är bland de värsta sf jag läst! 
+En författare som ibland fascinerat mig är Jack Williamson. Han var verksam ända från sf barndom på 1920-talet till sin död på 200-talet. Tänk att ha fått leva genom hela den tiden! Han fick ju i princip se hur världen förändrades och hur science fictions drömmar blev verklighet. Han är bl.a. känd för Legion of Space Series, vilken jag köpte i en volym från [Alvarfonden](http://www.alvarfonden.org). Det var en intressant upplevelse, för här hade vi en av de där stilbildande verken som folk lystet köpte sf magasin för att få läsa. Hur skulle berättelserna te sig? Tyvärr måste jag säga att det nog är bland de värsta sf jag läst! 
 
 Supervapen introduceras som helt oövervinnerliga, och för att det ska gå att skriva uppföljade så blir det sedan dags att uppfinna konstlade kringmanövrar kring det han först beskrivit som oövervinnerligt. Saker händer fullkomligt på slump, och när huvudpersonerna är i knipa så är det alltid så att det "bara händer" nåt i rätt stund som räddar dom. Det verkar liksom inte finnas minsta plan bakom storyn alls! Dessutom är personerna sådana karrikatyrer att man storknar. Regelbundet kraschar maskiner och efter en massa fånigt ojande så tar sig Mekanikern sig an problemet och kan naturligtvis laga saken. Naturligtvis efter att en reservdel bara plötsligt dyker upp utan rim och reson. Det är melodramatiskt och erbarmligt banalt. Hur överlevde genren det här skräpet!?
 

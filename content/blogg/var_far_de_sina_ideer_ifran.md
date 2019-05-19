@@ -15,7 +15,7 @@ Följande beskrivning är till exempel tämligen... fantastisk.
 
 <blockquote>Det är jobbigt nog att vara succubus utan att dessutom vara bokhandlare. När man träffar på den hetaste killen den här sidan böckerna och det visar sig att han är ens favoritförfattare - då måste man ju hålla tassarna från honom! Om man äter honom kan han ju inte skriva mer...</blockquote>
 
-(från <a href="http://sfbokhandelnmalmo.blogspot.com/2008/09/who-would-you-not-kick-out-of-bed-1-mn.html">SF-Bokhandeln i Malmö</a>)
+(från [SF-Bokhandeln i Malmö](http://sfbokhandelnmalmo.blogspot.com/2008/09/who-would-you-not-kick-out-of-bed-1-mn.html))
 
 Jag kan inte bestämma mig för om jag tycker att det här låter jättetöntigt eller ganska kul. En bok om böcker och attraktiva författare. Det är förstås fullständigt legitimt, men ändå: "titta, böcker är faktiskt jättesexigt, särskilt när man kombinerar dem med söta och koffeinhaltiga drycker!" (Enligt förlagets text dricker denna succubus många white chocolate mochas.)
 

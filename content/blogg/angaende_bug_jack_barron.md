@@ -6,7 +6,7 @@ date = 2010-04-14
 [taxonomies]
 forfattare = ["Björn"]
 kategorier = ["Rapporter"]
-taggar = ["bokprat", "Norman Spinrad", "cyberpunk"]
+taggar = ["Norman Spinrad", "bokprat", "cyberpunk"]
 +++
 
 Kvällens bokprat handlade om <em>Bug Jack Barron</em> av Norman Spinrad. Boken gavs ut 1969 och är starkt influerad av den tidens politiska klimat,främst av den amerikanska medborgarrättsrörelsen.
@@ -17,4 +17,4 @@ Vi lyckades ändå få en hel del sagt. Det är en bok som det finns mycket att 
 
 Boken handlar om nedfrysning av människor och odödlighetskurer, och vem som har rätt till dem. Upplösningen har inget definitivt budskap, även om den har en starkt moralisk ton. På sätt och vis är budskapet att sanningen alltid måste fram, vilket ju också är ett cyberpunkdrag.
 
-Nästa bokpratsbok är <em>The Affirmation</em> av Christopher Priest, som vi ska prata om onsdag 12 maj. (Se <a href="__FIXME__/kalender/">kalendern</a> för detaljer.)
+Nästa bokpratsbok är <em>The Affirmation</em> av Christopher Priest, som vi ska prata om onsdag 12 maj. (Se [kalendern](kalender) för detaljer.)

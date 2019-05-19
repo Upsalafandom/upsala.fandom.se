@@ -6,10 +6,10 @@ date = 2008-07-02
 [taxonomies]
 forfattare = ["Johan J."]
 kategorier = ["Rapporter"]
-taggar = ["pubmöten", "tisdag", "Williams"]
+taggar = ["Williams", "pubmöten", "tisdag"]
 +++
 
-Det var Tisdag, och som det lätt blir på Tisdagar samlades diverse löst folk på Williams för att umgås. Ett gäng <a href="http://www.catahya.net">catahyaner</a> (Therese, Christian, Mats, Cecilia och Peter) passade på att lysa upp tillställningen med sin närvaro, och någonstans runt två dussin personer bör ha närvarat under kvällen.
+Det var Tisdag, och som det lätt blir på Tisdagar samlades diverse löst folk på Williams för att umgås. Ett gäng [catahyaner](http://www.catahya.net) (Therese, Christian, Mats, Cecilia och Peter) passade på att lysa upp tillställningen med sin närvaro, och någonstans runt två dussin personer bör ha närvarat under kvällen.
 
 <!-- more -->
 

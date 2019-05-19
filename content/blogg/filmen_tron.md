@@ -6,7 +6,7 @@ date = 2008-02-22
 [taxonomies]
 forfattare = ["Lennart Svensson"]
 kategorier = ["Recensioner"]
-taggar = ["film", "datorer"]
+taggar = ["datorer", "film"]
 +++
 
 En gång i världen cyklade jag iväg längs en höstlig landsväg, nådde staden med alla sina ljus, parkerade cykeln, gick fram till ett biopalats och betalade 20:–, gick in och satte mig.

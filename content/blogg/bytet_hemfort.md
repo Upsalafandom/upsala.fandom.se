@@ -6,7 +6,7 @@ date = 2008-05-10
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["böcker", "droger", "Robert Silverberg", "Dan Simmons", "William Faulkner", "Poul Anderson", "Nathanial Hawthrone", "Ramsey Cambell"]
+taggar = ["Dan Simmons", "Nathanial Hawthrone", "Poul Anderson", "Ramsey Cambell", "Robert Silverberg", "William Faulkner", "böcker", "droger"]
 +++
 
 <em>[Detta inlägg skrevs i torsdags, och publicerades då. Trodde jag. Tydligen skedde dock inte det sista steget som tänkt så här kommer det nu, lite försenat.] </em>

@@ -6,7 +6,7 @@ date = 2008-03-03
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Kåserier"]
-taggar = ["antikvariat", "Upsala"]
+taggar = ["Upsala", "antikvariat"]
 +++
 
 Jag vet inte riktigt vad jag tycker om Upsala. Slätten staden ligger på är platt som slätter plägar vara och jag vet inte om hon, staden, är vacker. Enskildheter är rackarns tjusiga, som kvarteret Historicum–konsistoriehuset–Gustavianum, och jag tror aldrig att jag har vandrat på en mysigare protestantisk kyrkogård. Men strängt taget tror jag nog att min uppväxtstad var vackrare, i alla fall som hon var när jag växte upp. Sedermera har fula byggnationer besudlat henne.

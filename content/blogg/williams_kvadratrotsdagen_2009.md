@@ -6,7 +6,7 @@ date = 2009-03-04
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Inbjudningar", "Rapporter"]
-taggar = ["Square root day", "pubmöten", "Williams", "Västgötaskolan"]
+taggar = ["Square root day", "Västgötaskolan", "Williams", "pubmöten"]
 +++
 
 Ja, kvadratrotsdagar kallas de dagar då produkten av dagens datum och månadens ordningstal blir lika med årets sista två siffror. Det finns bara nio per sekel, och de är alltså 1/1 -01, 2/2 -04, 3/3 -09, 4/4 -16,  5/5 -25, 6/6 -36, 7/7 -49, 8/8 -64, samt 9/9 -81.

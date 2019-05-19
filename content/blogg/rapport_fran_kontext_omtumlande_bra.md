@@ -6,7 +6,7 @@ date = 2008-11-03
 [taxonomies]
 forfattare = ["Bellis"]
 kategorier = ["Rapporter"]
-taggar = ["Nova", "Kontext", "kongress", "NoFF"]
+taggar = ["Kontext", "NoFF", "Nova", "kongress"]
 +++
 
 Nu är det nog meningen att man ska säga något om Kontext och de första ord som dök upp i huvudet på mig står i ämnesraden. Det här var alldeles omtumlande bra – mycket välarrangerad, mycket <em>intensiv</em> kongress. Här fanns inga döda punkter alls, i alla fall inte ur min synvinkel – det var liksom konstant maaaangel, som vi brukade säga i Stockholm på den gamla goda tiden, och det ska alltså uppfattas i allra bästa bemärkelse.

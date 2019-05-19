@@ -6,7 +6,7 @@ date = 2009-10-01
 [taxonomies]
 forfattare = ["George"]
 kategorier = ["Kåserier"]
-taggar = ["böcker", "autobiografi", "bibliotek", "New York"]
+taggar = ["New York", "autobiografi", "bibliotek", "böcker"]
 +++
 
 I was born in Far Rockaway NYC, the southernmost area of The Big Apple. Except for the Carnegie Library, my high school, and my many friends, it was an intellectual wasteland. You can see the Library here. It was built in 1906 and was stocked with good reading. As a youngster of 15 in 1957 my interests were technical-scientific and my mind was empty. Then I got a card for the “adult” section. I immediately became a bookworm.

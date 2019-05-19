@@ -9,7 +9,7 @@ kategorier = ["Länkar"]
 taggar = ["feminism", "film"]
 +++
 
-Randy Byers skriver på <a title="Fringefaan" href="http://fringefaan.livejournal.com/180628.html" target="_self">Livejournal</a> om ett intressant lackmustest för att bedöma kvinnosynen i en film. Det kommer från den feministiska serietecknaren Alison Bechdels serie <a title="The Rule" href="http://alisonbechdel.blogspot.com/2005/08/rule.html" target="_self">Dykes to Watch Out For</a>. Något modifierad innebär den att en film som klarar testet ska uppfylla följande tre krav:
+Randy Byers skriver på [Livejournal](http://fringefaan.livejournal.com/180628.html) om ett intressant lackmustest för att bedöma kvinnosynen i en film. Det kommer från den feministiska serietecknaren Alison Bechdels serie [Dykes to Watch Out For](http://alisonbechdel.blogspot.com/2005/08/rule.html). Något modifierad innebär den att en film som klarar testet ska uppfylla följande tre krav:
 
 1) Den ska innehålla minst två namngivna kvinnor
 2) som pratar med varandra

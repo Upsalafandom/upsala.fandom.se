@@ -6,10 +6,10 @@ date = 2008-10-20
 [taxonomies]
 forfattare = ["Åka"]
 kategorier = ["Rapporter"]
-taggar = ["David Brin", "kongresser", "Montreal", "vetenskap"]
+taggar = ["David Brin", "Montreal", "kongresser", "vetenskap"]
 +++
 
-Här kommer en sammanfattning av mina intryck från <a href="http://www.conceptsff.ca/">Con*Cept</a>.
+Här kommer en sammanfattning av mina intryck från [Con*Cept](http://www.conceptsff.ca).
 
 <strong>Det var litet.</strong> Det vill säga, det var en rätt stor kongress jämfört med dem jag själv arrangerat, men mindre än de flesta kongresser av den sort den här försöker vara. Antalet medlemmar var kanske 200-300, utspridda på fyra våningar i hotellet. Fyra programsalar, ett konstutställningsrum med fanzinehörna, en con suite, ett spelrum, ett dealers room, ett programrum för barnen, och ett green room (dit programdeltagarna kan gå för att förbereda sig eller bara slappna av). Consviten (det är ett rum med läsk, snask och smörgåsar, där det är meningen att folk ska kunna sitta och umgås) låg faktiskt ganska centralt, men den var inte särskilt utnyttjad ändå. Många människor satt i korridoren där registreringsborden stod, men man såg aldrig särskilt många på samma ställe samtidigt. Programsalarna såg alltid lite halvtomma (om inte nästan helt tomma) ut.
 

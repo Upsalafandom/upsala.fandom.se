@@ -6,7 +6,7 @@ date = 2008-03-27
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Kåserier"]
-taggar = ["ghalenskaper", "fandom", "kongresser"]
+taggar = ["fandom", "ghalenskaper", "kongresser"]
 +++
 
 Idag bär det av mot Toronto och vår första kongress i nordamerika. Jag läste lite fanzines igår, och försökte skaffa mig lite koll på debatten om "core fandom". Det är ju en term som har bubalt lite i fandom, och jag har hört det diskuteras på påskkongresser jag varit på.

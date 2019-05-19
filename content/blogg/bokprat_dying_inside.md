@@ -6,7 +6,7 @@ date = 2010-03-10
 [taxonomies]
 forfattare = ["Björn"]
 kategorier = ["Rapporter"]
-taggar = ["bokprat", "telepati", "Robert Silverberg", "Dying Inside"]
+taggar = ["Dying Inside", "Robert Silverberg", "bokprat", "telepati"]
 +++
 
 Kvällens bokprat behandlade <em>Dying Inside</em> av Robert Silverberg, som en del av vårt pågående tema, science fictions bortglömda mästare. Deltog gjorde Anna Davour, Jesper Svedberg, George Berger och jag själv.
@@ -17,4 +17,4 @@ Ett annat tema är frågan om huruvida kunskap om andras tankar verkligen skulle
 
 Jag tror att vi alla tyckte om att läsa boken, och fascinerades av dess genomtänkta struktur. Flera av oss (särskilt Åka) hade gjort observationer de andra missat.
 
-Nästa bokprat handlar om <em>Bug Jack Barron</em> av Norman Spinrad. Se <a href="__FIXME__/kalender/">kalendariet</a>, <a href="__FIXME__/e-postlista/">e-postlistan</a> eller <a href="http://www.facebook.com/event.php?eid=397916361368">Facebook</a> för detaljer.
+Nästa bokprat handlar om <em>Bug Jack Barron</em> av Norman Spinrad. Se [kalendariet](kalender), [e-postlistan](e-postlista) eller [Facebook](http://www.facebook.com/event.php?eid=397916361368) för detaljer.

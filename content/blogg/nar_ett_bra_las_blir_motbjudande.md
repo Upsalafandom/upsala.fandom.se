@@ -6,7 +6,7 @@ date = 2008-07-05
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Recensioner"]
-taggar = ["våld", "David Wingrove", "Chung Kuo", "psykopater", "R. Scott Bakker", "moral"]
+taggar = ["Chung Kuo", "David Wingrove", "R. Scott Bakker", "moral", "psykopater", "våld"]
 +++
 
 Som jag skrivit tidigare har jag tagit mig an att läsa R. Scott Bakkers  bokserie  <em>The Prince of Nothing</em>. Nu har jag kommit en bit in i första volymen, 90 % eller så, och börjar ha åsikter.

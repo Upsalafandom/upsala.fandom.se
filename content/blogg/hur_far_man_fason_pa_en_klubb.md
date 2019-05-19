@@ -11,7 +11,7 @@ taggar = []
 
 Att prata med andra om böcker är nåt jag nästan alltid gillar. Det brukar vara en given öppning för ganska meningsfullt tankeutbyte, och så är det ju alltid skoj att träffa människor med gemensamma referensramar och intressen.
 
-Som de flesta vet bor jag med min familj i Kanada sedan september. Jag saknar det fanniska umgänget i Uppsala (vilket jag skrev om <a href="__FIXME__/upsala-i-mina-drommar/">här</a>), och jag försöker göra vissa ansträngningar för att pigga upp den lilla fantastikläsargruppen vi har här. Det ger mig vissa insikter om både det ena och det andra.
+Som de flesta vet bor jag med min familj i Kanada sedan september. Jag saknar det fanniska umgänget i Uppsala (vilket jag skrev om [här](upsala-i-mina-drommar)), och jag försöker göra vissa ansträngningar för att pigga upp den lilla fantastikläsargruppen vi har här. Det ger mig vissa insikter om både det ena och det andra.
 
 Det finns faktiskt vissa fördelar med att ha en rätt liten grupp. Vi är fyra medlemmar just nu, och om alla kommer på ett möte är det ganska lagom många för att gå laget runt och prata om en och samma bok eller novell. Det går också rätt fort att lära sig varandras individuella smak, och det är ganska kul att se vad som händer när man konfronteras med varandras favoriter.
 
@@ -25,6 +25,6 @@ Därför har jag försökt engagera mig i att locka till oss mer folk.
 
 Jag började med att sätta upp en gruppblogg, och sen göra affischer med URL:en dit. Tanken var att det ska gå lätt att hitta information om tid och plats för nästa möte, så att man bara kan dyka upp om man är nyfiken, men också att det ska funka som en allmän online-resurs för dem som vill vara med, där vi kan lägga upp information som är bra eller kul att ha tillgänglig.
 
-Ganska många har kollat in på <a href="http://fearlessfantasy.wordpress.com/">vår blogg</a>, men bara två har hört av sig, och ingen har dykt upp på något möte. Vad saknas? Jag tror att det kan behövas lite mer tecken på att det faktiskt händer saker, så jag har bestämt mig för att uppdatera bloggen en gång i veckan. Det kommer förmodligen ändå inte att räcka. Min erfarenhet säger mig att det som behövs troligtvis är att vi som redan är med faktiskt möter och pratar med människor och skapar lite kontakt, IRL eller online. Synlig verksamhet och tillgänglig information räcker inte, det måste till lite mänsklig kontakt -- men hur hittar man de intresserade?
+Ganska många har kollat in på [vår blogg](http://fearlessfantasy.wordpress.com), men bara två har hört av sig, och ingen har dykt upp på något möte. Vad saknas? Jag tror att det kan behövas lite mer tecken på att det faktiskt händer saker, så jag har bestämt mig för att uppdatera bloggen en gång i veckan. Det kommer förmodligen ändå inte att räcka. Min erfarenhet säger mig att det som behövs troligtvis är att vi som redan är med faktiskt möter och pratar med människor och skapar lite kontakt, IRL eller online. Synlig verksamhet och tillgänglig information räcker inte, det måste till lite mänsklig kontakt -- men hur hittar man de intresserade?
 
 Vad tror ni? Hur värvar man folk egentligen?

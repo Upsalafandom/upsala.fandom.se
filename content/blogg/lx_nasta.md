@@ -6,7 +6,7 @@ date = 2008-03-24
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Rapporter"]
-taggar = ["påskkongressen", "Eastercon"]
+taggar = ["Eastercon", "påskkongressen"]
 +++
 
 Påskkongressen på Radisson Edwardian vid Heathrow ligger på dödsbädden. Hedersgästerna har varit utmärkta, China Miéville, Neil Gaiman, Tanith Lee, Charlie Stross och Rog Peyton. Det är svårt att komma ifrån att påskkongressen är höjdpunkten på kongressåret. Det är inte bara kvaliteten på programmet, utan också den starka traditionen bakåt. Här finns många fans som började gå på kongresser på 50- och 60-talen, samtidigt som den yngre generationen i 25-årsåldern är månghövdad och synlig. Jag träffar folk som jag bara träffar en gång om året eller vartannat år eller vart femte, som kan berätta om hur det var förr och andra som jag aldrig har sett förut. Det är inte väsensskilt från en svensk kongress, det är bara så mycket större. Större bredd, mer program, fler människor, bättre panelister. I år var vi dessutom fler svenskar än vanligt.

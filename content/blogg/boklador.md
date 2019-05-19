@@ -6,10 +6,10 @@ date = 2008-02-26
 [taxonomies]
 forfattare = ["Björn"]
 kategorier = ["Kåserier"]
-taggar = ["böcker", "bokaffärer"]
+taggar = ["bokaffärer", "böcker"]
 +++
 
-Igår blev jag sugen på att konsumera lite rymdopera, men det fanns ingen i min hylla att läsa. Följaktligen promenerade jag ner till <a href="http://www.ueb.se/">The UEB</a> och såg efter vad de hade inne. Min första plan var Iain M. Banks nyutgivna <em>Matter</em>, men den hade de sålt slut av.
+Igår blev jag sugen på att konsumera lite rymdopera, men det fanns ingen i min hylla att läsa. Följaktligen promenerade jag ner till [The UEB](http://www.ueb.se) och såg efter vad de hade inne. Min första plan var Iain M. Banks nyutgivna <em>Matter</em>, men den hade de sålt slut av.
 
 Det blev alltså till att botanisera i hyllorna, och jag fastnade till slut för novellsamlingen <em>Galactic North</em> av Alastair Reynolds. Titeln skadade inte.
 

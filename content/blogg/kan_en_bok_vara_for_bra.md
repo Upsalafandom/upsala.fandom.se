@@ -6,7 +6,7 @@ date = 2008-09-16
 [taxonomies]
 forfattare = ["Ante"]
 kategorier = ["Recensioner"]
-taggar = ["Douglas Clegg", "skräck", "litterära kvaliteter"]
+taggar = ["Douglas Clegg", "litterära kvaliteter", "skräck"]
 +++
 
 Jag läste ganska nyligen boken <em>Naomi</em> av <strong>Douglas Clegg</strong>. Författaren har vunnit både Bram Stoker och International Horror Guild Award, så jag blev lite nyfiken. Dessutom var den ganska billig.
