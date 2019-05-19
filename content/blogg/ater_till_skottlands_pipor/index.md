@@ -22,6 +22,8 @@ Några bilder blev det också.
 
 ![Åter till Skottlands Pipor 1](ater_till_skottlands_pipor_1.jpeg)
 
+<!-- more -->
+
 ![Åter till Skottlands Pipor 2](ater_till_skottlands_pipor_2.jpeg)
 
 ![Åter till Skottlands Pipor 3](ater_till_skottlands_pipor_3.jpeg)

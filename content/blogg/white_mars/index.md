@@ -17,6 +17,8 @@ suveränt sätt däruppe.)
 
 ![Landskap](landskap1.jpeg)
 
+<!-- more -->
+
 Själva landskapet liknar Mars stenöknar, med undantag för färgen. Och det
 finns väldigt lite i civilisationsväg, man känner sig helt utlämnad till den
 karga, kala naturen.

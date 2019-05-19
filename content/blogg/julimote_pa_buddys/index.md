@@ -13,6 +13,8 @@ I tisdags möttes Upsalafandom på min kvarterskrog Buddy's, ett fall av omväxl
 
 ![Bild 1](julimote_pa_buddys_1.jpeg)
 
+<!-- more -->
+
 ![Bild 2](julimote_pa_buddys_2.jpeg)
 
 ![Bild 3](julimote_pa_buddys_3.jpeg)

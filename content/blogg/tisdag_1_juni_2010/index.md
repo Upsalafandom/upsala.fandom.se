@@ -13,6 +13,8 @@ Jag stannade inte så länge på pubmötet igår kväll, men jag hann åtminston
 
 ![Tisdag 1 juni 2010 1](tisdag_1_juni_2010_1.jpeg)
 
+<!-- more -->
+
 ![Tisdag 1 juni 2010 2](tisdag_1_juni_2010_2.jpeg)
 
 ![Tisdag 1 juni 2010 3](tisdag_1_juni_2010_3.jpeg)
