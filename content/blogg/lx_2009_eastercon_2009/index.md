@@ -1,0 +1,87 @@
++++
+title = "LX 2009 — Eastercon 2009"
+slug = "lx_2009_eastercon_2009"
+date = 2009-04-19
+
+[taxonomies]
+forfattare = ["Anglemark"]
+kategorier = ["Rapporter"]
+taggar = ["Eastercon", "LX 2009", "kongresser"]
++++
+
+Dags att babbla lite osammanhängande om årets brittiska påskkongress kanske,
+den sextionde nationella sf-kongressen – därav namnet LX 2009. (Jag påbörjade
+en kort rapport från kongressens första dag under själva kongressen, men
+sedan krävde hotellet att man betalade 40 pund för tillgång till det trådlösa
+nätet under helgen, så det blev aldrig av att posta den.)
+
+Hedersgäster var Jon Courtenay Grimwood, Tim Powers, David Lloyd samt Bill
+och Mary Burns. Jon, Tim, Bill och Mary hade jag stött på tidigare, men David
+Lloyd hade jag ingen aning vem det var. Det vet jag däremot nu – det var den
+trevlige mannen i övre medelåldern som slog sig ner vid vårt bord i lobbyn på
+fredagsmorgonen för att prata och bjöd oss på öl. Det fanns ett väl tilltaget
+område bredvid baren i hotellobbyn med ett hundratal sittplatser där man
+kunde sitta och umgås mellan (eller i stället för) programpunkterna – det
+bästa påskkongresshotellet sedan Adelphi i Liverpool i det avseendet.
+
+![Baren på Eastercon](eastercon.jpeg)
+
+_Baren_
+
+Programmet var bra, de delar jag såg, även om inget kändes oförglömligt. De
+två intervjuerna med Tim Powers var oerhört underhållande – Tim är en av de
+roligaste scenpersonligheterna inom sf-/fantasyvärlden. I samband med
+kongressen släpptes John Berlynes illustrerade Powers-bibliografi [Secret
+Histories](http://store.pspublishing.co.uk/acatalog/info_419.html), ett
+överdådigt vackert bokverk som såldes för bara 35 pund. (De böcker vi köpte
+kan förresten beskådas på
+[LibraryThing](http://www.librarything.com/catalog.php?view=anglemark&amp;deepsearch=Eastercon+2009).
+I år blev det 24 nya böcker, färre än tidigare år, men vi börjar bli kräsnare
+i takt med att samlingen sväller.)
+
+Jag gick på en paneldiskussion om överskattade böcker – Classics that aren't
+– men den var ganska tråkig, exempelvis satt Rog Peyton i en kvart och spydde
+ospecificerad galla över Philip K. Dick, så jag gick därifrån efter en
+halvtimme. Konstutställningen öppnades under festliga former med
+cocktailparty i orangeribaren på andra våningen, en tjusig inglasad sak med
+dekorativa växter i, där hotellet bjöd på öl och vin; de sponsrade nämligen
+utställningen.
+
+Panelen om romanerna på slutlistan till årets Arthur C Clarke Award var
+intressant. Jag har inte brukat gå på den men det är så många som framhållit
+den som en av de mest värdefulla panelerna på påskkongresserna så jag slöt
+mig till flocken i år. Panelen var ganska oense, men jag vet i alla fall att
+jag inte ska läsa _Martin Martin's on the Other Side_ av Mark Wernham.
+Besläktad med Clarkepanelen var naturligtvis den högtidliga utdelningen av
+BSFA-priserna, där romanpriset i år gick till Ken Macleods _The Night
+Sessions_. Lördagens stora tillställning var en konsert med National
+Festival Orchestra, som spelade bl a Beethovens sjätte symfoni i stora
+programsalen. Helt fantastisk upplevelse att få höra en symfoniorkester i
+salongsmiljö och inte i en konsertsal. Det var första och förmodligen sista
+gången i mitt liv. Stort tack till Vince Docherty och resten av kommittén för
+den upplevelsen!
+
+På söndagkvällen var det skandinaviskt party i ett av rummen, framförallt
+organiserat av Herman Ellingsen. Lyckat, som vanligt. På måndagen fick jag en
+chans att för första gången se hela Dr Horrible's Sing Along Blog i ett svep;
+den var ju uppdelad i tre delar när den sändes på webben i höstas. Den vann
+på att ses som en helhet, men är fortfarande inget jag kommer att skaffa.
+
+Det kom ut ett nyhetsblad under kongressen som går att ladda ner från [LX
+2009:s webbplats](http://lx2009.com/what-happened). Nästa års påskkongress
+heter [Odyssey 2010](http://www.odyssey2010.org) och äger rum på Radisson
+Edwardian på Heathrow, precis som i fjor. Var kongressen hålls 2011 är
+däremot fortfarande inte spikat. Ingen hade lagt något bud, men det finns
+tydligen några som håller på att undersöka förutsättningarna för ett bud att
+läggas fram under nästa påskkongress. Mer om det på Novacon i november,
+lovades det.
+
+Ska jag sammanfatta? Årets påskkongress var kanske den jag trivts bäst på
+hittills – mest för att jag lär känna fler brittiska fans för varje år.
+Utmärkt hotell, även om de tyvärr hade färre än 250 bäddar, så de flesta
+deltagarna tvangs bo på andra hotell i Bradford. Rikligt utbud av real ales
+till vettiga priser i barerna (fast nästan bara blond ales, tyvärr – inte den
+mest spännande typen), bra frukost. Som sagt var programmet trevligt,
+inklusive det fullspäckade fanprogrammet, lite mindre dealers' room än
+vanligt, fast å andra sidan nästan bara böcker och inte så mycket kläder och
+annat trams.
