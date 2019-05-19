@@ -49,7 +49,7 @@ Peakes Gormenghast! Te serveras.
 
 En längre tid har det på våra pubmöten bedrivits kommers med ett hoptrasslat skosnöre, men den verkar ha nått sitt slut och maxpris när snörstumpen bytte ägare för toppnoteringen 26,50. Dessutom glömde jag kvar snöret. Månne tog någon annan hand om det.
 
-Olle grunnade fortfarande på det här med kinky sex. Jag hade vidarebefordrat ett brev till sverifandomlistan tidigare under dagen om att norska säpo uppmanade folk som ville se sina säpoakter gärna fick tala om varför de trodde att de <strong>hade</strong> en säpoakt. Olle föreslog då att man skulle kunna skriva ett brev med följade lydelse:
+Olle grunnade fortfarande på det här med kinky sex. Jag hade vidarebefordrat ett brev till sverifandomlistan tidigare under dagen om att norska säpo uppmanade folk som ville se sina säpoakter gärna fick tala om varför de trodde att de **hade** en säpoakt. Olle föreslog då att man skulle kunna skriva ett brev med följade lydelse:
 
 <blockquote>Hej säpo!
 Jag har hört att ni har ett register över folk med sexuella avvikelser.

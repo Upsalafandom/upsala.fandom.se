@@ -31,4 +31,4 @@ Fransk-brittisk animerad noir-sf. Precis som <em>A Scanner Darkly</em> är den r
 
 [Sunshine](http://imdb.com/title/tt0448134) (2007)
 
-En grupp astronauter färdas mot solen i ett enormt rymdskepp lastat med allt klyvbart material man kunnat hitta på jorden, för att försöka fördröja dess utslocknande. Låter det som en tramsig katastroffilm? I själva verket är det <em>Heart of Darkness</em> möter <em>Solaris</em>.
+En grupp astronauter färdas mot solen i ett enormt rymdskepp lastat med allt klyvbart material man kunnat hitta på jorden, för att försöka fördröja dess utslocknande. Låter det som en tramsig katastroffilm? I själva verket är det <em>Heart of Darkness</em> möter _Solaris_.

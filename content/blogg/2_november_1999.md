@@ -19,7 +19,7 @@ Mat var temat för kvällen under ett långt tag. Allas vår Lennart Svensson d�
 
 Annars är blått framtidens färg som lyser om alla monitorer och radioaktiva vrak.
 
-För er som är intresserade av en bra investering kan nämnas att den förbannade skosnörestorusen som måste säljas dyrare än man köpt den, nu är uppe i 18 kr och två frimärken. Slå till idag, du måste <em>tjäna</em> på affären! Jag tror Sten Thaning är den nuvarande ägaren.
+För er som är intresserade av en bra investering kan nämnas att den förbannade skosnörestorusen som måste säljas dyrare än man köpt den, nu är uppe i 18 kr och två frimärken. Slå till idag, du måste _tjäna_ på affären! Jag tror Sten Thaning är den nuvarande ägaren.
 
 Diskussionens vågor böljade när Gabriel förfäktade den (bisarra?) iden att det vore bra om alla språk utom engelskan försvunne, eftersom alla översättare kunde ägna sig åt något mer produktivt.
 

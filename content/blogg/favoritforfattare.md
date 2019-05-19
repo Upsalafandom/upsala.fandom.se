@@ -35,4 +35,4 @@ Ickedestomindre finns ju det några författare som jag läser allt av. Jag skul
 </ul>
 Jag kan också nämna författare som jag brukade läsa troget, men som med tiden av olika anledningar halkat ner i mina prioriteter: Iain Banks, Jasper Fforde, Alasdair Gray och Patrick McCabe.
 
-Och, för att avsluta, författare som <strong>borde</strong> befinna sig under punkten sådant som jag tänker läsa allt av (eftersom jag har tyckt mycket bra om allt av dem jag läst), och som jag inte riktigt vet varför de inte gör det: Jane Austen, Stig Dagerman, Roddy Doyle, John Fowles, Graham Greene, Ernest Hemingway och China Miéville.
+Och, för att avsluta, författare som **borde** befinna sig under punkten sådant som jag tänker läsa allt av (eftersom jag har tyckt mycket bra om allt av dem jag läst), och som jag inte riktigt vet varför de inte gör det: Jane Austen, Stig Dagerman, Roddy Doyle, John Fowles, Graham Greene, Ernest Hemingway och China Miéville.

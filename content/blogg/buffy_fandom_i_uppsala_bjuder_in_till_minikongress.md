@@ -12,11 +12,11 @@ taggar = ["Buffy", "Joss Whedon", "evenemang", "mediefandom"]
 Såg följande inbjudan på en e-postlista (Fanac-listan):
 <blockquote><strong>BUFFY the Vampire Slayer MINI-CON</strong>
 
-<strong>Tid:</strong> Söndagen den 27 april klockan 12.00
-<strong>Plats:</strong> Fyrisskolan i Uppsala och dess filmsal, utrustad med stor duk
+**Tid:** Söndagen den 27 april klockan 12.00
+**Plats:** Fyrisskolan i Uppsala och dess filmsal, utrustad med stor duk
 och biografstolar.
-<strong>Pris:</strong> GRATIS!
-<strong>Anmälan:</strong> Senast torsdagen 25 april till Jhonny Therus. tel: 073-0741688, email: jtpunsch snabel-a yahoo.com
+**Pris:** GRATIS!
+**Anmälan:** Senast torsdagen 25 april till Jhonny Therus. tel: 073-0741688, email: jtpunsch snabel-a yahoo.com
 
 <strong>Preliminärt schema</strong>
 

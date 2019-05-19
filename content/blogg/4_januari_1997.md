@@ -15,7 +15,7 @@ Orvarsmöten säsong 11 inleddes igår tisdag 7/1 på O'Connor's. Tanken är att
 
 på Stora torget i Uppsala från
 
-<strong>18.30</strong>
+**18.30**
 
 och framåt
 

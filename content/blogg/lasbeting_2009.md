@@ -36,6 +36,6 @@ Tim Powers: Last Call
 Ursula K. Le Guin: Tales from Earthsea
 Graham Joyce: Memoirs of a Master Forger
 
-Jag funderar allvarligt på att ta paus från genrelitteraturen något år och vältra mig lite i Joyce, Proust, Faulkner, Hemingway och annat som jag har försummat alldeles för länge. Joyce har jag en del oläst av, framför allt <em>Ulysses</em>, Proust har jag inte läst något alls av, Faulkner och Hemingway har jag bara läst enstaka böcker av men älskat allt än så länge. Jag har inte ens läst samtliga Shakespeares pjäser. Jag har olästa diktsamlingar av Seamus Heaney som väntar. En massa Graham Greene som pockar. Kate Atkinson är jag nyfiken på.
+Jag funderar allvarligt på att ta paus från genrelitteraturen något år och vältra mig lite i Joyce, Proust, Faulkner, Hemingway och annat som jag har försummat alldeles för länge. Joyce har jag en del oläst av, framför allt _Ulysses_, Proust har jag inte läst något alls av, Faulkner och Hemingway har jag bara läst enstaka böcker av men älskat allt än så länge. Jag har inte ens läst samtliga Shakespeares pjäser. Jag har olästa diktsamlingar av Seamus Heaney som väntar. En massa Graham Greene som pockar. Kate Atkinson är jag nyfiken på.
 
 Men först måste jag "pliktläsa" mer av Liz Williams inför Imagicon i höst. Tur att The Ghost Sister, som jag håller på med just nu, är bra. Sedan får jag fundera på om det är dags att göra det där avbrottet. Kanske helt enkelt genom att inte ställa någon mer sf eller fantasy på "Att läsa"-hyllan, så att boktraven gradvis byts ut...

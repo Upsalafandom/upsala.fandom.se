@@ -9,11 +9,11 @@ kategorier = ["Kåserier"]
 taggar = ["böcker", "vetenskap"]
 +++
 
-I ett [tidigare inlägg](vetenskap-och-sf) skrev jag om vad jag hört om <em>Hominids</em> av Robert Sawyer, bland annat att folk tycker att han tog sig stora friheter med  en person som antas ha en förebild i verkligheten.
+I ett [tidigare inlägg](vetenskap-och-sf) skrev jag om vad jag hört om _Hominids_ av Robert Sawyer, bland annat att folk tycker att han tog sig stora friheter med  en person som antas ha en förebild i verkligheten.
 
 Jag har inte tidigare läst något av Robert Sawyer, jag vet bara att han är en ganska populär författare sådär i största allmänhet. Nyligen läste jag också en [intervju med honom](http://www.sfquarterly.net/index.php/interviews/46-interviews/82-sfqs-interview-with-robert-j-sawyer), där han säger så här:
 <blockquote>I'm at one end in terms of accessibility: I have a large mainstream audience in Canada because of it -- people who don't read any other SF but Rob Sawyer. At the other end, there are people like Charles Stross and Greg Egan, who are writing for the hard-core SF buff; their stuff is impenetrable if you don't have a solid grounding in science and in the previous literature of SF before going in.</blockquote>
-När jag nu till slut började läsa <em>Hominids</em> var det två saker som framstod jättetydligt i första kapitlet:
+När jag nu till slut började läsa _Hominids_ var det två saker som framstod jättetydligt i första kapitlet:
 <ol>
 	<li>det börjar med en massa detaljer om neutrinodetektorn SNO</li>
 	<li>en ung postdoc med fransk brytning visar sin spets-bh</li>

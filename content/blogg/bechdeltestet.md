@@ -15,6 +15,6 @@ Randy Byers skriver på [Livejournal](http://fringefaan.livejournal.com/180628.h
 2) som pratar med varandra
 3) om något annat än män.
 
-Som Randy (och kommentatorerna på hans livejournal) konstaterar går den att använda omvänt, för att se om en film kan tänkas vara en riktig <em>dick flick</em>, dvs riktad primärt till män. Intressant nog klarar <strong>Alien</strong> Bechdeltestet.
+Som Randy (och kommentatorerna på hans livejournal) konstaterar går den att använda omvänt, för att se om en film kan tänkas vara en riktig <em>dick flick</em>, dvs riktad primärt till män. Intressant nog klarar **Alien** Bechdeltestet.
 
 Nu kommer jag att sitta och fundera på detta varje gång jag i framtiden ser en film! ;)

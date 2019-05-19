@@ -19,7 +19,7 @@ Janne gjorde reklam för sin fankatalog vilket utan tvekan var för att kunna vi
 
 En person som vill ha rykte om sig som snäll (och alltså vill vara anonym) nämnde att slug lingvist var något som han tyckte att det var bra att presentera sig som (fast på engelska). Jag föstod ingenting innan jag högt och tydligt testat att uttala det (fast jag tror att folk inte lyssnar på mig).
 
-Marie skickade en lista som hon ville ha fyllt med boktips. Fyll på den mer via mail vet jag (ha! Nu kommer det att trilla in boktips resten av livet till dig (<strong>ond</strong> (<strong>mys</strong>))).
+Marie skickade en lista som hon ville ha fyllt med boktips. Fyll på den mer via mail vet jag (ha! Nu kommer det att trilla in boktips resten av livet till dig (**ond** (**mys**))).
 
 Ond som jag var bestämde jag att jag skulle skriva rapport för då kan jag bestämma vad som har sagts under kvällen. Observera dessutom att min tidsuppfattning inte är linjär (eller är det mitt minne månne?). Jag har dessutom ett dåligt minne så om någon kommer ihåg andra saker så tycker jag att ni ska komplettera.
 

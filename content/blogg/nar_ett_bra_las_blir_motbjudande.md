@@ -23,7 +23,7 @@ I denna bok finns det en man, en scylvendi, ett folk som påminner lite om prär
 
 Hur långt kan en författare gå innan man som läsare tappar kontakten och empatin med de man läser om? För mig känner jag att en person som är så fixerad vid våld och död och med en så låg uppfattning om homosexuella och kvinnor att han inte bara kokar inombords av tvångstankar, utan också vid varje tillfälle lever ut dessa känslor i form av vidriga dåd av våldtäkt, mord och tortyr, han är gränsen för mig. Misogyni samt sexuellt våld är liksom inte underhållning. Våld mot kvinnor verkar vara ett snabbt sätt att få mig att må illa.
 
-Vad gör man när man känner att en person i en bok är en galen hund som borde avlivas för att göra världen till ett bättre ställe? En del personer vill i sådana här tillfällen säga att det bara en är främmande kultur, och att poängen är att jag <strong>ska</strong> bli upprörd. I sådana fall börjar jag undra om inte den moraliska poängen, om sådan finnes, dränks i den motvilja man känner som läsare?
+Vad gör man när man känner att en person i en bok är en galen hund som borde avlivas för att göra världen till ett bättre ställe? En del personer vill i sådana här tillfällen säga att det bara en är främmande kultur, och att poängen är att jag **ska** bli upprörd. I sådana fall börjar jag undra om inte den moraliska poängen, om sådan finnes, dränks i den motvilja man känner som läsare?
 
 Jag har inte bestämt mig för att lägga ner boken än, eller att bestämma mig för att lämna de fortsatta volymerna därhän. Det finns onekligen en balansgång att gå som författare. När kan man fläska på med osmakligheter, och när blir de helt enkelt för mycket?
 

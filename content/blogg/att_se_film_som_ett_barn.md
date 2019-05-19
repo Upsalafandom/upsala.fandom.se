@@ -9,7 +9,7 @@ kategorier = ["Kåserier"]
 taggar = ["fantasy", "film", "kina"]
 +++
 
-Jag har förmodligen nämnt min fascination för asiatisk film förr. Jag har egentligen inte läst in mig, så jag <em>vet</em> inte mycket om det. Jag bara uppmuntrar maken, och han hittar en massa roliga filmer. Sedan tittar jag. Jag förstår ofta inte riktigt vad som händer, och ofta är det inte alls uppenbart vilken sida man ska sympatisera med och varför. Jag anar ibland syftningar till händelser och företeelser jag inte känner till. Det är roligt, och lite utmanande. Det är lite som att upptäcka en ny värld helt från början.
+Jag har förmodligen nämnt min fascination för asiatisk film förr. Jag har egentligen inte läst in mig, så jag _vet_ inte mycket om det. Jag bara uppmuntrar maken, och han hittar en massa roliga filmer. Sedan tittar jag. Jag förstår ofta inte riktigt vad som händer, och ofta är det inte alls uppenbart vilken sida man ska sympatisera med och varför. Jag anar ibland syftningar till händelser och företeelser jag inte känner till. Det är roligt, och lite utmanande. Det är lite som att upptäcka en ny värld helt från början.
 
 Jag misstänker att det är just där lockelsen ligger för mig. Det där att bara kasta mig in i en annan berättartradition och en annan kultur, och bara se -- utan några speciella förväntningar eller krav eller ens analyser.
 

@@ -9,7 +9,7 @@ kategorier = ["Kåserier"]
 taggar = ["böcker", "priser", "science fiction"]
 +++
 
-När den [preliminära listan](http://www.sfsignal.com/archives/006113.html) på nomineringar till årets Nebula-pris offentliggjordes kände jag mig lite stolt över att upptäcka att jag faktiskt läst tre av böckerna i roman-kategorin: <em>Vellum</em>, <em>Mainspring</em>, och <em>Harry Potter and the Deathly Hallows</em> (den sista har jag visserligen inte avslutat ännu, men ändå). Alla tre har försvunnit på den [slutliga nomineringslistan](http://www.sfsignal.com/archives/006297.html), men det var detsamma.
+När den [preliminära listan](http://www.sfsignal.com/archives/006113.html) på nomineringar till årets Nebula-pris offentliggjordes kände jag mig lite stolt över att upptäcka att jag faktiskt läst tre av böckerna i roman-kategorin: _Vellum_, _Mainspring_, och <em>Harry Potter and the Deathly Hallows</em> (den sista har jag visserligen inte avslutat ännu, men ändå). Alla tre har försvunnit på den [slutliga nomineringslistan](http://www.sfsignal.com/archives/006297.html), men det var detsamma.
 
 Det fick mig i alla fall att fundera lite på det här med litteraturpriser. För den som eventuellt inte känner till det kan jag ju nämna att [Nebula](http://www.sfwa.org/awards)n är det årliga pris som delas ut av Science Fiction Writers of America för nyutkomna verk i olika kategorier. Det andra stora sf-priset är [Hugo](http://www.worldcon.org/hugos.html)n, som röstas fram av medlemmarna i sf-världskongressen varje år.
 

@@ -9,7 +9,7 @@ kategorier = ["Intervjuer"]
 taggar = ["Alexander Petrov", "Andrew Wiles", "Dublin", "Sten Thaning", "Örebro"]
 +++
 
-<em>Detta är den femte av mina personliga intervjuer med människor inom svensk fandom eller som på annat vis är involverade i det här med sf och fantasy. Sten föreslogs av det förra intervjuoffret, </em><em>Matthias</em><em>, med frågan "är han fortfarande aktiv i fandom?"
+<em>Detta är den femte av mina personliga intervjuer med människor inom svensk fandom eller som på annat vis är involverade i det här med sf och fantasy. Sten föreslogs av det förra intervjuoffret, </em>_Matthias_<em>, med frågan "är han fortfarande aktiv i fandom?"
 </em>
 <h2>Uppväxt</h2>
 Min familj flyttade till Örebro från Växjö när jag var sex år, och jag bodde där tills det blev dags att flytta till Uppsala och bli student. Mina föräldrar och min lillasyster med familj bor fortfarande i Örebro, så jag besöker staden med jämna mellanrum. Den ser likadan ut som för tretton år sedan. Slottet är mycket slottigare än Uppsalas, och det finns flera stycken riktigt trevliga caféer. Detta är dock inte tillräckligt för att jag ska känna något större behov av att flytta dit.

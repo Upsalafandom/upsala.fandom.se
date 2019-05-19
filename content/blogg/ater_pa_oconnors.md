@@ -13,7 +13,7 @@ Upsala var vått och småljummet och jag stod inne på Åhlens och valde mellan 
 
 <!-- more -->
 
-Naturligtvis handlade samtalet om ålder (naturligtvis därför att O'Connors tillämpar 22-årsgräns i dörren) och vi fick höra diverse historier om hur den evigt unge Johan Anglemark fick visa leg på systemet när han var 30 och liknande. Ålder <strong>är</strong> svårt att bedöma, så det är väl inte så konstigt.
+Naturligtvis handlade samtalet om ålder (naturligtvis därför att O'Connors tillämpar 22-årsgräns i dörren) och vi fick höra diverse historier om hur den evigt unge Johan Anglemark fick visa leg på systemet när han var 30 och liknande. Ålder **är** svårt att bedöma, så det är väl inte så konstigt.
 
 Ganska snart blev vi många fler och bordet vi satt vid räckte inte riktigt till. Vi hade dock fått löfte om att flytta till ett annat bord, så det gjorde vi efter ett tag. Högljudda röster tyckte att vi skulle få flytta in i den avstängda delen av lokalen, men det ville inte servitrisen gå med på med motiveringen att hon inte skulle hinna med att servera då. Efter en stunds käbbel (för just då fick vi inte
 heller plats vid det stora bordet vi nyss hade flyttat till, utan fick ta till ett bord till bredvid) var det bara Jolkkonen som fortfarande inte ville kompromissa. Han lär ha sagt: "Jag ska hitta mer koleriska människor att umgås med."

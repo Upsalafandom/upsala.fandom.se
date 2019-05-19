@@ -22,7 +22,7 @@ Boken har stora likheter med John Crowleys <em>Little, Big</em>. Båda gigantisk
 <strong>Joe Haldeman - <em>The Forever War</em></strong>
 Det är ganska märkbart hur ofta sf-klassiker är riktiga bladvändare. Haldemans berömda militär-sf-roman om rymdsoldater som förlorar kontakten med den värld de är satta att försvara pga relativistiska effekter, är visserligen driven av starka sf-idéer med klar metaforisk kraft, men det som slog mig mest av allt var hur ledigt den gled ner. Oavsett hur glada vissa är att kalla science fiction för "the literature of ideas" så är det nog ändå gammalt klassiskt pulpberättande som skapar de största avtrycken.
 
-<strong>Irmelin Sandman Lilius - <em>Bonadea</em></strong>
+<strong>Irmelin Sandman Lilius - _Bonadea_</strong>
 Sandman Lilius brukar ofta räknas som en av de bästa svenskspråkiga fantasyförfattarna, men trots att hon främst har skrivit ungdomsfantasy så lyckades jag missa hennes böcker under min uppväxt. <em>Bonadea </em>är en lågmäld historia om en föräldralös flicka i den fiktiva staden Tulavall som tröttnar på barnhemmet där hon bor och bestämmer sig för at flytta in på vinden ovanför stadens bageri. Boken handlar främst om flickans liv i staden där hon försörjer sig på att springa ärenden åt dess innevånare. Fantasydelen av berättelsen är väldigt återhållen och består endast av några få scener med övernaturligheter och på det stora hela känns berättelsen som en ganska traditionell ungdomsroman, som inte är en miljon mil från exempelvis Astrid Lindgren. Som vuxen läsare ter sig <em>Bonadea </em>ganska mycket som en bagatell, men den var trots detta en trevlig bekantskap och jag kan nog tänka mig att återvända till Sandman Lilius värld.
 
 <strong>Gene Wolfe - <em>Exodus from the Long Sun</em></strong>
@@ -30,7 +30,7 @@ Johan tog i det föregående inlägget på den här bloggen upp frågan om favor
 Enligt min åsikt har Wolfe en benägenhet att bli väldigt pratig när han inte riktigt är inspirerad och jag tycker mig definitivt se symptom av detta här. Folk måste diskutera allt i oändlighet och beskriva saker in i minsta detalj och detta blir som sagt väldigt påfrestande efter ett tag. När Patera Silks käresta här börjar beskriva varför det inte är så kul att ha stora bröst som man kan tro var jag SÅ HÄR nära att slänga boken i väggen.
 Nej, läs <em>The Book of the New Sun</em>, <em>The Fifth Head of Cerberus</em>, <em>Peace </em>eller <em>The Island of Doctor Death and Other Stories and Other Stories</em> istället; de är äkta mästerverk.
 
-<strong>Mikael Niemi - <em>Svålhålet</em></strong>
+<strong>Mikael Niemi - _Svålhålet_</strong>
 Den här boken lyssnade jag på som ljudbok, och den passade ypperligt i detta format. Mikael Niemi läser själv ur boken som består av en räcka löst sammanhängande berättelser som känns som de har sitt ursprung i en klart muntlig humoristisk tradition. Inspiration från Douglas Adams Liftarserie är uppenbar, men Niemi har ett tydligt norrländskt perspektiv och en personlig berättarröst, vilket gör att han blir långt ifrån någon epigon.
 Eftersom detta är en av de få svenska sf-böckerna som publicerats under de senaste åren känns det som något som de flesta borde läsa och borde kunna gilla.
 

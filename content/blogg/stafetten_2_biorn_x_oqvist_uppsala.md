@@ -19,11 +19,11 @@ Tjugisex års åldersskillnad!  Att min far har präglat mig råder det inget tv
 
 Han fick afasi när jag var cirka tre år gammal, och tappade därvid talförmågan helt och hållet - den återkom sakta, men på grund av att jag i den åldern plötsligen var den enda av oss som hade ett språk, blev jag i somliga avseenden mer som en far åt honom än tvärtom. Mycket tolkande gentemot omvärlden och så.
 <h3>Influenser</h3>
-Mycket av mitt förhållande till <strong>saker</strong> kommer ifrån min far. Att ha få grejor, men att se till att de grejor man har är användbara till mycket. Hellre en dyr grej som är bra, än många billiga, halvdåliga grejor. Andra människor som påverkat mig är Johannes Kepler och Marc Okrand.
+Mycket av mitt förhållande till **saker** kommer ifrån min far. Att ha få grejor, men att se till att de grejor man har är användbara till mycket. Hellre en dyr grej som är bra, än många billiga, halvdåliga grejor. Andra människor som påverkat mig är Johannes Kepler och Marc Okrand.
 
 När jag läste astronomi blev jag grymt imponerad av Johannes Kepler som ett tag var den historiska person som jag helst av allt skulle söka upp i händelse av en tidsmaskin. Hm, ingen har egentligen ersatt honom, så jag antar att det fortfarande är så.
 
-I mångt och mycket avundades jag saker som är kvalitéer jag såg hos mig själv - mångsysslare, noggrannhet, intelligens - men som Kepler åstadkom under mycket primitivare förhållanden. Att komma på att kvadraten på planeternas omloppstider är proportionella mot <strong>kuben</strong> på avståndet till solen - utan att använda miniräknare eller dator - är en enastående uppvisning i besatthet/envishet.
+I mångt och mycket avundades jag saker som är kvalitéer jag såg hos mig själv - mångsysslare, noggrannhet, intelligens - men som Kepler åstadkom under mycket primitivare förhållanden. Att komma på att kvadraten på planeternas omloppstider är proportionella mot **kuben** på avståndet till solen - utan att använda miniräknare eller dator - är en enastående uppvisning i besatthet/envishet.
 
 Kepler var utan tvekan en ärkenörd. Men mitt intresse för honom har falnat något.
 
@@ -33,15 +33,15 @@ Jag gillar Uppsala och skulle ogärna flytta härifrån. Det finns ett ständigt
 
 Musik är viktigt i mitt liv, men det går i perioder. Perioderna handlar i och för sig mest om vilken sorts musik jag lyssnar på (synt, punk, trubadurigheter). Att gå ut och skutta runt på dansgolv gör jag dock mer än gärna. Röjdans vill säga - ingen par- eller annan styrdans för mig. Och en schysst spelning eller två är heller inget jag säger nej till. Det senaste året har det blivit väldigt mycket punk.
 
-Just nu gör jag hack åt ett företag i Stockholm. Jobbar 75 %. "Driftstekniker" är min officiella titel. Tidigare jobbade jag på Uppsala English Bookshop (och det är fortfarande en reflex att svara på frågan "Men.. <strong>Var</strong> har jag sett dig förut?"  med "På bokhandeln?").
+Just nu gör jag hack åt ett företag i Stockholm. Jobbar 75 %. "Driftstekniker" är min officiella titel. Tidigare jobbade jag på Uppsala English Bookshop (och det är fortfarande en reflex att svara på frågan "Men.. **Var** har jag sett dig förut?"  med "På bokhandeln?").
 
-Men mitt jobb har aldrig varit mitt liv och jag kommer aldrig att flytta till Stockholm. Möjligheten att sova över på jobbet, eller väldigt nära, vore kanon. Men bara för att kunna riva av några dagar av <strong>enbart</strong> jobba-äta-sova, och som medel för att få längre obruten fritid någon annanstans. Att kunna lägga jobbet helt och sidan och tänka på inget annat än mina egna galna projekt under en tid längre än bara en helg är guld värt! (på en helg har man en dag får återhämtning, och en dag för återställning till jobb - jag vill ha flera dagar instoppade däremellan för att överhuvud ens tänka på det som "ledighet" snarare än bara "återhämtning").
+Men mitt jobb har aldrig varit mitt liv och jag kommer aldrig att flytta till Stockholm. Möjligheten att sova över på jobbet, eller väldigt nära, vore kanon. Men bara för att kunna riva av några dagar av **enbart** jobba-äta-sova, och som medel för att få längre obruten fritid någon annanstans. Att kunna lägga jobbet helt och sidan och tänka på inget annat än mina egna galna projekt under en tid längre än bara en helg är guld värt! (på en helg har man en dag får återhämtning, och en dag för återställning till jobb - jag vill ha flera dagar instoppade däremellan för att överhuvud ens tänka på det som "ledighet" snarare än bara "återhämtning").
 
 Drömmen skulle ha ett helt portabelt liv; en väska med jobb och förnödenheter, och tillräckligt med pengar för att kunna röra sig fritt. Det och ett trevligt hem någonstans på gångavstånd från station i Uppsala (väldigt nöjd med min lägenhet i nuläget!). En plats att sätta ned foten på, när så behövs, förvara sina prylar, och ha en ständigt uppkopplad dator på. Så länge jag kan nå mina data ifrån vilken nätad dator som helst är jag hemma i hela världen! :)
 
-Internet, och dess utveckling, är det största som har skett i världen under mitt liv. När jag gick i gymnasiet (mitten på nittitalet) fanns det inte mycket på nätet. Letade man efter datorinformation stod det mesta att finna, men det är först nu långt senare som man kan hitta <strong>allt</strong>. Stickbeskrivningar, instruktioner om växtbeskärning, och hur man renoverar sitt badrum, etc. Vardagsprylar. Så'n info man verkligen behöver. Nu när "Ten years of September" börjar gå mot femton finns allt!
+Internet, och dess utveckling, är det största som har skett i världen under mitt liv. När jag gick i gymnasiet (mitten på nittitalet) fanns det inte mycket på nätet. Letade man efter datorinformation stod det mesta att finna, men det är först nu långt senare som man kan hitta **allt**. Stickbeskrivningar, instruktioner om växtbeskärning, och hur man renoverar sitt badrum, etc. Vardagsprylar. Så'n info man verkligen behöver. Nu när "Ten years of September" börjar gå mot femton finns allt!
 
-Mina intressen spretar åt alla möjliga håll. Klingonska har jag ägnat mig åt - skapat Klingonska Akademien med tillhörande webbsida [www.klingonska.org](http://www.klingonska.org), ägnat mig åt självstudier, undervisande, samt deltagande på möten - <em>qep'a'</em> och <em>qepHom</em>).
+Mina intressen spretar åt alla möjliga håll. Klingonska har jag ägnat mig åt - skapat Klingonska Akademien med tillhörande webbsida [www.klingonska.org](http://www.klingonska.org), ägnat mig åt självstudier, undervisande, samt deltagande på möten - _qep'a'_ och _qepHom_).
 
 Viktigast i mitt liv är förmodligen min individuella frihet, möjligheten att göra lite som det faller mig in. Inte vara alltför uppbunden av jobb, plikter och annat "styrt". Jag tycker bättre om att leva på sparlåga med lite halvkrasslig inkomst än ha alla pengar i världen men ingen tid. Min tid är värdefull, för värdefull för att ge bort i stor skala.
 
@@ -53,7 +53,7 @@ Förvånansvärt många människor svarar glatt "Ja" på frågan om de vill gå 
 <h3>Fandom</h3>
 Science fiction-fandom hittade jag genom Åka. Hon ringde och lämnade ett förvirrande meddelande där hon hävdade att hon hittat en klump med folk som jag skulle trivas i, och att jag absolut bara måste komma dit. Det var en kongress, och jag kom i tid att se en eller två programpunkter innan det var slut. Minns inte vad kongressen hette, men den var i en källarlokal, i huset brevid Missonskyrkan.
 
-Jag minns att jag hörde någon som jag senare kom att identifiera som Ahrvid Engholm göra en <strong>lång</strong> utläggning om när det är obligatoriskt att utelämna ett komma ("aldrig komma före nödvändig bisats"), och vilka ingrepp han gjort å författarnas räkning när han redigerat dylika texter.
+Jag minns att jag hörde någon som jag senare kom att identifiera som Ahrvid Engholm göra en **lång** utläggning om när det är obligatoriskt att utelämna ett komma ("aldrig komma före nödvändig bisats"), och vilka ingrepp han gjort å författarnas räkning när han redigerat dylika texter.
 
 Fandom får mig att tänka på Ramones "We're a happy family, we're happy family". En energisk, kaotisk sammanslutning av människor. En anarkistisk utopi, kanske? :)
 <h3>Kläder</h3>
