@@ -2,6 +2,7 @@
 title = "Great Musical SF Slideshow"
 slug = "great_musical_sf_slideshow"
 date = 2010-06-11
+lang = "en"
 
 [taxonomies]
 forfattare = ["George"]

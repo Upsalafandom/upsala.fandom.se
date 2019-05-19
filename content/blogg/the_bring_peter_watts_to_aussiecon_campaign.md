@@ -2,6 +2,7 @@
 title = "The Bring Peter Watts To Aussiecon Campaign"
 slug = "the_bring_peter_watts_to_aussiecon_campaign"
 date = 2010-06-16
+lang = "en"
 
 [taxonomies]
 forfattare = ["George"]

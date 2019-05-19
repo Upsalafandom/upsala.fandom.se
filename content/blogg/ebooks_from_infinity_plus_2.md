@@ -2,6 +2,7 @@
 title = "Ebooks from Infinity Plus"
 slug = "ebooks_from_infinity_plus_2"
 date = 2011-03-28
+lang = "en"
 
 [taxonomies]
 forfattare = ["George"]

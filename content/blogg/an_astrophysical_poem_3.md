@@ -2,6 +2,7 @@
 title = "An Astrophysical Poem"
 slug = "an_astrophysical_poem_3"
 date = 2010-07-15
+lang = "en"
 
 [taxonomies]
 forfattare = ["George"]

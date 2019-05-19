@@ -2,6 +2,7 @@
 title = "Ian Graham on Gaming"
 slug = "ian_graham_on_gaming"
 date = 2010-11-22
+lang = "en"
 
 [taxonomies]
 forfattare = ["George"]
