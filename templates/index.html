@@ -42,7 +42,12 @@
     </header>
     {% else %}
     <header>
-        <p><a href="{{ get_url(path="") }}">{{ config.title }}</a></p>
+        <p><a href="{{ get_url(path="") }}">{{ config.title }}</a>
+            {% if page.ancestors and page.ancestors | length > 1 %}
+            {% set parent_section = get_section(path=page.ancestors | last) %}
+            / <a href="{{ get_url(path=parent_section.path) }}">{{ parent_section.title }}</a>
+            {% endif %}
+        </p>
     </header>
     {% endif %}
 
