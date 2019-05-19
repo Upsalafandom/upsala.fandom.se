@@ -25,7 +25,8 @@ class Builder(cli.Application):
 
     def public_files_by_extension(self, *extensions):
         for filepath in (local.cwd / "public").walk(
-            filter=lambda f: f.is_file() and f.suffix in ("." + e for e in extensions)
+            filter=lambda f: f.is_file() and f.suffix in ("." + e for e in extensions),
+            dir_filter=lambda d: d.name != "arkiv",
         ):
             yield filepath
 
