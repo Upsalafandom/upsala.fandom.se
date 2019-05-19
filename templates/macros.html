@@ -6,29 +6,37 @@
 
 {% macro dateline(page) %}
 <p>
+    {% if page.taxonomies.forfattare %}
+    Av
     {% for author in page.taxonomies.forfattare %}
-    <a href="{{ get_taxonomy_url(kind="forfattare", name=author) | safe }}">{{ author }}</a>,
-    {% endfor %}
-    <time datetime="{{ page.date | date(format="%Y-%m-%d") }}">{{ page.date }}</time>
-</p>
-<p>
-    Kategori:
-    {% for category in page.taxonomies.kategorier %}
-    <a href="{{ get_taxonomy_url(kind="kategorier", name=category) | safe }}">{{ category }}</a>
-    {%- if not loop.last -%}, {%- endif -%}
-    {% endfor %}
-</p>
-{% endmacro dateline %}
+    {%- if not loop.first and not loop.last %}, {%- elif loop.last and not loop.first %} och {%- endif %}
+    <a href="{{ get_taxonomy_url(kind="forfattare", name=author) | safe }}">{{ author }}</a>
 
-{% macro tags(page) %}
-<p>
-    Taggar:
-    {% for tag in page.taxonomies.taggar %}
-    <a href="{{ get_taxonomy_url(kind="taggar", name=tag) | safe }}">{{ tag }}</a>
-    {%- if not loop.last -%}, {%- endif -%}
     {% endfor %}
+    i
+    {% endif %}
+    {% if page.taxonomies.kategorier %}
+    {% for category in page.taxonomies.kategorier %}
+    {%- if not loop.first and not loop.last %}, {%- elif loop.last and not loop.first %} och {%- endif %}
+    <a href="{{ get_taxonomy_url(kind="kategorier", name=category) | safe }}">{{ category }}</a>
+    {% endfor %}
+    {% endif %}
+
+    <time datetime="{{ page.date | date(format="%Y-%m-%d") }}">{{ page.date }}</time>
+
 </p>
-{% endmacro tags %}
+{% if page.taxonomies.taggar %}
+<p>
+    <small>
+        Om
+        {% for tag in page.taxonomies.taggar %}
+        {%- if not loop.first and not loop.last %}, {%- elif loop.last and not loop.first %} och {%- endif %}
+        <a href="{{ get_taxonomy_url(kind="taggar", name=tag) | safe }}">{{ tag }}</a>
+        {% endfor %}
+    </small>
+</p>
+{% endif %}
+{% endmacro dateline %}
 
 {% macro page_in_list(page) %}
 <article>
@@ -46,11 +54,5 @@
     {% if page.summary %}
     <p><a href="{{ page.permalink }}#continue-reading">Fortsätt läsa</a></p>
     {% endif %}
-
-    <footer>
-        {% if page.taxonomies.taggar %}
-        {{ macros::tags(page=page) }}
-        {% endif %}
-    </footer>
 </article>
 {% endmacro page_in_list %}
