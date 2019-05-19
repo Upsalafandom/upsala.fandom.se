@@ -6,15 +6,30 @@ date = 2008-05-05
 [taxonomies]
 forfattare = ["Anglemark"]
 kategorier = ["Inbjudningar"]
-taggar = []
 +++
 
-Detta har hänt: Upsalafandom har inrättat en serie sammankomster på värdshus för att diskutera gårdagens händelser, dagens aktualiteter och framtidens möjligheter. Mattias, Ollie och Nicklas har stupat och Ante och Åka finner sig för ögonblicket oförmögna att närvara, men nya hjältar har tagit deras platser. Kampen går vidare.
+Detta har hänt: Upsalafandom har inrättat en serie sammankomster på värdshus
+för att diskutera gårdagens händelser, dagens aktualiteter och framtidens
+möjligheter. Mattias, Ollie och Nicklas har stupat och Ante och Åka finner
+sig för ögonblicket oförmögna att närvara, men nya hjältar har tagit deras
+platser. Kampen går vidare.
 
-Under morgondagen kommer rapport att avges från [Åcon 2](http://acon2.wordpress.com), som avhölls i Mariehamn i helgen. Kom och hör berättas om hur [Ilja målades chockrosa](http://www.flickr.com/photos/jophan/sets/72157604891888270) och om Ahrvids våldsamma magsjuka, om festen som slutade klockan åtta på morgonen och om Saris extremt ovetenskapliga och påstridiga litania om vad som är rätt och riktigt, för att inte tala om fel och korkat med sf och fandom.
+Under morgondagen kommer rapport att avges från [Åcon
+2](http://acon2.wordpress.com), som avhölls i Mariehamn i helgen. Kom och hör
+berättas om hur [Ilja målades
+chockrosa](http://www.flickr.com/photos/jophan/sets/72157604891888270) och om
+Ahrvids våldsamma magsjuka, om festen som slutade klockan åtta på morgonen
+och om Saris extremt ovetenskapliga och påstridiga litania om vad som är rätt
+och riktigt, för att inte tala om fel och korkat med sf och fandom.
 
-<img src="__FIXME__/wp-content/uploads/2008/05/ilja.jpg" alt="Ilja" />
+![Ilja](ilja.jpeg)
 
-J. Jönsson kommer att förklara hur man beter sig för att bli medlem av [Åcon 3](http://acon3.wordpress.com) som går av stapeln nästa år och ta emot nomineringar till NoFF. Han kan även förklara vad NoFF är, för den som inte vet det. Vidare kommer besök på [Swecon](http://www.lysator.liu.se/confuse) i Linköping och [Finncon](http://2008.finncon.org/en/index.htm) i Tammerfors att diskuteras.
+J. Jönsson kommer att förklara hur man beter sig för att bli medlem av [Åcon
+3](http://acon3.wordpress.com) som går av stapeln nästa år och ta emot
+nomineringar till NoFF. Han kan även förklara vad NoFF är, för den som inte
+vet det. Vidare kommer besök på [Swecon](http://www.lysator.liu.se/confuse) i
+Linköping och [Finncon](http://2008.finncon.org/en/index.htm) i Tammerfors
+att diskuteras.
 
-Till dessa muntrationer kommer öhl att drickas och bhojee vindabonna att förtäras i rikliga mängder.
+Till dessa muntrationer kommer öhl att drickas och bhojee vindabonna att
+förtäras i rikliga mängder.
