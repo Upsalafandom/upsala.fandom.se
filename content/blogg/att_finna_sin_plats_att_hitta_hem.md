@@ -1,6 +1,6 @@
 +++
 title = "Att finna sin plats – att hitta hem"
-slug = "att_finna_sin_plats_%e2%80%93_att_hitta_hem"
+slug = "att_finna_sin_plats_att_hitta_hem"
 date = 2008-11-26
 
 [taxonomies]
