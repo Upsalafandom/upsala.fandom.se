@@ -1,0 +1,12 @@
++++
+title = "Bokprat"
+path = "bokprat"
++++
+
+En gång i månaden träffas vi hemma hos någon för att diskutera en bok och dricka té. Det är oftast en science fiction- eller fantasybok, men det har förekommit de flesta sorters litteratur under åren.
+
+Vanligtvis bestämmer vi vilka böcker vi ska läsa terminsvis på ett planeringsmöte och vi har då ett tema som vi väljer utifrån. Ett sådant tema kan variera från allt mellan <a href="http://en.wikipedia.org/wiki/Nebula_Award">Nebula Award</a>-vinnare till "en valfri bok jag tycker vi borde läsa och diskutera".
+
+<img class="alignleft size-medium wp-image-796" title="Åka" src="__FIXME__/wp-content/uploads/2008/02/Anna-225x300.jpg" alt="" width="225" height="300" />
+
+Den nuvarande läslistan och en förteckning på gångna bokprat finns på <a href="__FIXME__/bokpratsteman/">Bokpratsteman</a>.

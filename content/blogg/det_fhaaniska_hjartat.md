@@ -1,0 +1,22 @@
++++
+title = "Det Fhaaniska hjärtat"
+slug = "det_fhaaniska_hjartat"
+date = 2008-03-01
+
+[taxonomies]
+forfattare = ["Ante"]
+kategorier = ["Kåserier"]
+taggar = ["samhörighet", "rollspel", "fhaaniskhet", "hack mode", "rhåkraft", "fandom"]
++++
+
+Det här med flocken, gruppen, är intressant. Här sitter du nu och läser det här på en webbplats som heter fandom.se, vilket alltså betyder att det här har nåt med den där "fandom" att göra. Vad är det där egentligen, undrar jag ibland? Vad är den fhaaniska essensen?
+
+Själv känner jag ibland, mer eller mindre, mig hemma i lite olika grupper. Hackerkulturen t.ex. är tidvis ganska hemtrevlig. Men, jag måste erkänna att det där sättet att tänka strikt logiskt och att roas av formella system samt att kunna go in i "hack mode" är jag inte bra på. Faktum är, att bli maniskt fokuserad av nåt och sedan under en natt sätta sig och skapa storverk av elektronik, systemspecifikation eller programkod är faktiskt nåt jag är ganska dålig på. Hur hemma är jag i det där gänget egentligen?
+
+Gamerkulturen kan också vara lite hemma. Men, nu har jag träffat lite folk som är precis den typen som har ett mycket begränsat konversationsspann, dricker Dr Pepper och är besatt av att samla actionfigurer och superhjälteserier. I och med det så inser jag att jag är inte riktigt som de där filurerna trots allt. Min ganska respektingivande rollspelssamling till trots, så beter jag mig inte som en arketypisk spelnörd.
+
+Fandom då, hur är det med den? Här är det ju lite lurigare. Spelar jag ping-pong? Nej. Hyllar jag arkaiska reproduktionstekniker? Nej. Ägnar jag mig åt mytologiserande återberättande av mina och kamraters bedrifter? Kanske. Dricker jag gärna öl? Ja. Ger jag ut fanzines, arrangerar kongresser eller bokcirklar om sf/f? Nej, jag har försökt och ledsnade på bristen av entusiasm, på provinsialismen eller den intellektuella stimulansen. Umgås jag ens med fans? Nja, men egentligen inte för att de är fans, vad nu det är.
+
+Det verkar som om det där med fandom lätt blir lite flyktigt, även om man säkert kan försöka ringa in det bättre än min skiss ovan. Men, styrkan i det hela är faktiskt att man kan göra ganska mycket i fandom utan att det behöver kännas som man driver bort från fokus. Nog har det funnits en del tongivare inom fandom som t.ex. de hyperaktiva tonåringar som under lång tid angav tonen för vad som var fanniskt. Ibland undrar jag om man inte <em>måste</em> vara tonåring för att kunna tycka att fejdande, fanzinmakande, ölhäfande, flaggbrännande på Sista April och allt det där andra egentligen är så värst meningsfullt att syssla med. I alla fall inte nu.
+
+Vi har nu alla ändock en gång varit tonåringar och åtminstone någon gång varit, eller fortarande är, i det där mentala tillståndet då omedelbara infall av mer eller mindre galen natur är nåt som man direkt faller för. Kanske är det därför fandom funkar. Kanske är det därför som den här sammanslutningen i all sin disparata sammansättning kan få en att känna sig hemma även när man inser att man saknar de flesta gemensamma nämnare. Förutom att man på nåt vis är med i fandom. Då kan man få för sig att vråla HELVETE! för det kan ju anses som fhaaaniskt...

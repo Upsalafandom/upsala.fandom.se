@@ -1,0 +1,22 @@
++++
+title = "Konsten att pigga upp en dyster vardag -- \"eskapistisk litteratur\""
+slug = "konsten_att_pigga_upp_en_dyster_vardag_eskapistisk_litteratur"
+date = 2008-03-14
+
+[taxonomies]
+forfattare = ["Ante"]
+kategorier = ["Kåserier"]
+taggar = ["läsvanor", "böcker", "svart humor", "Larry Niven", "Paul McAuley", "Glen Cook"]
++++
+
+Jag har funderat lite mer på det här om vad det är jag läser, och varför. För två dagar sedan fick jag ett brev från min far som berättade att farfar slutat sina dagar. Precis som när jag förra året fick besked om ett annat dödsfall, så blev det förstås något som kom att påverka mig på alla plan. Detta inkluderar förstås även vad jag läser.
+
+När jag för ett antal år sedan var nere i en riktigt djup svacka och mådde så dåligt man kan göra, höll jag mig inomhus och läste Larry Niven. Hans noveller om Beowulf Shaeffer var tillräckligt glada och okomplicerade för att få mig att sluta tänka på hur miserabel jag kände mig. Det finns inget svårt eller utmanande i att läsa dem, eftersom de var rena äventyrshistorier fyllde med upptäckerlusta från genrens guldålder -- tolvårsåldern. De fanns där när jag behövde dem och jag har fortfarande minnen av dem som oerhört trevliga. Skulle jag läsa dem nu kanske de skulle framstå som banala.
+
+Vad läser jag nu, när jag bor i ett främmande land, och med ett par dagar gammalt sorgebesked i bakhuvudet? Den här gången har jag bestämt mig för att Paul McAuleys "Child of the River", första volymen av hans Confluenceserie, helt enkelt är för träig och inte gör nåt speciellt intressant med konceptet. Istället tar jag mig an Glen Cooks Black Company.
+
+Av någon anledning så sa mina känslor mig att vad jag behövde var att läsa om hur ett kompani legoknektar sitter belägrade i en stad tillsammans med en allierad som vill dränka dem. För att göra historien lite muntrare så har ett par av huvudpersonerna börjat en personlig vendetta mot all världens klerker, dvs massmord. En annan börjar inse att det kanske kommer att bli sju reser värre om ett litet tag, när den mäktigaste magikern på tusentals år (en fyraårig flicka) kanske måste hackas i bitar, brännas och spridas för vinden. Svält, kannibalism, svart humor, tusentals döda och omöjligt komplexa konspirationer mellan ett gäng minst sagt galna magiker. Allt man behöver för att känna att man lever. Muntert värre.
+
+Detta är naturligtvis det mest engagerande jag läst på länge och jag känner hur jag faktiskt får livsenergi av att läsa om hur folk kämpar på mot omöjliga odds bara för att det är det enda de kan!
+
+Om det där är vad jag läser när jag har familjesorg och Niven är det jag läser när jag är deprimerad, kan man ju undra vad jag läser när jag är glad och nöjd med livet. Jag kommer aldrig bli riktigt klok på mig själv.
