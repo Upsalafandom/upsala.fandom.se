@@ -2,6 +2,7 @@
 title = "Macleod on Uppsala"
 slug = "macleod_on_uppsala"
 date = 2010-10-03
+lang = "en"
 
 [taxonomies]
 forfattare = ["George"]
