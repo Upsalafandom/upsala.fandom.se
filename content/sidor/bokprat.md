@@ -14,4 +14,4 @@ till "en valfri bok jag tycker vi borde läsa och diskutera".
 
 ![Åka](anna.jpeg)
 
-Den nuvarande läslistan och en förteckning på gångna bokprat finns på [Bokpratsteman](/bokpratsteman).
+Den nuvarande läslistan och en förteckning på gångna bokprat finns på [Bokpratsteman](bokpratsteman).
