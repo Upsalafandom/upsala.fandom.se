@@ -9,4 +9,7 @@ kategorier = ["Rapporter"]
 taggar = ["Paolo Bacigalupi", "bokprat", "böcker", "science fiction"]
 +++
 
-På det senaste bokpratet diskuterade vi romanen <em>The Windup Girl</em> av Paolo Bacigalupi. Vi har varit lite dåliga på att skriva rapporter från bokpraten på sistone, men den här gången har Åka postat [en rapport på sin blog](http://annien.wordpress.com/2011/02/12/hur-komplexa-behover-romanpersoner-vara).
+På det senaste bokpratet diskuterade vi romanen _The Windup Girl_ av Paolo
+Bacigalupi. Vi har varit lite dåliga på att skriva rapporter från bokpraten
+på sistone, men den här gången har Åka postat [en rapport på sin
+blog](http://annien.wordpress.com/2011/02/12/hur-komplexa-behover-romanpersoner-vara).
