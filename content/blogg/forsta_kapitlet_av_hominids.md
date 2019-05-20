@@ -9,7 +9,9 @@ kategorier = ["Kåserier"]
 taggar = ["böcker", "vetenskap"]
 +++
 
-I ett [tidigare inlägg](vetenskap-och-sf) skrev jag om vad jag hört om _Hominids_ av Robert Sawyer, bland annat att folk tycker att han tog sig stora friheter med  en person som antas ha en förebild i verkligheten.
+I ett [tidigare inlägg](vetenskap-och-sf) skrev jag om vad jag hört om
+_Hominids_ av Robert Sawyer, bland annat att folk tycker att han tog sig
+stora friheter med en person som antas ha en förebild i verkligheten.
 
 Jag har inte tidigare läst något av Robert Sawyer, jag vet bara att han är en ganska populär författare sådär i största allmänhet. Nyligen läste jag också en [intervju med honom](http://www.sfquarterly.net/index.php/interviews/46-interviews/82-sfqs-interview-with-robert-j-sawyer), där han säger så här:
 
@@ -22,8 +24,8 @@ Jag har inte tidigare läst något av Robert Sawyer, jag vet bara att han är en
 
 När jag nu till slut började läsa _Hominids_ var det två saker som framstod jättetydligt i första kapitlet:
 
-* det börjar med en massa detaljer om neutrinodetektorn SNO<
-* en ung postdoc med fransk brytning visar sin spets-bh<
+* det börjar med en massa detaljer om neutrinodetektorn SNO
+* en ung postdoc med fransk brytning visar sin spets-bh
 
 Jag kan inte låta bli att undra om det här verkligen är så lättillgängligt,
 även om jag själv tycker att det är rätt charmigt att läsa om ett labb där
