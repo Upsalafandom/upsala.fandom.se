@@ -20,7 +20,7 @@ på Stora torget i Uppsala från
 
 och framåt
 
-**första tisdagen i varje månad.**>
+**första tisdagen i varje månad.**
 
 <!-- more -->
 
