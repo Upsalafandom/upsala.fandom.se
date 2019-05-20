@@ -51,6 +51,6 @@ Snigelpost:
 
 > Anna Davour \
 > Marmorv. 9 A \
-> 752 44 Uppsala \
+> 752 44 Uppsala
 
 E-post: `landetannien kringla gmail.com` (du vet vad man gör med adressen)
