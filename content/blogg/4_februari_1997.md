@@ -27,6 +27,6 @@ Naturligtvis menade hon att fandomen har gjort allt.
 
 Nästa möte blir på samma plats från 18.30 och framåt, tisdagen 4 mars. Väl mött!
 
-— Johan
+— _Johan_
 
 PS. Närvarande var jag, Mattias Palmér, Tony (inte E.), Sten Thaning, Kristin Thorrud, Anna Åkesson och Björn X Öqvist.

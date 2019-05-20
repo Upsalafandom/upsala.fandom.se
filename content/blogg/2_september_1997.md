@@ -24,7 +24,7 @@ Vid halv sex gick jag och lade mig och jag vet inte när de sista lämnade mitt 
 Gårdagen vill jag helst glömma, men jag hoppas att vi ses om en månad igen, om inte förr!
 
 ex pulpetra
-— Johan
+— _Johan_
 
 
 Vi var där: Johan Anglemark, Magnus Eriksson, Andreas Gustafsson, Karin Kruse, Jan Nyström, Markus Persson, Lennart Svensson, Sten Thaning, Wahlbom, Anna Åkesson, Björn Öqvist, Tomas "Baron"

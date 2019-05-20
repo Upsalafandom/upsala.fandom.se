@@ -30,7 +30,7 @@ C.S. Lewis fyller 100 nästa år, vilket fick oss att diskutera Perelandra, mard
 MURPHYS!? Ska vi inte flytta verksamheten till, i alla fall inte utan att ha observerat deras krumsprång ett tag till först. Fellini, föreslog Jolkkonen, så det får ni gärna grunna på. Tills vidare förblir det O'Connors, på gott och ont.
 
 ex pulpetra
-— Johan
+— _Johan_
 
 
 Vi var där: Johan Anglemark, Mikael Jolkkonen, Linnéa Jonsson, Karin Kruse, Jan Nyström, Matthias Palmér, John Sören Pettersson, Sten Thaning, Kristin Thorrud, Anders Wahlbom, Björn X Öqvist

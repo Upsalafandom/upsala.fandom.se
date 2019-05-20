@@ -28,7 +28,7 @@ Ett slag slogs för skydd av de utrotningshotade sämskhonorna, och Matthias del
 Om någon har en åsikt om lämpligheten av att kalla vår nästa kongress för Supernova eller Världsutställningen kan de höra av sig till någon lämplig person, men annars får ni hålla till godo med denna lätt lakoniska rapport från tisdagens möte. Och om ni undrar så diskuterades det en hel del sf också, fast inte så mycket där just jag satt. Eller så har jag glömt det.
 
 ex pulpetra
-— Johan
+— _Johan_
 
 Vi var där: Johan Anglemark, Tony Elgenstierna, Magnus Eriksson, Andreas Gustafsson, Linnéa Jonsson, Karin Kruse, Alexander Larsson, Daniel Luna, Björn Nilsson, Jan Nyström, Matthias Palmér, Lisa Sjöblom, Lennart Svensson, Sten Thaning, Kristin Thorrud, Anna Åkesson, Sam Åslund, Olle Östlund, Björn X Öqvist.
 

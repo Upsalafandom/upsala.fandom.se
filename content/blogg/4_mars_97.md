@@ -20,7 +20,7 @@ S:t Ansgars församling, kvinnliga präster och sekulariserade dopföljen diskut
 En hemsida ska skapas för EFSF/Upsalafandom, med lite historik och möjlighet att kontakta oss. Vi pratade om att gå och se Mars Attacks när den kommer till byn, och bestämde att vi träffas hemma hos Anna onsdag 12 mars kl 19 för att se om vi vill göra ett fanzine tillsammans. Adress: Studentvägen 34.
 
 ex cathedra
-— Johan
+— _Johan_
 
 Vi var där: Johan Anglemark, Joakim Bjelkås, Tony Brooks, Magnus Eriksson, Jan Nyström, Mattias Palmér, Kristin Thorrud, Anna Åkesson, Karin Kruse
 

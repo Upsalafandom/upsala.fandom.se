@@ -34,7 +34,7 @@ Vi pratade också om att flytta tisdagsmötena till ett annat ställe, snarast t
 Mer öl, cider och Cola dracks och mer mat åts, men sedan drog vi oss faktiskt hemåt.
 
 ex pulpetra
-— Johan
+— _Johan_
 
 
 Vi var där: Johan Anglemark, Joakim Bjelkås, Magnus Eriksson, Andreas Gustafsson, Karin Kruse, Jan Nyström, Matthias Palmér, Lennart Svensson, Sten Thaning, Kristin Thorrud, Björn Öqvist

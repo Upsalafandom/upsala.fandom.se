@@ -35,7 +35,7 @@ Sedan konstituerade vi en kongresskommitté för Upsala: 1999, och den befanns b
 Jag gick redan vid elva, men det stannade nog kvar folk i flera timmar till.
 
 ex pulpetra
-— Johan
+— _Johan_
 
 Vi var där: Johan Anglemark, Linnéa Anglemark, Magnus Eriksson, Andreas Gustafsson, Mikael Jolkkonen, Matthias Palmér, Nils Segerdahl, Anders Wahlbom, Tomas Winbladh, Anna Åkesson, Olle Östlund.
 
