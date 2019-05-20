@@ -9,7 +9,7 @@ kategorier = ["Recensioner"]
 taggar = ["Bokslut2007"]
 +++
 
-Jag fortsätter här min  genomgång av alla böcker jag läste ut under 2007. Den första delen kan läsas [här](bokslut_2007_del_1).
+Jag fortsätter här min  genomgång av alla böcker jag läste ut under 2007. Den första delen kan läsas [här](./blogg/bokslut_2007_del_1.md).
 
 # Jasper Fforde - _The Fourth Bear_ (ljudbok)
 

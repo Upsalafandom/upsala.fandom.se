@@ -9,7 +9,7 @@ kategorier = ["Recensioner"]
 taggar = ["Bokslut2007"]
 +++
 
-Här fortsätter jag min genomgång av 2007 års läsuppleveler. Tidigare delar kan läsas [här](bokslut_2007_del_1) och [här](bokslut_2007_del_2).
+Här fortsätter jag min genomgång av 2007 års läsuppleveler. Tidigare delar kan läsas [här](./blogg/bokslut_2007_del_1.md) och [här](./blogg/bokslut_2007_del_2.md).
 
 # Frederik Pohl & C. M. Kornbluth - _The Space Merchants_
 

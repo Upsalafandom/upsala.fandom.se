@@ -4,7 +4,7 @@ path = "vilka_ar_vi"
 +++
 
 Här är några av de som skrivit på den här sidan och utgör en del av
-[fandom](vad_ar_fandom) i Uppsala, eller med ett annat ord Upsalafandom.
+[fandom](./sidor/vad_ar_fandom.md) i Uppsala, eller med ett annat ord Upsalafandom.
  
 ![Nicklas](nicklas.jpeg)
 

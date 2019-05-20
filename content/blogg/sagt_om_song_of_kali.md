@@ -40,4 +40,4 @@ konstaterades att det gör boken till en ganska typisk WFA-pristagare.
 Är det någon mer som läst boken och har något att tillägga?
 
 Nästa bok till läsning är _Last Call_ av Tim Powers. Se [sidan om
-bokprat](bokprat) och [kalendariet](kalender).
+bokprat](./sidor/bokprat/index.md) och [kalendariet](./sidor/kalendarium.md).

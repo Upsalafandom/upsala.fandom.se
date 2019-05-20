@@ -9,7 +9,8 @@ kategorier = ["Recensioner"]
 taggar = ["Bokslut2007"]
 +++
 
-Nu till del fyra i vår [odyssé](tag/bokslut2007) genom det litterära landskapet.
+Nu till del fyra i vår [odyssé](__PREFIX__/taggar/bokslut2007/) genom det
+litterära landskapet.
 
 # Ursula K. Le Guin - _The Left Hand of Darkness_
 

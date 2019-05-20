@@ -31,4 +31,4 @@ en starkt moralisk ton. På sätt och vis är budskapet att sanningen alltid
 måste fram, vilket ju också är ett cyberpunkdrag.
 
 Nästa bokpratsbok är _The Affirmation_ av Christopher Priest, som vi ska
-prata om onsdag 12 maj. (Se [kalendern](kalender) för detaljer.)
+prata om onsdag 12 maj. (Se [kalendern](./sidor/kalendarium.md) för detaljer.)

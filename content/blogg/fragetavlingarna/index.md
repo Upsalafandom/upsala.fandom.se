@@ -12,7 +12,7 @@ taggar = ["frågetävling", "pubmöten", "quiz"]
 Vi firade ju den 200:e pubträffen i obruten följd i går på Pipes of Scotland.
 Det var kul, jag räknade till 41 vuxna och ett barn, och jag kan ha missat
 någon. Största mötet någonsin och det överlägset största augustimötet. Av de
-elva som var på[ första mötet 4 januari 1997](4_januari_1997), var
+elva som var på[ första mötet 4 januari 1997](./blogg/4_januari_1997.md), var
 tre närvarande: jag själv, Sten och Zrajm.
 
 Den stora aktiviteten på mötet var en frågetävling i fyra delar med fina

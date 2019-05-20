@@ -13,11 +13,11 @@ taggar = ["Diane Duane", "fantasy"]
 08](http://stocon08.warp10.se) rum i Stockholm. Hedersgäst är science
 fiction- och fantasyförfattare Diane Duane, vilket är anledningen till att
 hennes ungdomsfantasybok _So You Want to Be a Wizard_ är vad som skall
-diskuteras under kvällens [bokpratsmöte](bokprat). _So You Want to Be a
-Wizard_, som gavs ut för första gången 1983, inleder Duanes serie _Young
-Wizards_, men kan utan problem läsas fristående utan att man fortsätter med
-de övriga böckerna i serien. Lyckligtvis, eftersom det gott och väl räcker
-med en bok.
+diskuteras under kvällens [bokpratsmöte](./sidor/bokprat/index.md). _So You
+Want to Be a Wizard_, som gavs ut för första gången 1983, inleder Duanes
+serie _Young Wizards_, men kan utan problem läsas fristående utan att man
+fortsätter med de övriga böckerna i serien. Lyckligtvis, eftersom det gott
+och väl räcker med en bok.
 
 Egentligen kanske det inte beror så mycket på boken som på att jag har svårt
 för några av de drag som utmärker många ungdomsböcker, som hur storyn
