@@ -11,8 +11,6 @@ taggar = ["Buffy", "Joss Whedon", "evenemang", "mediefandom"]
 
 Såg följande inbjudan på en e-postlista (Fanac-listan):
 
-<blockquote>
-
 > # BUFFY the Vampire Slayer MINI-CON
 > 
 > **Tid:** Söndagen den 27 april klockan 12.00
@@ -36,7 +34,7 @@ Såg följande inbjudan på en e-postlista (Fanac-listan):
 > Paus. Förhoppningsvis med fikaförsäljning.
 > 
 > ### 15.00 - ca 17.30
-
+>
 > Visning av avsnitten:
 >
 > * Family. Säsong 5
