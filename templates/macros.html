@@ -8,18 +8,17 @@
 <p>
     {% if page.taxonomies.forfattare %}
     Av
-    {% for author in page.taxonomies.forfattare %}
+    {%- for author in page.taxonomies.forfattare %}
     {%- if not loop.first and not loop.last %}, {%- elif loop.last and not loop.first %} och {%- endif %}
     <a href="{{ get_taxonomy_url(kind="forfattare", name=author) | safe }}">{{ author }}</a>
-
-    {% endfor %}
+    {%- endfor %}
     i
     {% endif %}
     {% if page.taxonomies.kategorier %}
-    {% for category in page.taxonomies.kategorier %}
+    {%- for category in page.taxonomies.kategorier %}
     {%- if not loop.first and not loop.last %}, {%- elif loop.last and not loop.first %} och {%- endif %}
     <a href="{{ get_taxonomy_url(kind="kategorier", name=category) | safe }}">{{ category }}</a>
-    {% endfor %}
+    {%- endfor %}
     {% endif %}
 
     <time datetime="{{ page.date | date(format="%Y-%m-%d") }}">{{ page.date }}</time>
@@ -29,10 +28,10 @@
 <p>
     <small>
         Om
-        {% for tag in page.taxonomies.taggar %}
+        {%- for tag in page.taxonomies.taggar %}
         {%- if not loop.first and not loop.last %}, {%- elif loop.last and not loop.first %} och {%- endif %}
         <a href="{{ get_taxonomy_url(kind="taggar", name=tag) | safe }}">{{ tag }}</a>
-        {% endfor %}
+        {%- endfor %}
     </small>
 </p>
 {% endif %}
@@ -40,10 +39,12 @@
 
 {% macro page_in_list(page) %}
 <article>
-    <h2><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
-    {% if page.taxonomies.kategorier or page.date %}
-    {{ macros::dateline(page=page) }}
-    {% endif %}
+    <header>
+        <h2><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
+        {% if page.taxonomies.kategorier or page.date %}
+        {{ macros::dateline(page=page) }}
+        {% endif %}
+    </header>
 
     {% if page.summary %}
     {{ page.summary | safe }}
@@ -52,7 +53,9 @@
     {% endif %}
 
     {% if page.summary %}
-    <p><a href="{{ page.permalink }}#continue-reading">Fortsätt läsa</a></p>
+    <footer>
+        <p><a href="{{ page.permalink }}#continue-reading">Fortsätt läsa</a></p>
+    </footer>
     {% endif %}
 </article>
 {% endmacro page_in_list %}
