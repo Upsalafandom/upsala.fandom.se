@@ -27,4 +27,4 @@ Nu till min undran. Finns det någon som vet mer om detta? Om varför det sista 
 
 ;o)
 
-Vonda har ju vunnit "Nebulapriset" för "Of Mist, and Grass, and Sand," och samma pris plus "Hugopriset" för "Dreamsnake" där ju "Of Mist, and Grass, and Sand," är en del och om detta kan man läsa "[överallt](http://en.wikipedia.org/wiki/Vonda_McIntyre)".  Men att sista kapitlet skulle saknas i den Svenska översättningen står ingenstans, vaffördådå?
+Vonda har ju vunnit "Nebulapriset" för "Of Mist, and Grass, and Sand," och samma pris plus "Hugopriset" för "Dreamsnake" där ju "Of Mist, and Grass, and Sand," är en del och om detta kan man läsa "[överallt](https://en.wikipedia.org/wiki/Vonda_McIntyre)".  Men att sista kapitlet skulle saknas i den Svenska översättningen står ingenstans, vaffördådå?

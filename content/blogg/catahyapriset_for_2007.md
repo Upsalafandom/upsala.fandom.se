@@ -24,4 +24,4 @@ andra morbiditeter_. Juryns motivering:
 > skräckblandad förtjusning följer man Theorin när han stänker blod på deras
 > livspussel.
 
-Läs mer [här](http://www.catahya.net/nyhet.asp?id=2735).
+Läs mer [här](https://catahya.net//nyhet.asp?id=2735).

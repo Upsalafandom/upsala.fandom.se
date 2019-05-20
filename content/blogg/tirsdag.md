@@ -10,7 +10,7 @@ taggar = ["Williams", "pubmöten", "tisdag"]
 +++
 
 Det var Tisdag, och som det lätt blir på Tisdagar samlades diverse löst folk
-på Williams för att umgås. Ett gäng [catahyaner](http://www.catahya.net)
+på Williams för att umgås. Ett gäng [catahyaner](https://catahya.net/)
 (Therese, Christian, Mats, Cecilia och Peter) passade på att lysa upp
 tillställningen med sin närvaro, och någonstans runt två dussin personer bör
 ha närvarat under kvällen.

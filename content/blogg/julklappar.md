@@ -14,7 +14,7 @@ försöka hitta lämpliga julklappar till diverse personer. En del med
 fantasyanknytning: min bror skall få första delarna i Joe Abercrombies (obs!
 Spoilervarning på länken) _[The First Law](http://vetsaga.se/?p=37)_ och
 Naomi Noviks
-_[Temeraire](http://www.catahya.net/litteratur/recensioner.asp?id=586)_. Jag
+_[Temeraire](https://catahya.net//litteratur/recensioner.asp?id=586)_. Jag
 är inte överväldigad av någondera, men båda har sina poänger (Novik skriver
 ytlig underhållning, men är rätt bra på vad hon gör, och Abercrombie för en
 rätt intressant dialog med fantasygenren). Min syster skall bland annat få

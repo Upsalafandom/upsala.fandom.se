@@ -9,4 +9,4 @@ kategorier = ["Nyheter"]
 taggar = ["Swecon", "kongresser"]
 +++
 
-Idag åker jag till [ConFuse/Swecon](http://www.lysator.liu.se/confuse) i Linköping. Riktigt intressanta val av hedersgäster, [kul program](http://www.lysator.liu.se/confuse/program.pdf) och bra människor. Det här skall bli roligt.
+Idag åker jag till [ConFuse/Swecon](https://www.lysator.liu.se/confuse) i Linköping. Riktigt intressanta val av hedersgäster, [kul program](https://www.lysator.liu.se/confuse/program.pdf) och bra människor. Det här skall bli roligt.

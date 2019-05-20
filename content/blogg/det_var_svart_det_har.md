@@ -24,7 +24,7 @@ många fler dubletter som vi inte visste om.
 I övrigt fylls kvällarna av kommittémöten inför kongresser jag är med att
 arrangera - [Kontext](http://kontext2008.se) och [Imagicon
 2](http://www.imagicon.se) -, pubmöten samt
-[Angel](http://en.wikipedia.org/wiki/Angel_%28TV_series%29). Vi har aldrig
+[Angel](https://en.wikipedia.org/wiki/Angel_%28TV_series%29). Vi har aldrig
 varit särskilt förtjusta i Angel-figuren i Buffy, men tänkte att vi till slut
 skulle ge serien en chans, och det har den väl på det hela taget visat sig
 värd än så länge, även om den är ruskigt ojämn.

@@ -21,14 +21,14 @@ mer eller mindre stora namn i genren. Det verkar som om The Science Fiction
 Bookclub gett ut en hel del sådana. Flera av dessa var intressanta, och jag
 kanske kommer att skriva mer om dem senare, men en som speciellt fångade min
 blick var den som samlade berättelser av [Lester del
-Rey.](http://en.wikipedia.org/wiki/Lester_Del_Rey)
+Rey.](https://en.wikipedia.org/wiki/Lester_Del_Rey)
 
 <!-- more -->
 
 Vilka av läsarna har hört talas om namnet del Rey? Är det via Del Rey Books,
 månne? Själv hörde jag talas om namnet på det viset, och då fick jag även
 veta att det var Lesters fru [Judy
-Lynn](http://en.wikipedia.org/wiki/Judy-Lynn_del_Rey) som namngett Del Rey
+Lynn](https://en.wikipedia.org/wiki/Judy-Lynn_del_Rey) som namngett Del Rey
 Books. Lite efterforskningar (på Wikipedia, som man gör nu för tiden) gav vid
 handa att han åstadkommit en hel del, och även fått fina priser för sina
 insatser. Så, är det bara jag som har dålig koll, eller är han inte så känd

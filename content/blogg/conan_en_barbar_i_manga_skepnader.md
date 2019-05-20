@@ -11,12 +11,12 @@ taggar = ["Conan", "Robert E Howard", "film", "serietidningar"]
 
 Många gånger händer det att jag träffar människor som skiner upp när man
 nämner namnet Conan. Nästan utan undantag är nästa namn de nämner [Arnold
-Schwarzenegger](http://en.wikipedia.org/wiki/Arnold_Schwarzenegger). Han är
+Schwarzenegger](https://en.wikipedia.org/wiki/Arnold_Schwarzenegger). Han är
 för många synonymt med Conan. Personligen tycker jag att hans insats, i
 filmen som alla omedelbart tänker på, är ganska hyggligt. Filmen har samma
 känsla av rak äventyrsberättelse, med lite blandade stänk av olika
 ingredienser för att göra det exotiskt, som kännetecknar [Robert E. Howards
-noveller.](http://en.wikipedia.org/wiki/Robert_E_Howard) Skulle det vara så
+noveller.](https://en.wikipedia.org/wiki/Robert_E_Howard) Skulle det vara så
 att personen nu visat sig uppskattat filmen i fråga händer det sig också
 ganska ofta att de har kommit i kontakt med Conan i serietidningsform.
 
@@ -73,9 +73,9 @@ död. Skulle det nu vara så att den hypotetiske samtalspartner jag skrivit om
 till och med kommer så långt som att nämna "gubben i lådan", kommer det något
 plågat över mitt ansiktsuttryck innan jag biter mig i tungan. Detta för att
 inte börja föreläsa som en annan
-[besserwisser](http://en.wikipedia.org/wiki/Messerschmidt) om serhjältarnas
+[besserwisser](https://en.wikipedia.org/wiki/Messerschmidt) om serhjältarnas
 inflytande på amerikansk serietidningsmarkad, och [lindrigt
-begåvade](http://en.wikipedia.org/wiki/Robert_Jordan) pastichförfattare.
+begåvade](https://en.wikipedia.org/wiki/Robert_Jordan) pastichförfattare.
 Istället kan man förstås glatt hålla med om hur underhållande filmen var och
 sedan fortast möjligt ta sig hem och sätta sig i läsfåtöljen. Lämpligen då
 med _The Phoenix on the Sword_ eller kanske ännu hellre den mästerliga _The

@@ -12,7 +12,7 @@ taggar = ["Catahya", "bokprat", "böcker"]
 Jag kan inte låta bli att tycka att det är lite roligt, på ett ironiskt vis,
 att diskussionen kring Upsalafandoms bokprat har (som Björn Lindström
 påpekade på [listan](./sidor/epostlista.md)) flyttat från Upsalafandom till
-[Catahya](http://www.catahya.net/forum/svar.asp?tid=9260&amp;forumid=13).
+[Catahya](https://catahya.net//forum/svar.asp?tid=9260&amp;forumid=13).
 Inte för att det inte finns en stor poäng med det. De aktiva, som i alla fall
 har försökt att läsa varje bok och dyka upp på varje bokpratsmöte (Björn,
 Jesper, Johan Anglemark, jag) finns där allihop och sett till erfarenheten av

@@ -22,7 +22,7 @@ Följande beskrivning är till exempel tämligen… fantastisk.
 > att han är ens favoritförfattare - då måste man ju hålla tassarna från honom!
 > Om man äter honom kan han ju inte skriva mer…
 
-(från [SF-Bokhandeln i Malmö](http://sfbokhandelnmalmo.blogspot.com/2008/09/who-would-you-not-kick-out-of-bed-1-mn.html))
+(från [SF-Bokhandeln i Malmö](https://sfbokhandelnmalmo.blogspot.com/2008/09/who-would-you-not-kick-out-of-bed-1-mn.html))
 
 Jag kan inte bestämma mig för om jag tycker att det här låter jättetöntigt
 eller ganska kul. En bok om böcker och attraktiva författare. Det är förstås

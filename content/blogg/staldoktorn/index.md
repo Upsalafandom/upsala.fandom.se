@@ -24,7 +24,7 @@ drömmen om Bra Saker trots allt är giltig.
 
 Doctor Steel är musiker, artist, designer, kulturpersonlighet. Han lever på
 samma populärkulturella metanivå som till exempel [den maskerade
-proggaren](http://sv.wikipedia.org/wiki/Den_Maskerade_Proggaren) (och allt
+proggaren](https://sv.wikipedia.org/wiki/Den_Maskerade_Proggaren) (och allt
 annat som förekommer i [Kapten Stofils
 tidning](http://www.kaptenstofil.net)), fast är mer multimedial. Definitivt
 [befriad från gullighet.](http://www.youtube.com/watch?v=QBrQ9Hkd6h0)

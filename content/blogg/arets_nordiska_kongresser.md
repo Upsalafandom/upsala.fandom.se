@@ -9,7 +9,7 @@ kategorier = ["Nyheter"]
 taggar = ["Alcocon 3", "Aplakonen", "Fantasticon 2009", "Finncon 2009", "Imagicon 2", "Norcon 2009", "Swecon 2009", "Åcon 3"]
 +++
 
-Årets första sf-kongress i Norden har redan ägt rum, det var [Alcocon 3 i Göteborg](http://www.clubcosmos.net/Alcocon3), som avhölls 24-26 april. Bilder en masse därifrån finns på [Flickr](http://www.flickr.com/photos/tags/alcocon3). Resten av årets kongresser är:
+Årets första sf-kongress i Norden har redan ägt rum, det var [Alcocon 3 i Göteborg](http://www.clubcosmos.net/Alcocon3), som avhölls 24-26 april. Bilder en masse därifrån finns på [Flickr](https://www.flickr.com/photos/tags/alcocon3). Resten av årets kongresser är:
 
 * [Åcon 3 i Mariehamn](http://acon3.wordpress.com), 21-24 maj. Författarhedersgäst: Steph Swainston.
 * [Aplakonen i Bredaryd](http://www.norensoversattningar.se/Aplakonen), 12-14 juni.

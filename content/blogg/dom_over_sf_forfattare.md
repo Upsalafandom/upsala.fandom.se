@@ -19,4 +19,4 @@ något som närmast motsvarar våld mot tjänsteman.
 
 [Nyhetsartikel om händelsen](http://www.cbc.ca/canada/toronto/story/2010/03/19/watts-convicted.html).
 
-Bakgrunden finns på [http://en.wikipedia.org/wiki/Peter_Watts](http://en.wikipedia.org/wiki/Peter_Watts).
+Bakgrunden finns på [https://en.wikipedia.org/wiki/Peter_Watts](https://en.wikipedia.org/wiki/Peter_Watts).

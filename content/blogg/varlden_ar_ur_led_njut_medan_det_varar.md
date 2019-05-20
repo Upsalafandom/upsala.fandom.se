@@ -25,4 +25,4 @@ Man kan ju säkert vrida på det hela ganska mycket, men jag vet hur det känns 
 
 Kanske är jag helt vilse, eller så är jag nåt på spåret. I alla fall är det klart att böcker om vampyrer som lika gärna kunde handlat om folkskollärare är nåt som tråkar ut mig, och det som jag gillar handlar om helt andra saker. Det vore kul att veta om någon annan tänkt nåt liknande.
 
-Nu ska jag bara säga åt er att läsa [Borderlands](http://www.amazon.com/Borderlands-1-No/dp/1565041070/ref=sr_1_7?ie=UTF8&amp;s=books&amp;qid=1209670097&amp;sr=8-7) som ett ypperligt exempel på när skräck inte är genrekonventioner utan bara riktigt skruvande, välskrivna berättelser som inte ger dig en känsla av avslappnat behag. Utan en mer svårbeskrivlig känsla av obehag. Njut.
+Nu ska jag bara säga åt er att läsa [Borderlands](https://www.amazon.com/Borderlands-1-No/dp/1565041070/ref=sr_1_7?ie=UTF8&amp;s=books&amp;qid=1209670097&amp;sr=8-7) som ett ypperligt exempel på när skräck inte är genrekonventioner utan bara riktigt skruvande, välskrivna berättelser som inte ger dig en känsla av avslappnat behag. Utan en mer svårbeskrivlig känsla av obehag. Njut.

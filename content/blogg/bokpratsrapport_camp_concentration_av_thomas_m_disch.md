@@ -10,7 +10,7 @@ taggar = ["Camp Concentration", "Thomas M. Disch", "bokprat", "science fiction"]
 +++
 
 I onsdags träffades vi hemma hos Björn Lindström för att diskutera [Camp
-Concentration](http://en.wikipedia.org/wiki/Camp_Concentration) av Thomas M.
+Concentration](https://en.wikipedia.org/wiki/Camp_Concentration) av Thomas M.
 Disch. Närvarande var jag, Björn och George Berger. Jag hade precis läst ut
 boken och Björn likaså, men han hävdade att han varit för trött när han läste
 den och hade därför inte riktigt kunnat ta sig till den. George hade läst den
