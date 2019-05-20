@@ -9,20 +9,21 @@ kategorier = ["Inbjudningar"]
 taggar = ["lyrik", "pubmöten"]
 +++
 
-<em>Melodi: Den gamle jägarn</em>
+_Melodi: Den gamle jägarn_
 
-En liten sång till er
-kom hit och slå er ner
-för nu är juli här
-det första tisda'n är.
+> En liten sång till er \
+> kom hit och slå er ner \
+> för nu är juli här \
+> det första tisda'n är. \
+ 
+_Refr:_
 
-Refr:
-I Upsala på Williams krog
-på Åsgränd vid ett 'versitet,
-där träffas de som inte dog;
-de dricker öl och käkar klet.
-
-En lite sång att minnas till
-kom hit från halv sju och drick
-och snacka skit och minns de cons
-ni vart på, här hos stygge Måns.
+> I Upsala på Williams krog \
+> på Åsgränd vid ett 'versitet, \
+> där träffas de som inte dog; \
+> de dricker öl och käkar klet. \
+> 
+> En lite sång att minnas till \
+> kom hit från halv sju och drick \
+> och snacka skit och minns de cons \
+> ni vart på, här hos stygge Måns. \
