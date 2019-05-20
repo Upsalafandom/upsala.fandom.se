@@ -9,7 +9,7 @@ kategorier = ["Nyheter"]
 taggar = ["Filmer", "böcker", "fantastikpriser"]
 +++
 
-Den här veckan blir det inget [Bokslut 2007](__PREFIX__/taggar/bokslut2007.md), då jag glömde
+Den här veckan blir det inget [Bokslut 2007](__PREFIX__/taggar/bokslut2007), då jag glömde
 listan med böcker när jag reste hem till mina föräldrar över påsken. Istället
 kan jag meddela att de nominerade till årets Hugopris nu har
 [tillkännagivits](http://www.denvention.org/hugos/08hugonomlist.php).
