@@ -10,7 +10,7 @@ taggar = ["historia", "pubmöten"]
 +++
 
 När vi startade den här bloggen lade jag ner viss möda på att lägga in alla
-våra [arkiverade gamla pubmötesrapporter](__PREFIX__/taggar/pubmoten). I
+våra [arkiverade gamla pubmötesrapporter](/taggar/pubmoten). I
 processen var det svårt att undvika att läsa någon rad här och där.
 
 Eftersom nostalgi säljer tänkte jag här publicera några väl valda citat.
