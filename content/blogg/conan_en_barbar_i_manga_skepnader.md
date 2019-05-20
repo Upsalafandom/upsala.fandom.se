@@ -1,5 +1,5 @@
 +++
-title = "Conan -- en barbar i många skepnader"
+title = "Conan — en barbar i många skepnader"
 slug = "conan_en_barbar_i_manga_skepnader"
 date = 2008-03-21
 
@@ -9,14 +9,76 @@ kategorier = ["Kåserier"]
 taggar = ["Conan", "Robert E Howard", "film", "serietidningar"]
 +++
 
-Många gånger händer det att jag träffar människor som skiner upp när man nämner namnet Conan. Nästan utan undantag är nästa namn de nämner [Arnold Schwarzenegger](http://en.wikipedia.org/wiki/Arnold_Schwarzenegger). Han är för många synonymt med Conan. Personligen tycker jag att hans insats, i filmen som alla omedelbart tänker på, är ganska hyggligt. Filmen har samma känsla av rak äventyrsberättelse, med lite blandade stänk av olika ingredienser för att göra det exotiskt, som kännetecknar [Robert E. Howards noveller.](http://en.wikipedia.org/wiki/Robert_E_Howard) Skulle det vara så att personen nu visat sig uppskattat filmen i fråga händer det sig också ganska ofta att de har kommit i kontakt med Conan i serietidningsform.
+Många gånger händer det att jag träffar människor som skiner upp när man
+nämner namnet Conan. Nästan utan undantag är nästa namn de nämner [Arnold
+Schwarzenegger](http://en.wikipedia.org/wiki/Arnold_Schwarzenegger). Han är
+för många synonymt med Conan. Personligen tycker jag att hans insats, i
+filmen som alla omedelbart tänker på, är ganska hyggligt. Filmen har samma
+känsla av rak äventyrsberättelse, med lite blandade stänk av olika
+ingredienser för att göra det exotiskt, som kännetecknar [Robert E. Howards
+noveller.](http://en.wikipedia.org/wiki/Robert_E_Howard) Skulle det vara så
+att personen nu visat sig uppskattat filmen i fråga händer det sig också
+ganska ofta att de har kommit i kontakt med Conan i serietidningsform.
 
-Redan 1970 körde Marvel Comics igång <em>Conan the Barbarian</em> och när den visade sig gå bra drog de igång <em>Savage Sword of Conan</em> som systertidning. Bägge visade sig vara ganska långlivade och lades inte ner förrän nära 25 år senare. Jag kom att tänka på dem, och en käpphäst jag tar ut ur stallet ibland, eftersom jag nyligen köpte ett nummer för en billig penning efter ett infall av sword &amp; sorcery abstinens.
+Redan 1970 körde Marvel Comics igång _Conan the Barbarian_ och när den visade
+sig gå bra drog de igång _Savage Sword of Conan_ som systertidning. Bägge
+visade sig vara ganska långlivade och lades inte ner förrän nära 25 år
+senare. Jag kom att tänka på dem, och en käpphäst jag tar ut ur stallet
+ibland, eftersom jag nyligen köpte ett nummer för en billig penning efter ett
+infall av sword & sorcery abstinens.
 
-Även om jag har en hygglig samling av dessa tidningar så är jag inte på något vis komplettist. Saken är den att det finns en genomgående trend så fort Conan dyker upp i en serieruta som jag finner både aningen irriterande och lite fascinerande. Alla som läst några av Howards noveller vet hur de ofta utspelar sig på vitt skillda platser och att Conan även om han vunnit både rikedom och berömmelse tidigare är han alltid pank när en ny novell börjar. Även i serieform är det ofta ganska episodiskt och fragmentariskt, med en viktig skillnad. Det verkar nämligen som om amerikanska serieskapare i och med det klimat som existerar i branschen, allihop har jobbat kortare eller längre perioder med superhjälteserier.  Kanske har detta vissa efterverkningar. Det finns nämligen något som jag stör mig på, och det är att vissa figurer har en dålig ovana att dyka upp om och om igen.
+Även om jag har en hygglig samling av dessa tidningar så är jag inte på något
+vis komplettist. Saken är den att det finns en genomgående trend så fort
+Conan dyker upp i en serieruta som jag finner både aningen irriterande och
+lite fascinerande. Alla som läst några av Howards noveller vet hur de ofta
+utspelar sig på vitt skillda platser och att Conan även om han vunnit både
+rikedom och berömmelse tidigare är han alltid pank när en ny novell börjar.
+Även i serieform är det ofta ganska episodiskt och fragmentariskt, med en
+viktig skillnad. Det verkar nämligen som om amerikanska serieskapare i och
+med det klimat som existerar i branschen, allihop har jobbat kortare eller
+längre perioder med superhjälteserier. Kanske har detta vissa
+efterverkningar. Det finns nämligen något som jag stör mig på, och det är att
+vissa figurer har en dålig ovana att dyka upp om och om igen.
 
-Om man någon gång pratat med mig om serietidningar så har man kvickt insett att jag inte är någon stor vän av superhjälteserier. Främsta anledningen till det är att jag tycker det är så erbarmligt fantasilöst med dessa superskurkar som hjältarna alltid bråkar med. Om någon av dem en enda gång hade vett att lägga sig ner och dö och försvinna för gott vore det väl inte så illa, men det sker ju i princip inte. Detta drag har tyvärr smugit sig in i Conanserierna. Ett tag hade jag hypotesen att det var det amerikanska serietidningsklimatet som gjorde det, och i viss mån tror jag det förvärrar situationen, men tyvärr finns det även på andra håll.
+Om man någon gång pratat med mig om serietidningar så har man kvickt insett
+att jag inte är någon stor vän av superhjälteserier. Främsta anledningen till
+det är att jag tycker det är så erbarmligt fantasilöst med dessa superskurkar
+som hjältarna alltid bråkar med. Om någon av dem en enda gång hade vett att
+lägga sig ner och dö och försvinna för gott vore det väl inte så illa, men
+det sker ju i princip inte. Detta drag har tyvärr smugit sig in i
+Conanserierna. Ett tag hade jag hypotesen att det var det amerikanska
+serietidningsklimatet som gjorde det, och i viss mån tror jag det förvärrar
+situationen, men tyvärr finns det även på andra håll.
 
-Alla som bestämt sig för att läsa Conan i novellform har ju kommit i kontakt med herrar Lin Carter, Sprague de Camp och Björn Nyberg. Man kan ju inte låta bli att vara lite tacksam för att de publicerat och populariserat Howards verk, men hur man vänder och vrider på det kan man inte undkomma det faktum att denna trio var sorgligt obegåvade i jämförelse med Howard. Vill man vara lite mer nyanserad kan man kanske säga att de var oförstående. Saken är ju den att Howard helt enkelt kokade ihop en historia med känsla för om den gick att sälja kombinerat med superb språkbehandling som skapar en stämning som bär äventyret, hur banalt det nu än är. Tyvärr verkar det som beundrartrion såg det formelartade och tog fasta på det i övermått. Mitt favoritexempel är förstås Thoth-Amon. Precis likt superhjältarnas återkommande superskurkar dyker denne pseudoegyptiske dödsmagiker upp allt oftare ju mindre fantasi pastischförfattaren verkar ha. I själva verket förekommer han endast i ett verk av Howard, <em>The Phoenix on the Sword</em>, och sedan aldrig mer. När han i tolkningar av Marvel, samt Carter et al, dyker upp som den dolda kraften bakom precis allt som händer, då blir jag bara så less.
+Alla som bestämt sig för att läsa Conan i novellform har ju kommit i kontakt
+med herrar Lin Carter, Sprague de Camp och Björn Nyberg. Man kan ju inte låta
+bli att vara lite tacksam för att de publicerat och populariserat Howards
+verk, men hur man vänder och vrider på det kan man inte undkomma det faktum
+att denna trio var sorgligt obegåvade i jämförelse med Howard. Vill man vara
+lite mer nyanserad kan man kanske säga att de var oförstående. Saken är ju
+den att Howard helt enkelt kokade ihop en historia med känsla för om den gick
+att sälja kombinerat med superb språkbehandling som skapar en stämning som
+bär äventyret, hur banalt det nu än är. Tyvärr verkar det som beundrartrion
+såg det formelartade och tog fasta på det i övermått. Mitt favoritexempel är
+förstås Thoth-Amon. Precis likt superhjältarnas återkommande superskurkar
+dyker denne pseudoegyptiske dödsmagiker upp allt oftare ju mindre fantasi
+pastischförfattaren verkar ha. I själva verket förekommer han endast i ett
+verk av Howard, _The Phoenix on the Sword_, och sedan aldrig mer. När han i
+tolkningar av Marvel, samt Carter et al, dyker upp som den dolda kraften
+bakom precis allt som händer, då blir jag bara så less.
 
-Kanske är det en av de saker som de gjorde rätt när de gjorde filmen om Conan, för även när det tillslut blev mer film av, så fick Thoth-Amon förbli död. Skulle det nu vara så att den hypotetiske samtalspartner jag skrivit om till och med kommer så långt som att nämna "gubben i lådan", kommer det något plågat över mitt ansiktsuttryck innan jag biter mig i tungan. Detta för att inte börja föreläsa som en annan [besserwisser](http://en.wikipedia.org/wiki/Messerschmidt) om serhjältarnas inflytande på amerikansk serietidningsmarkad, och [lindrigt begåvade](http://en.wikipedia.org/wiki/Robert_Jordan) pastichförfattare. Istället kan man förstås glatt hålla med om hur underhållande filmen var och sedan fortast möjligt ta sig hem och sätta sig i läsfåtöljen. Lämpligen då med <em>The Phoenix on the Sword</em> eller kanske ännu hellre den mästerliga <em>The Hour of the Dragon</em>, och sedan är det bara att njuta. Inför min inre bild ser jag då Conan springa fram över en karg och hård värld, på väg mot storslagna äventyr. Det kan vi tacka Schwarzenegger och Howard för.
+Kanske är det en av de saker som de gjorde rätt när de gjorde filmen om
+Conan, för även när det tillslut blev mer film av, så fick Thoth-Amon förbli
+död. Skulle det nu vara så att den hypotetiske samtalspartner jag skrivit om
+till och med kommer så långt som att nämna "gubben i lådan", kommer det något
+plågat över mitt ansiktsuttryck innan jag biter mig i tungan. Detta för att
+inte börja föreläsa som en annan
+[besserwisser](http://en.wikipedia.org/wiki/Messerschmidt) om serhjältarnas
+inflytande på amerikansk serietidningsmarkad, och [lindrigt
+begåvade](http://en.wikipedia.org/wiki/Robert_Jordan) pastichförfattare.
+Istället kan man förstås glatt hålla med om hur underhållande filmen var och
+sedan fortast möjligt ta sig hem och sätta sig i läsfåtöljen. Lämpligen då
+med _The Phoenix on the Sword_ eller kanske ännu hellre den mästerliga _The
+Hour of the Dragon_, och sedan är det bara att njuta. Inför min inre bild ser
+jag då Conan springa fram över en karg och hård värld, på väg mot storslagna
+äventyr. Det kan vi tacka Schwarzenegger och Howard för.
