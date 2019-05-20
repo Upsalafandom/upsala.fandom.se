@@ -1,0 +1,23 @@
++++
+title = "Årets Nebula-nomineringar"
+slug = "arets_nebula_nomineringar"
+date = 2009-03-18
+
+[taxonomies]
+forfattare = ["Åka"]
+kategorier = ["Kåserier"]
+taggar = ["böcker", "noveller", "priser"]
++++
+
+Apropå [Johans text om sf-priser](http://vetsaga.se/?p=52) har vi här borta i
+utlandet bestämt oss för att diskutera [årets
+Nebula-nomineringar](http://www.sfsignal.com/archives/2009/02/finalists-2008-nebula-awards).
+Jag brukar tycka att de här nomineringsomgångarna är en bra anledning att
+försöka ta mig för att läsa några aktuella noveller (och långnoveller och
+kortromaner och allt vad det heter), när de nu finns tillgängliga på nätet
+och så. Har inte börjat ännu, får väl se vad jag biter i först. (Några
+åsikter om intressanta författare eller extra bra berättelser?)
+
+Av de nominerade romanerna har jag faktiskt läst två (_Brasyl_ och _Little
+Brother_). Jag kanske håller lite koll på fältet ändå, även om det inte
+alltid känns så.
