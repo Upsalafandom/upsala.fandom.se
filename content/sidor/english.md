@@ -10,4 +10,4 @@ This is the Upsala chapter of the worldwide fannish conspiracy. We are the ones 
 
 The hub of our activities is the [pub meetings](/pubmoten) the first Tuesday every month at [O'Neill's Irish Pub](https://oneillsirishpub.se/) on Dragarbrunnsgatan 53 (quite close to the railway station), from 6:00 PM. We've held these meetings since January 1997. Drop in for a pint and some food. O'Neill's has a decent selection of beer and they do good food.
 
-You might also want to join our mailing list, a fairly low-traffic list used mainly for discussing upcoming events. [Follow the instructions here](http://mail.fandom.se/mailman/listinfo/upsala_fandom.se).
+You might also want to join our mailing list, a fairly low-traffic list used mainly for discussing upcoming events. [Follow the instructions here](https://mail.fandom.se/mailman/listinfo/upsala_fandom.se).

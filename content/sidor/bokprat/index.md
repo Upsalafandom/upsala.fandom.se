@@ -9,7 +9,7 @@ förekommit de flesta sorters litteratur under åren.
 
 Vanligtvis bestämmer vi vilka böcker vi ska läsa terminsvis på ett
 planeringsmöte och vi har då ett tema som vi väljer utifrån. Ett sådant tema
-kan variera från allt mellan [Nebula Award](http://en.wikipedia.org/wiki/Nebula_Award)-vinnare
+kan variera från allt mellan [Nebula Award](https://en.wikipedia.org/wiki/Nebula_Award)-vinnare
 till "en valfri bok jag tycker vi borde läsa och diskutera".
 
 ![Åka](anna.jpeg)

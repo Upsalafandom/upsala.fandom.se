@@ -11,4 +11,4 @@ Vi sitter där från kl. 18.00 och större delen av kvällen och pratar om scien
 
 [Rapporter från gångna pubmöten hittar du här](/taggar/pubmoten/).
 
-[Här](http://fandom.se/pub/) kan du få information om pubmöten i andra städer.
+[Här](https://fandom.se/pub/) kan du få information om pubmöten i andra städer.

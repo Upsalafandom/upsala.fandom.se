@@ -5,7 +5,7 @@ path = "bokpratsteman"
 
 Vi arrangerar bokprat. Det är informella möten då vi diskuterar en bok vi
 alla läst. 2009 till 2017 hölls bokpraten i samarbete med
-[Catahya](http://www.catahya.net/).
+[Catahya](https://catahya.net/).
 
 # Tidigare teman
 

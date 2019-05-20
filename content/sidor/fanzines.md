@@ -19,4 +19,4 @@ Här är ett par nummer av pubfanzinet Obduktion av Andreas Davour och Johan Ang
 * [Oktober 2002](/arkiv/fanzines/obduktion_200210.pdf)
 * [November 2002](/arkiv/fanzines/obduktion_200211.pdf)
 
-Anna Davour har också en hemsida för sitt fanzine [Folk och fans i Annien](http://annien.wordpress.com/).
+Anna Davour har också en hemsida för sitt fanzine [Folk och fans i Annien](https://annien.wordpress.com/).
