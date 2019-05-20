@@ -9,7 +9,7 @@ kategorier = ["Kåserier"]
 taggar = []
 +++
 
-Sedan några månader tillbaka bor jag i Kanada. Upsala är långt borta, och jag är usel på att använda sociala webbgrejor som [forumet på fandom.se](http://forum.fandom.se). Facebook är ett ständigt dåligt samvete: jag vill inte logga in där och konfronteras med alla jobbiga förfrågningar som jag måste ta ställning till, alla töntiga lekar och test, men det känns ändå som om jag borde hänga där och hålla kontakt med mina vänner. En kombination av dålig känsla för tidsskillnaden med Sverige och dålig kontakt med min kalender ledde också till att jag missade [hemsidesbyggarjippot](12-timmar-hemsida) som jag hade kunnat delta i på avstånd. Jag är helt enkelt usel på det här med att vara social i cyberrymden. Jag vill träffa riktiga människor av kött och blod i den riktiga verkligheten!
+Sedan några månader tillbaka bor jag i Kanada. Upsala är långt borta, och jag är usel på att använda sociala webbgrejor som [forumet på fandom.se](https://forum.fandom.se). Facebook är ett ständigt dåligt samvete: jag vill inte logga in där och konfronteras med alla jobbiga förfrågningar som jag måste ta ställning till, alla töntiga lekar och test, men det känns ändå som om jag borde hänga där och hålla kontakt med mina vänner. En kombination av dålig känsla för tidsskillnaden med Sverige och dålig kontakt med min kalender ledde också till att jag missade [hemsidesbyggarjippot](./blogg/12_timmar_hemsida.md) som jag hade kunnat delta i på avstånd. Jag är helt enkelt usel på det här med att vara social i cyberrymden. Jag vill träffa riktiga människor av kött och blod i den riktiga verkligheten!
 
 Inte för att det heller är så enkelt alla gånger.
 

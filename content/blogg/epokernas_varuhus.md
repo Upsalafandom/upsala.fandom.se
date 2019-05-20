@@ -15,7 +15,7 @@ Men nu lider den för min del mot sitt slut – eller mot en paus. Tänker näml
 
 Men bloggen klarar sig utan mig, uppslutningen har ju varit stor. Drömmen om ett dagligt Upsalafazine är förverkligad, ett kollektivzine på nätet för alla att se.
 
-För övrigt tycker jag att vi i Upsalafandom kan skryta lite över er styrka, över aktiviteten vi har här och [på Williams](pubmoten). Vilken annan lokalfandom i Sverige har en sån här tjusig hemsida och blogg, och vilken annan har så välbesökta möten? Jo visst har Stockholmsfandom också pubmöten, även Göteborg/[Club Cosmos](http://clubcosmos.net) är i farten. Men in alles "leder vi rejset": blogg plus pubmöten och annat (bokcirklar, coner...).
+För övrigt tycker jag att vi i Upsalafandom kan skryta lite över er styrka, över aktiviteten vi har här och [på Williams](./sidor/pubmoten/index.md). Vilken annan lokalfandom i Sverige har en sån här tjusig hemsida och blogg, och vilken annan har så välbesökta möten? Jo visst har Stockholmsfandom också pubmöten, även Göteborg/[Club Cosmos](http://clubcosmos.net) är i farten. Men in alles "leder vi rejset": blogg plus pubmöten och annat (bokcirklar, coner...).
 
 Då skulle det bara fattas lite pappersfanzines, utgivna fetmagazines med noveller, dikter, recensioner och kåserier. Jovisst har vi 12-timmarsfanzinet, den är bra – en bra början! Jag kan gärna bidra till envar som vill starta ett fanzine i pappersform. (Är det nyss sagda en motsägelse gentemot denna deklaration, att jag slutar blogga? – Nej, bidrag till ett pappersfmz har man ju längre tid på sig att förbereda tänker jag, det är ett mer ambitiöst bidrag av mer eller mindre engångskaraktär.)
 

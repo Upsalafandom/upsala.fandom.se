@@ -9,9 +9,9 @@ kategorier = ["Kåserier"]
 taggar = ["musik", "sf"]
 +++
 
-Jag har planerat ett tag att skriva ett genmäle till Johans artikel [Det
-finns inget som heter science
-fiction-musik](2008/02/18/det-finns-inget-som-heter-science-fiction-musik).
+Jag har planerat ett tag att skriva ett genmäle till Johans artikel [Det finns
+inget som heter science
+fiction-musik](./blogg/det_finns_inget_som_heter_science_fiction_musik/index.md).
 Min huvudsakliga invändning gäller påståendet att musik inte är narrativ.
 Snarare skulle jag säga att merparten av all musik är är skapad just för att
 framföra berättelser.
@@ -31,13 +31,13 @@ science fiction om det representerar en science fiction-berättelse.
 
 Det är heller inte svårt att finna exempel på musikalbum som i sin helhet
 utgör science fiction-berättelser. Österikiska
-[mind.in.a.box](http://en.wikipedia.org/wiki/Mind_in_a_box) gör inget annat.
-David Bowie's [1. Outside](http://en.wikipedia.org/wiki/Outside_(album)) är
+[mind.in.a.box](https://en.wikipedia.org/wiki/Mind_in_a_box) gör inget annat.
+David Bowie's [1. Outside](https://en.wikipedia.org/wiki/Outside_(album)) är
 ett annat exempel på en cyberpunkberättelse i musikalisk form.
 
 Jag tycker inte heller att det är orimligt att referera till musik som ingår
 i t.ex. sf-film för sf när den är skriven för att kunna ingå i den
 övergripande berättelsens sf-värld. Ett bra exempel är [The American
-Astronaut](http://elektrubadur.se/2008/07/09/den-amerikanske-astronauten), en
+Astronaut](https://en.wikipedia.org/wiki/The_American_Astronaut), en
 rymdvästernhistoria där ett av de element som gör världen främmande för oss
 är människornas relation till musik.

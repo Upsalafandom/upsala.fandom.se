@@ -9,9 +9,7 @@ kategorier = ["Kåserier"]
 taggar = ["Carl Sagan", "Michael Moorcock", "musik"]
 +++
 
-[Anglemarks inlägg om
-sf-musik](det-finns-inget-som-heter-science-fiction-musik) för ett tag sedan
-fick mig att fundera.
+[Anglemarks inlägg om sf-musik](./blogg/det_finns_inget_som_heter_science_fiction_musik/index.md) för ett tag sedan fick mig att fundera.
 
 Jag kom mig aldrig för att kommentera det, nej ämnet är så stort att jag
 måste behandla det i ett eget inlägg.

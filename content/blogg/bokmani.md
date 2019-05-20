@@ -9,7 +9,7 @@ kategorier = ["Kåserier"]
 taggar = ["LibraryThing", "bibliofili", "bibliomani", "böcker"]
 +++
 
-[Precis som i Åkas fall](manga-bocker-blir-det) kretsar mina tankar runt böcker för närvarande. Jag har ett både komplicerat och okomplicerat förhållande till böcker. Jag gillar böcker, jag gillar att läsa, jag gillar de fysiska exemplaren. Bibliotek var magiska platser för mig som liten, kanske för att vi inte hade några enorma mängder böcker hemma. Något hundratal, inte fler. Ganska normalt, antar jag.
+[Precis som i Åkas fall](./blogg/manga_bocker_blir_det.md) kretsar mina tankar runt böcker för närvarande. Jag har ett både komplicerat och okomplicerat förhållande till böcker. Jag gillar böcker, jag gillar att läsa, jag gillar de fysiska exemplaren. Bibliotek var magiska platser för mig som liten, kanske för att vi inte hade några enorma mängder böcker hemma. Något hundratal, inte fler. Ganska normalt, antar jag.
 
 Jag kan egentligen inte motivera varför jag vill behålla volymerna efter att jag har läst dem. Visst är det praktiskt att kunna plocka fram en bok igen och slå upp något man letar efter, men det är mest ett svepskäl - det är egentligen inte värt den plats de tar. Det rummet skulle kunna användas till mycket annat, och man kan som bekant ingenting ta med sig när man dör. Men böcker är något slags kombination av snuttefilt och statussymbol för mig, antagligen en direkt följd av hur jag såg på böcker som liten. Det är nog säkrast att fortsätta att samla på sig dem, för sinnesfridens skull.
 

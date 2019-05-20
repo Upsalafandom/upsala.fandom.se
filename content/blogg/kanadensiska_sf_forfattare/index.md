@@ -25,7 +25,7 @@ alla fall om man räknar i allmän synlighet: han nomineras till Hugo-priset då
 och då, är aktiv på nätet och dyker ofta upp på kongresser. Han verkar sälja
 rätt bra också. Jag känner att jag borde knyta ihop mina intryck av
 _Hominids_, som jag började skriva om [efter att ha läst första
-kapitlet](forsta-kapitlet-av-hominids).
+kapitlet](./blogg/forsta_kapitlet_av_hominids.md).
 
 Jag håller delvis med Tommy, som skrev att han tyckte att personskildringen
 var dålig, men det var inget stort problem för mig. Det kanske blir träigare

@@ -9,7 +9,7 @@ kategorier = ["Kåserier"]
 taggar = ["böcker", "vetenskap"]
 +++
 
-I ett [tidigare inlägg](vetenskap-och-sf) skrev jag om vad jag hört om
+I ett [tidigare inlägg](./blogg/vetenskap_och_sf.md) skrev jag om vad jag hört om
 _Hominids_ av Robert Sawyer, bland annat att folk tycker att han tog sig
 stora friheter med en person som antas ha en förebild i verkligheten.
 

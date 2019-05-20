@@ -29,5 +29,5 @@ genomtänkta struktur. Flera av oss (särskilt Åka) hade gjort observationer de
 andra missat.
 
 Nästa bokprat handlar om _Bug Jack Barron_ av Norman Spinrad. Se
-[kalendariet](./sidor/kalendarium.md), [e-postlistan](.sidor/epostlista.md) eller
+[kalendariet](./sidor/kalendarium.md), [e-postlistan](./sidor/epostlista.md) eller
 [Facebook](http://www.facebook.com/event.php?eid=397916361368) för detaljer.

@@ -9,7 +9,7 @@ kategorier = ["Recensioner"]
 taggar = ["Charlie Jade", "Doctor Who", "Firefly", "Life on Mars", "teve"]
 +++
 
-I [Riktig sf-film](riktig-sf-film) tipsade jag om några filmer som trots valet av medium är god science fiction.
+I [Riktig sf-film](./blogg/riktig_sf_film.md) tipsade jag om några filmer som trots valet av medium är god science fiction.
 
 Nu tänkte jag göra samma sak igen, fast med teve.
 

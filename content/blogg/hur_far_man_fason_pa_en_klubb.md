@@ -11,7 +11,7 @@ taggar = []
 
 Att prata med andra om böcker är nåt jag nästan alltid gillar. Det brukar vara en given öppning för ganska meningsfullt tankeutbyte, och så är det ju alltid skoj att träffa människor med gemensamma referensramar och intressen.
 
-Som de flesta vet bor jag med min familj i Kanada sedan september. Jag saknar det fanniska umgänget i Uppsala (vilket jag skrev om [här](upsala-i-mina-drommar)), och jag försöker göra vissa ansträngningar för att pigga upp den lilla fantastikläsargruppen vi har här. Det ger mig vissa insikter om både det ena och det andra.
+Som de flesta vet bor jag med min familj i Kanada sedan september. Jag saknar det fanniska umgänget i Uppsala (vilket jag skrev om [här](./blogg/upsala_i_mina_drommar.md)), och jag försöker göra vissa ansträngningar för att pigga upp den lilla fantastikläsargruppen vi har här. Det ger mig vissa insikter om både det ena och det andra.
 
 Det finns faktiskt vissa fördelar med att ha en rätt liten grupp. Vi är fyra medlemmar just nu, och om alla kommer på ett möte är det ganska lagom många för att gå laget runt och prata om en och samma bok eller novell. Det går också rätt fort att lära sig varandras individuella smak, och det är ganska kul att se vad som händer när man konfronteras med varandras favoriter.
 

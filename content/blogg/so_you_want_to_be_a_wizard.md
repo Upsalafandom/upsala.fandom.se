@@ -9,7 +9,7 @@ kategorier = ["Recensioner"]
 taggar = ["Diane Duane", "fantasy"]
 +++
 
-1-3/8 i år äger [sf-kongressen](vad_ar_fandom) [Stocon
+1-3/8 i år äger [sf-kongressen](./sidor/vad_ar_fandom.md) [Stocon
 08](http://stocon08.warp10.se) rum i Stockholm. Hedersgäst är science
 fiction- och fantasyförfattare Diane Duane, vilket är anledningen till att
 hennes ungdomsfantasybok _So You Want to Be a Wizard_ är vad som skall
