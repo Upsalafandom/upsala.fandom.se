@@ -9,7 +9,10 @@ kategorier = ["Intervjuer"]
 taggar = ["Dalai Lama", "Hallstahammar", "Kruse", "aktivism", "rädda världen", "utbildning", "Östtimor"]
 +++
 
-_Detta är den tredje av mina personliga intervjuer med människor inom svensk fandom eller som på annat vis är involverade i det här med sf och fantasy. Kruse föreslogs av det förra intervjuoffret, Biörn X Öqvist, med motiveringen att hon är en ganska skön person!_
+> Detta är den tredje av mina personliga intervjuer med människor inom svensk
+> fandom eller som på annat vis är involverade i det här med sf och fantasy.
+> Kruse föreslogs av det förra intervjuoffret, Biörn X Öqvist, med motiveringen
+> att hon är en ganska skön person!
 
 # Begynnelsen
 
