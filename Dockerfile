@@ -1,7 +1,7 @@
 FROM ubuntu:18.04 
 
 RUN apt-get update
-RUN apt-get install -y python3 python3-pip xmlstarlet tidy curl language-pack-sv
+RUN apt-get install -y curl language-pack-sv python3 python3-pip tidy xmlstarlet
 
 RUN pip3 install plumbum
 
