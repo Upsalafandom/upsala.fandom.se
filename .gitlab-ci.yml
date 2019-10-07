@@ -35,7 +35,7 @@ build:pages:
     - xmlstarlet --version
     - tidy --version
   script:
-    - python3 build.py
+    - time python3 build.py
   artifacts:
     paths:
       - public
