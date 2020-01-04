@@ -1,6 +1,6 @@
 title = "Upsalafandom"
 description = "Sällskap för vetenskaplig vitterhet"
-base_url = "__PREFIX__"
+base_url = "https://upsala.fandom.se"
 generate_rss = true
 generate_tags_pages = true
 compile_sass = true

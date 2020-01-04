@@ -43,7 +43,7 @@
     <header>
         <h1>{{ config.title }}</h1>
         <p>{{ config.description }}</p>
-        <p><img src="__PREFIX__/upsalaraket.jpeg" title="Upsalaraket" alt="En raket flyger förbi Upsala domkyrkotorn" />
+        <p><img src="{{ get_url(path="upsalaraket.jpeg") }}" title="Upsalaraket" alt="En raket flyger förbi Upsala domkyrkotorn" />
         </p>
     </header>
     {% else %}
@@ -63,15 +63,15 @@
         {% block content %}
         <p>Upsalafandom är en fristående del i det världsomspännande nätverk som kallas science fiction-fandom, vi som
             inte nöjer oss med att gilla sf och fantasy ensamma i läsfåtöljen utan vill träffa andra med samma intresse
-            – på <a href="__PREFIX__/bokprat/">bokpratarmöten</a>, dvd-tittningar, <a
-                href="__PREFIX__/pubmoten/">pubträffar</a>, antikvariatsrundor och sf-festivaler.</p>
+            – på <a href="{{ get_url(path="bokprat") }}">bokpratarmöten</a>, dvd-tittningar, <a
+                href="{{ get_url(path="pubmoten") }}">pubträffar</a>, antikvariatsrundor och sf-festivaler.</p>
 
-        <p>Navet i verksamheten är de <a title="Pubmöten" href="__PREFIX__/pubmoten/">pubmöten</a> som v håller första
+        <p>Navet i verksamheten är de <a title="Pubmöten" href="{{ get_url(path="pubmoten") }}">pubmöten</a> som v håller första
             helgfria tisdagen varje månad. De hålls på <a href="https://oneillsirishpub.se/">O'Neill's Irish Pub</a> på
             Dragarbrunnsgatan 53, från kl. 18.00 och framåt. Dessa möten har vi hållit utan uppehåll sedan januari 1997.
             Kom förbi och ta en matbit och ett glas öl eller juice tillsammans med oss!</p>
 
-        <img alt="Upsalafandom samlade i ett vardagsrum" src="__PREFIX__/upsalafandom.jpeg" />
+        <img alt="Upsalafandom samlade i ett vardagsrum" src="{{ get_url(path="upsalafandom.jpeg") }}" />
 
         <p>Inom gruppen finns både de som i första hand är intresserade av science fiction och de som i första hand är
             intresserade av umgänget i sig. Det gemensamma intresset för fantastisk litteratur bildar bakgrund till vår
