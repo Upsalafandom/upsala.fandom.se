@@ -1,2 +1,5 @@
-.vscode/
-public/
+/public/
+/public.tar.gz
+/resources
+/.hugo_build.lock
+/redirect.tar.gz
