@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/forfattare/luna/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Tue, 07 Aug 2001 00:00:00 +0000</lastBuildDate>
+<item>
+<title>7 augusti 2001</title>
+<pubDate>Tue, 07 Aug 2001 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/7-augusti-2001/</link>
+<guid>https://upsala.fandom.se/blogg/7-augusti-2001/</guid>
+<description>&lt;p&gt;Och ännu en tisdag har gått av stapeln. Den här gången pratades det om saker. Några av dessa saker var Anglemarks avundsjuka över att alla andras roliga tekniska saker var små och att de alltså kunde läggas fram nonchalant på bordet, medan hans egna coola saker var stora; hur man skulle kunna snabbt planera ihop en kongress bara för att; och huruvida det var bra eller inte att vara semikolonfetischist.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

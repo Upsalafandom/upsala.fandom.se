@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/listor/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 22 Feb 2008 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Favoritförfattare</title>
+<pubDate>Fri, 22 Feb 2008 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/favoritforfattare/</link>
+<guid>https://upsala.fandom.se/blogg/favoritforfattare/</guid>
+<description>&lt;p&gt;&amp;quot;Vem är din favoritförfattare?&amp;quot; Hur många gånger har man inte fått den frågan
+och suckat lika djupt varje gång. Det är ju bra böcker man är intresserad av,
+inte författarna, och de bra böckerna kan man hitta varsomhelst, av
+vemsomhelst...&lt;/p&gt;
+&lt;p&gt;Ickedestomindre finns ju det några författare som jag läser allt av. Jag
+skulle vilja dela in dem i två kategorier; författare som jag har läst
+praktiskt taget allt av, vars böcker jag skaffar så fort de dyker upp, och
+författare som jag har läst det mesta av och som jag planerar att läsa resten
+av, men som jag inte har någon direkt tidplan för. Författarna är:&lt;/p&gt;
+&lt;h1 id="jag-laser-allt-nar-det-kommer-ut"&gt;Jag läser allt när det kommer ut&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Susanna Clarke&lt;/li&gt;
+&lt;li&gt;Graham Joyce&lt;/li&gt;
+&lt;li&gt;Guy Gavriel Kay&lt;/li&gt;
+&lt;li&gt;Ken MacLeod&lt;/li&gt;
+&lt;li&gt;Christopher Priest&lt;/li&gt;
+&lt;li&gt;Geoff Ryman&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="jag-tanker-lasa-allt-i-sinom-tid"&gt;Jag tänker läsa allt i sinom tid&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Peter Beagle&lt;/li&gt;
+&lt;li&gt;Italo Calvino&lt;/li&gt;
+&lt;li&gt;William Faulkner&lt;/li&gt;
+&lt;li&gt;Diana Wynne Jones&lt;/li&gt;
+&lt;li&gt;Howard Norman&lt;/li&gt;
+&lt;li&gt;Mervyn Peake&lt;/li&gt;
+&lt;li&gt;Colm Tóibín&lt;/li&gt;
+&lt;li&gt;Connie Willis&lt;/li&gt;
+&lt;li&gt;Zoran Zivkovic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Jag kan också nämna författare som jag brukade läsa troget, men som med tiden
+av olika anledningar halkat ner i mina prioriteter: Iain Banks, Jasper
+Fforde, Alasdair Gray och Patrick McCabe.&lt;/p&gt;
+&lt;p&gt;Och, för att avsluta, författare som &lt;strong&gt;borde&lt;/strong&gt; befinna sig under punkten
+sådant som jag tänker läsa allt av (eftersom jag har tyckt mycket bra om allt
+av dem jag läst), och som jag inte riktigt vet varför de inte gör det: Jane
+Austen, Stig Dagerman, Roddy Doyle, John Fowles, Graham Greene, Ernest
+Hemingway och China Miéville.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

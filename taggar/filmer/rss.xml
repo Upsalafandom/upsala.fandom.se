@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/filmer/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Sat, 22 Mar 2008 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Nomineringar till Hugopriset 2008</title>
+<pubDate>Sat, 22 Mar 2008 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/nomineringar-till-hugopriset-2008/</link>
+<guid>https://upsala.fandom.se/blogg/nomineringar-till-hugopriset-2008/</guid>
+<description>&lt;p&gt;Den här veckan blir det inget &lt;a href="/taggar/bokslut2007"&gt;Bokslut 2007&lt;/a&gt;, då jag glömde
+listan med böcker när jag reste hem till mina föräldrar över påsken. Istället
+kan jag meddela att de nominerade till årets Hugopris nu har
+&lt;a href="http://www.denvention.org/hugos/08hugonomlist.php"&gt;tillkännagivits&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Romankategorin är den som åtminstone jag tycker är av störst intresse, men
+den ser tyvärr inte jättespännande ut i år. Ian McDonalds &lt;em&gt;Brasyl&lt;/em&gt; och
+Michael Chabons &lt;em&gt;The Yiddish Policeman's Union&lt;/em&gt; verkar vara
+intressanta romaner, men utöver dessa är det inget som direkt lockar.
+Noterbart är att Charles Stross är nominerad i denna kategori för för femte
+året i rad; vi får se om detta utnötningskrig kan betala sig till slut.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

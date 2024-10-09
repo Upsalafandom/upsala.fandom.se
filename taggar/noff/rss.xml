@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/noff/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Mon, 03 Nov 2008 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Rapport från Kontext: "Omtumlande bra"</title>
+<pubDate>Mon, 03 Nov 2008 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/rapport-fran-kontext-omtumlande-bra/</link>
+<guid>https://upsala.fandom.se/blogg/rapport-fran-kontext-omtumlande-bra/</guid>
+<description>&lt;p&gt;Nu är det nog meningen att man ska säga något om Kontext och de första ord
+som dök upp i huvudet på mig står i ämnesraden. Det här var alldeles
+omtumlande bra – mycket välarrangerad, mycket &lt;em&gt;intensiv&lt;/em&gt; kongress. Här fanns
+inga döda punkter alls, i alla fall inte ur min synvinkel – det var liksom
+konstant maaaangel, som vi brukade säga i Stockholm på den gamla goda tiden,
+och det ska alltså uppfattas i allra bästa bemärkelse.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

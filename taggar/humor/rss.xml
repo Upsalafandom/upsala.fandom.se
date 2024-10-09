@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/humor/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Wed, 05 Mar 2008 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Tidslinje för utrotning</title>
+<pubDate>Wed, 05 Mar 2008 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/tidslinje-for-utrotning/</link>
+<guid>https://upsala.fandom.se/blogg/tidslinje-for-utrotning/</guid>
+<description>&lt;p&gt;Ross Dawson har på sin blogg &lt;a href="http://www.rossdawsonblog.com"&gt;Trends in the Living Networks&lt;/a&gt; publicerat en underhållande &lt;a href="http://www.rossdawsonblog.com/weblog/archives/2007/10/extinction_time.html"&gt;tidslinje&lt;/a&gt; över hur saker och personer har utrotas och kommer att utrotas åren 1950-2050. Den är en blandning av allvar och småleende satir.&lt;/p&gt;
+&lt;p&gt;Vi lär oss att det sista ångloket försvann 1968, billig olja blev ett minne blott 1973, Jugoslavien försvann 1991,  Tony Blair 2007 och att följande saker kommer att försvinna i framtiden: askkoppar 2010, telefonkataloger 2015, Taiwan 2020, rätstavnig 2022, dokusåpor 2030, Bangladesh 2035, koldioxidutsläpp 2040, Google 2049, framtidsforskare 2050, listor med förutsägelser 2051, fulhet några år senare och slutligen döden ytterligare några år efter det.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

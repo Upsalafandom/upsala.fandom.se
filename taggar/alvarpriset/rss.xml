@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/alvarpriset/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Sat, 14 Jun 2008 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Swecon 2009 och Alvarpriset</title>
+<pubDate>Sat, 14 Jun 2008 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/swecon-2009-och-alvarpriset/</link>
+<guid>https://upsala.fandom.se/blogg/swecon-2009-och-alvarpriset/</guid>
+<description>&lt;p&gt;Mer från ConFuse: &lt;a href="http://www.imagicon.se"&gt;Imagicon 2&lt;/a&gt; vann budet om att bli 2009 års Swecon. Nästa års Swecon kommer alltså att hållas i Stockhom den 16-18 oktober, med Liz Williams som hedersgäst.&lt;/p&gt;
+&lt;p&gt;Alvar Appeltoffts Minnespris för 2007 vanns av Anders Reuterswärd.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

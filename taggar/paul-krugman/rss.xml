@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/paul-krugman/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 17 Oct 2008 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Nobelpriset i psykohistoria</title>
+<pubDate>Fri, 17 Oct 2008 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/nobelpriset-i-psykohistoria/</link>
+<guid>https://upsala.fandom.se/blogg/nobelpriset-i-psykohistoria/</guid>
+<description>&lt;p&gt;Om nu någon har missat det: &lt;a href="https://en.wikipedia.org/wiki/Paul_Krugman"&gt;Paul Krugman&lt;/a&gt;, som får Nobelpriset i ekonomi i år, kom in på denna bana för att han &lt;a href="http://krugman.blogs.nytimes.com/2008/05/04/economic-science-fiction"&gt;ville bli psykohistoriker&lt;/a&gt;. (Om du -- liksom en kille jag pratade med häromdagen -- inte förstår vad jag syftar på har du läst för lite Isaac Asimov. Särskilt böckerna om Stiftelsen.)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://nielsenhayden.com/makinglight/archives/010673.html"&gt;Via Making Light&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

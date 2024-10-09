@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/erik-granstrom/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Thu, 20 Aug 2009 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Skurkens utanförskap</title>
+<pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/skurkens-utanforskap/</link>
+<guid>https://upsala.fandom.se/blogg/skurkens-utanforskap/</guid>
+<description>&lt;p&gt;Freke Räihä, som är student vid Växjö Universitet, har skrivit en uppsats i litteraturvetenskap om Erik Granströms serie av rollspelsäventyr kända som konfluxsviten. Uppsatsen &lt;a href="arkiv/freke_raiha-skurkens_utanforskap_i_erik_granstroms_konfluxsvit.doc"&gt;finns att läsa här&lt;/a&gt;, och Erik &lt;a href="http://erik-granstrom.blogspot.com/2009/08/utanforskap-i-konfluxsviten.html"&gt;kommenterar artikeln på sin blogg&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/sf-kongresser/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Tue, 27 May 2008 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Det var svårt det här…</title>
+<pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/det-var-svart-det-har/</link>
+<guid>https://upsala.fandom.se/blogg/det-var-svart-det-har/</guid>
+<description>&lt;p&gt;…att lyckas blogga kontinuerligt. Just nu är min stora fritidssysselsättning
+att föra över min och Linnéas bokkatalog från en FileMaker Pro-baserad
+databas till &lt;a href="http://www.librarything.com/catalog/anglemark"&gt;LibraryThing&lt;/a&gt;.
+Det går ganska geschwint, men det är ett par böcker, så det tar tid. Jag
+upptäcker dubletter som jag inte visste om - vårt ena exemplar av Michael
+Crichtons &lt;em&gt;Det stora tågrånet&lt;/em&gt; hade författarens namn felstavat på
+omslaget (&lt;em&gt;Chrichton&lt;/em&gt;) och hade därför lyckats smyga sig in obemärkt i
+katalogen - men det är ju en av finesserna med LibraryThing: eftersom
+databasen noterar att olika utgåvor är samma verk så får man hjälp med att
+identifiera dubletter. Nu tror jag i och för sig inte att vi har så värst
+många fler dubletter som vi inte visste om.&lt;/p&gt;
+&lt;p&gt;I övrigt fylls kvällarna av kommittémöten inför kongresser jag är med att
+arrangera - &lt;a href="http://kontext2008.se"&gt;Kontext&lt;/a&gt; och &lt;a href="http://www.imagicon.se"&gt;Imagicon
+2&lt;/a&gt; -, pubmöten samt
+&lt;a href="https://en.wikipedia.org/wiki/Angel_%28TV_series%29"&gt;Angel&lt;/a&gt;. Vi har aldrig
+varit särskilt förtjusta i Angel-figuren i Buffy, men tänkte att vi till slut
+skulle ge serien en chans, och det har den väl på det hela taget visat sig
+värd än så länge, även om den är ruskigt ojämn.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/autobiografi/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Thu, 01 Oct 2009 00:00:00 +0000</lastBuildDate>
+<item>
+<title>The Library, Willy Ley, and Me</title>
+<pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/the-library-willy-ley-and-me/</link>
+<guid>https://upsala.fandom.se/blogg/the-library-willy-ley-and-me/</guid>
+<description>&lt;p&gt;I was born in Far Rockaway NYC, the southernmost area of The Big Apple.
+Except for the Carnegie Library, my high school, and my many friends, it was
+an intellectual wasteland. You can see the Library here. It was built in 1906
+and was stocked with good reading. As a youngster of 15 in 1957 my interests
+were technical-scientific and my mind was empty. Then I got a card for the
+“adult” section. I immediately became a bookworm.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://upsala.fandom.se/blogg/the-library-willy-ley-and-me/library.jpeg" alt="Bibliotek" /&gt;&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

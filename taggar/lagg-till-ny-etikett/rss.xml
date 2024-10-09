@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/lagg-till-ny-etikett/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Thu, 16 Apr 2009 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Närläsning</title>
+<pubDate>Thu, 16 Apr 2009 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/narlasning/</link>
+<guid>https://upsala.fandom.se/blogg/narlasning/</guid>
+<description>&lt;p&gt;Det är väldigt fascinerande att följa med i &lt;a href="http://www.tor.com/index.php?option=com_content&amp;amp;view=blog&amp;amp;id=13692"&gt;Kate Nepveus omläsning av Lord of the Rings&lt;/a&gt;. På ett helt annat sätt, men i samma omfattning, är det kul att läsa &lt;a href="http://slacktivist.typepad.com/slacktivist/left_behind"&gt;den mycket grundliga sågningen av Left Behind på Slacktivist-bloggen&lt;/a&gt; (observera att man måste läsa baklänges om man vill börja från början, krångligt nog). Jag kan inte låta bli att både beundra och fascineras av den här typen av närläsning. Ibland är ju kommentarerna väldigt givande också, det är fördelen med att göra sånt här i bloggform. (På tor.com finns också på samma sätt omläsning av Wheel of Time och omtittning av Star Trek, men de har inte intresserat mig eftersom jag inte riktigt tagit del av de här verken till att börja med.)&lt;/p&gt;
+&lt;p&gt;Skulle jag kunna göra något liknande? Jag har grunnat på det ibland. Man vet ju aldrig. En vacker dag, om jag fastnar för något värdigt föremål för uppmärksamheten.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

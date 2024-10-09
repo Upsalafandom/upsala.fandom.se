@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/webbmagasin/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Wed, 05 Mar 2008 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Intresserad av sword &amp; sorcery?</title>
+<pubDate>Wed, 05 Mar 2008 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/intresserad-av-sword-sorcery/</link>
+<guid>https://upsala.fandom.se/blogg/intresserad-av-sword-sorcery/</guid>
+<description>&lt;p&gt;Jag hittade en länk till ett magasin med s&amp;amp;s berättelser. De finns i tryck och på nätet. Kanske kan vara värt att besöka?&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://flashingswords.sfreader.com/titlepage.asp"&gt;Flashing Swords
+&lt;/a&gt;&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

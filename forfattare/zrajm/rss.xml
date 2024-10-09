@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/forfattare/zrajm/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Tue, 02 Jan 2001 00:00:00 +0000</lastBuildDate>
+<item>
+<title>2 januari 2001</title>
+<pubDate>Tue, 02 Jan 2001 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/2-januari-2001/</link>
+<guid>https://upsala.fandom.se/blogg/2-januari-2001/</guid>
+<description>&lt;p&gt;Några svarta monoliter dök inte upp, men väl några (mer eller mindre suspekta) människor med följande namn: Anglemark (Johan), Ante (Andreas Gustafsson), Björn Lindström, Björn X Öqvist, Carl-Henrik Felth, Carl Johan Noreen, Joacim Jonsson, Luna (Daniel), Maria Jönsson, Marie Engfors, Samuel Åslund, Simon Åslund, Sten Thaning, Wahlbom (Anders) och därtill Åka (Anna Åkesson). En monolit har dock enligt pålitliga källor påträffats i Seattle, så helt besvikna ska vi kanske inte vara...&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

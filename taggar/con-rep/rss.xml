@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/con-rep/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Thu, 05 Jun 2008 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Con rep!</title>
+<pubDate>Thu, 05 Jun 2008 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/con-rep/</link>
+<guid>https://upsala.fandom.se/blogg/con-rep/</guid>
+<description>&lt;p&gt;Här på denna blogg, kommer någon inom en mycket snar framtid skriva en rapport från Åcon!&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

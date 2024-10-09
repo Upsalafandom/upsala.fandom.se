@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/charlie-jade/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 11 Jul 2008 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Tittar på teve</title>
+<pubDate>Fri, 11 Jul 2008 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/tittar-pa-teve/</link>
+<guid>https://upsala.fandom.se/blogg/tittar-pa-teve/</guid>
+<description>&lt;p&gt;I &lt;a href="./blogg/riktig_sf_film.md"&gt;Riktig sf-film&lt;/a&gt; tipsade jag om några filmer som trots valet av medium är god science fiction.&lt;/p&gt;
+&lt;p&gt;Nu tänkte jag göra samma sak igen, fast med teve.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

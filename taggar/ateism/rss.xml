@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/ateism/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Tue, 23 Jun 2009 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Intervju med Morrow</title>
+<pubDate>Tue, 23 Jun 2009 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/intervju-med-morrow/</link>
+<guid>https://upsala.fandom.se/blogg/intervju-med-morrow/</guid>
+<description>&lt;p&gt;James Morrow, som bland annat skrivit &lt;em&gt;Only Begotten Daughter&lt;/em&gt;, en
+bokpratsbok vi diskuterade för något år sedan, blir intervjuad i
+radioprogrammet &lt;em&gt;Atheists Talk&lt;/em&gt;. Man kan &lt;a href="http://mnatheists.org/content/view/355/1"&gt;lyssna på intervjun
+här&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;PS. För er som skriver här på bloggen kan jag meddela att jag just
+uppgraderat den till WordPress 2.8. Det finns en lite töntig &lt;a href="http://wordpress.org/development/2009/06/wordpress-28"&gt;film som
+sammanfattar de viktigaste
+nyheterna&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

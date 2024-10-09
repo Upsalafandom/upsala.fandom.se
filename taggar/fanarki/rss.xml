@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/fanarki/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Thu, 27 Nov 2008 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Fanarkismen</title>
+<pubDate>Thu, 27 Nov 2008 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/fanarkismen/</link>
+<guid>https://upsala.fandom.se/blogg/fanarkismen/</guid>
+<description>&lt;p&gt;Varför detta motstånd inom fandom mot att organisera sig? Den unga svenska fandomen var under de första åren på femtiotalet fylld av entusiastiska ungdomar som gång på gång försökte att skapa rikstäckande/skandinaviska föreningar eller federationer. Samma fenomen drabbade den amerikanska fandomen, och där lever fortfarande det mest framgångsrika försöket kvar, i form av &lt;a href="http://www.n3f.org"&gt;National Fantasy Fan Federation&lt;/a&gt; (som inte innebär att det är en organisation för fantasy, &lt;em&gt;fantasy&lt;/em&gt; var ett vanligt samlingsbegrepp på den tiden för det vi sedan några år tillbaka kallar fantastik, dvs sf, fantasy och övernaturlig skräck). Framgångsrikt, kallar jag det, och det var N3F förvisso, men det blev aldrig någon succé inom amerikansk fandom, utan började ganska snart föra ett eget liv, med medlemmar som ofta i övrigt inte hade någon kontakt med &lt;em&gt;mainstream fandom&lt;/em&gt;.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

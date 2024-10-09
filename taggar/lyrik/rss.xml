@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/lyrik/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Mon, 04 Jul 2005 00:00:00 +0000</lastBuildDate>
+<item>
+<title>En liten sång</title>
+<pubDate>Mon, 04 Jul 2005 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/en-liten-sang/</link>
+<guid>https://upsala.fandom.se/blogg/en-liten-sang/</guid>
+<description>&lt;p&gt;&lt;em&gt;Melodi: Den gamle jägarn&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;En liten sång till er &lt;br /&gt;
+kom hit och slå er ner &lt;br /&gt;
+för nu är juli här &lt;br /&gt;
+det första tisda'n är. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Refr:&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I Upsala på Williams krog &lt;br /&gt;
+på Åsgränd vid ett 'versitet, &lt;br /&gt;
+där träffas de som inte dog; &lt;br /&gt;
+de dricker öl och käkar klet. &lt;/p&gt;
+&lt;p&gt;En lite sång att minnas till &lt;br /&gt;
+kom hit från halv sju och drick &lt;br /&gt;
+och snacka skit och minns de cons &lt;br /&gt;
+ni vart på, här hos stygge Måns. \&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/ryssland/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Mon, 20 Apr 2009 00:00:00 +0000</lastBuildDate>
+<item>
+<title>En tidsmaskinsresa till Ryssland</title>
+<pubDate>Mon, 20 Apr 2009 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/en-tidsmaskinsresa-till-ryssland/</link>
+<guid>https://upsala.fandom.se/blogg/en-tidsmaskinsresa-till-ryssland/</guid>
+<description>&lt;p&gt;Ibland kan man ju i sf hitta historier som handlar om någon som reser i en tidsmaskin eller nåt liknande och får uppleva forna tider. Jag hittade en gång en väldigt charmig länk till en tidsmaskin och letade jag fram den igen. Kolla &lt;a href="http://www.loc.gov/exhibits/empire"&gt;det här&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Det är färgfoton från Ryssland, så som det såg ut innan revolutionen! Det är nog så nära en tidsmaskin man kan komma. Fascinerande.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

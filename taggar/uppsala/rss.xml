@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/uppsala/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Sun, 03 Oct 2010 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Macleod on Uppsala</title>
+<pubDate>Sun, 03 Oct 2010 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/macleod-on-uppsala/</link>
+<guid>https://upsala.fandom.se/blogg/macleod-on-uppsala/</guid>
+<description>&lt;p&gt;I moved to Uppsala on 8 Jan, 2009. The main reason for this move was medical, but SF played a significant role in motivating me to choose Uppsala over my other possibilities, Helsingfors and Leuven.  In 2003 I read some quite complementary words about the SF scene in Sweden. They were written by Ken MacLeod, a person whom I admire very much. Since I've mentioned this text to Upsalafans and Uppsala philosophers many times, I decided this morning to &lt;a href="http://kenmacleod.blogspot.com/2003/08/seeing-mars-from-uppsala-ive-recently.html"&gt;display it here&lt;/a&gt;. It's from Ken's excellent blog, but has appeared in other places as well.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

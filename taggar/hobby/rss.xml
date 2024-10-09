@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/hobby/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Mon, 17 Nov 2008 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Konstprat!</title>
+<pubDate>Mon, 17 Nov 2008 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/konstprat/</link>
+<guid>https://upsala.fandom.se/blogg/konstprat/</guid>
+<description>&lt;p&gt;&lt;em&gt;Torbjörn tar sig friheten att sprida sina vanföreställningar om konst, på
+det att de torde besvära honom (relativt sett) mindre (än andra).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Som vissa phanniska individer tvingats uppleva så är jag väldigt intresserad
+av konst. Konstprat har en stark tendens att flumma ut och bli ointressant,
+varför jag föredrar att producera det framför att konsumera det. Jag skulle
+med andra ord vilja åsamka er några av mina tankar i ämnet i form av frågor,
+för att sondera fhandoms åsikter:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hur kommer det sig att man ofta hör frågan &amp;quot;…men är det Konst?&amp;quot;, men väldigt sällan frågan &amp;quot;…men är det Musik?&amp;quot;&lt;/li&gt;
+&lt;li&gt;Kan en tavla med bara en röd fyrkant på vara ett konstverk?&lt;/li&gt;
+&lt;li&gt;Nämn något du tycker är &amp;quot;Konst&amp;quot;.&lt;/li&gt;
+&lt;li&gt;Nämn något som kallas konst av somliga, men där du inte håller med.&lt;/li&gt;
+&lt;li&gt;Är det bra med kulturstöd till konst?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;För mina egna svar, se kommentar.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

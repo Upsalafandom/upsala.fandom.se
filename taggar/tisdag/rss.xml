@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/tisdag/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Wed, 02 Jul 2008 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Tirsdag</title>
+<pubDate>Wed, 02 Jul 2008 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/tirsdag/</link>
+<guid>https://upsala.fandom.se/blogg/tirsdag/</guid>
+<description>&lt;p&gt;Det var Tisdag, och som det lätt blir på Tisdagar samlades diverse löst folk
+på Williams för att umgås. Ett gäng &lt;a href="https://catahya.net/"&gt;catahyaner&lt;/a&gt;
+(Therese, Christian, Mats, Cecilia och Peter) passade på att lysa upp
+tillställningen med sin närvaro, och någonstans runt två dussin personer bör
+ha närvarat under kvällen.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/forfattare/lennart-jansson/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Sat, 20 Mar 2010 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Dom över sf-författare</title>
+<pubDate>Sat, 20 Mar 2010 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/dom-over-sf-forfattare/</link>
+<guid>https://upsala.fandom.se/blogg/dom-over-sf-forfattare/</guid>
+<description>&lt;p&gt;Den kanadensiska sf-författaren Peter Watts förklarades i fredags skyldig
+till överfall på en gränsvakt i USA. Exakt vad som har hänt är inte helt
+klart men det verkar som om vakterna överreagerat rätt ordentligt. Det är
+inte första gången de har uppträtt arrogant, de verkar vara närmast
+slumpmässiga i sin ämbetsutövning. Domen kommer i slutet av april.
+Förhoppningsvis inte det strängaste tänkbara straffet, vilket är två år, för
+något som närmast motsvarar våld mot tjänsteman.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.cbc.ca/canada/toronto/story/2010/03/19/watts-convicted.html"&gt;Nyhetsartikel om händelsen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Bakgrunden finns på &lt;a href="https://en.wikipedia.org/wiki/Peter_Watts"&gt;https://en.wikipedia.org/wiki/Peter_Watts&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

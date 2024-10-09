@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Upsalafandom</title>
+<link>https://upsala.fandom.se</link>
+<description>Sällskap för vetenskaplig vitterhet</description>
+<language>sv</language>
+<atom:link href="https://upsala.fandom.se/taggar/e-larande/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Mon, 09 Feb 2009 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Stafetten 4: Matthias Palmér, Uppsala</title>
+<pubDate>Mon, 09 Feb 2009 00:00:00 +0000</pubDate>
+<link>https://upsala.fandom.se/blogg/stafetten-4-matthias-palmer-uppsala/</link>
+<guid>https://upsala.fandom.se/blogg/stafetten-4-matthias-palmer-uppsala/</guid>
+<description>&lt;blockquote&gt;
+&lt;p&gt;Detta är den fjärde av mina personliga intervjuer med människor inom svensk
+fandom eller som på annat vis är involverade i det här med sf och fantasy.
+Matthias föreslogs av det förra intervjuoffret, Kruse, med motiveringen att
+hon är nyfiken på vad han gör nuförtiden. &amp;quot;Han behöver en liten puff för att
+komma till ett månadsmöte!&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+</item>
+</channel>
+</rss>
